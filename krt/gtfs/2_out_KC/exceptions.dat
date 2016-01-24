@@ -1,0 +1,4 @@
+Worksheet:2_out_KC
+2015-12-12 11:34:57.495406   Required value missing. in calendar.
+2015-12-12 11:34:57.505112   IndexError. stop row i:3
+2015-12-12 11:34:57.505292   IndexError. stop row i:4

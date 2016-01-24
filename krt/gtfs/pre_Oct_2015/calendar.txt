@@ -1,0 +1,5 @@
+service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
+opdays,1,1,1,1,1,1,0,20140214,20151231
+weekdays,1,1,1,1,1,0,0,20140214,20151231
+sundays,0,0,0,0,0,0,1,20140214,20151231
+saturdays,0,0,0,0,0,1,0,20140214,20151231

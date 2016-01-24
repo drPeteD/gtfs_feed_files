@@ -1,0 +1,26 @@
+Worksheet:01_out_SA_KanTer
+<<<<<<< HEAD
+2016-01-15 14:59:37.291637   Required value missing. in calendar.
+=======
+2015-12-12 11:28:26.685257   Required value missing. in calendar.
+2015-12-12 11:28:27.666128   IndexError. stop row i:60
+2015-12-12 11:28:27.667399   Required value missing. trip line i:27 route_id:R1 service_id:weekday trip_id:01_SA_out_KanTer-a
+2015-12-12 11:28:27.668432   Required value missing. trip line i:27 route_id:R1 service_id:weekday trip_id:01_SA_out_KanTer-b
+2015-12-12 11:28:27.669739   Required value missing. trip line i:27 route_id:R1 service_id:weekday trip_id:01_SA_out_KanTer-c
+2015-12-12 11:28:27.670543   Required value missing. trip line i:27 route_id:R1 service_id:weekday trip_id:01_SA_out_KanTer-d
+2015-12-12 11:28:27.671569   Required value missing. trip line i:27 route_id:R1 service_id:weekday trip_id:01_SA_out_KanTer-e
+2015-12-12 11:28:27.673000   Required value missing. trip line i:27 route_id:R1 service_id:weekday trip_id:01_SA_out_KanTer-f
+2015-12-12 11:28:27.674185   Required value missing. trip line i:27 route_id:R1 service_id:weekday trip_id:01_SA_out_KanTer-g
+2015-12-12 11:28:27.675322   Required value missing. trip line i:27 route_id:R1 service_id:weekday trip_id:01_SA_out_KanTer-h
+2015-12-12 11:28:27.676599   Required value missing. trip line i:27 route_id:R1 service_id:weekday trip_id:01_SA_out_KanTer-i
+2015-12-12 11:28:27.677563   Required value missing. trip line i:27 route_id:R1 service_id:weekday trip_id:01_SA_out_KanTer-j
+2015-12-12 11:28:27.678644   Required value missing. trip line i:27 route_id:R1 service_id:weekday trip_id:01_SA_out_KanTer-k
+2015-12-12 11:28:27.679607   Required value missing. trip line i:27 route_id:R1 service_id:weekday trip_id:01_SA_out_KanTer-l
+2015-12-12 11:28:27.680830   Required value missing. trip line i:27 route_id:R1 service_id:weekday trip_id:01_SA_out_KanTer-m
+2015-12-12 11:28:27.682025   Required value missing. trip line i:27 route_id:R1 service_id:weekday trip_id:01_SA_out_KanTer-n
+2015-12-12 11:28:27.683150   Required value missing. trip line i:27 route_id:R1 service_id:weekday trip_id:01_SA_out_KanTer-o
+2015-12-12 11:28:27.684256   Required value missing. trip line i:27 route_id:R1 service_id:weekday trip_id:01_SA_out_KanTer-p
+2015-12-12 11:28:27.685784   Required value missing. trip line i:27 route_id:R1 service_id:weekday trip_id:01_SA_out_KanTer-q
+2015-12-12 11:28:27.686984   Required value missing. trip line i:27 route_id:R1 service_id:weekday trip_id:01_SA_out_KanTer-r
+2015-12-12 11:28:27.688028   Required value missing. trip line i:27 route_id:R1 service_id:weekday trip_id:01_SA_out_KanTer-s
+>>>>>>> 4a49a162cf44b1cfafd4e204bcb54ce4c87bd3e6

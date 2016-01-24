@@ -1,0 +1,142 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>R01-4</name>
+		<Placemark>
+			<name>Directions from Shop-N-Save to Barbour County Sr. Center</name>
+			<styleUrl>#line-1267FF-5-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-80.03679,39.14522,0.0 -80.03671,39.14524,0.0 -80.03652,39.14528,0.0 -80.03646,39.1453,0.0 -80.03632,39.14535,0.0 -80.03622,39.14539,0.0 -80.03614,39.14543,0.0 -80.03604,39.14549,0.0 -80.03591,39.14557,0.0 -80.03568,39.14571,0.0 -80.03491,39.1462,0.0 -80.0353,39.14659,0.0 -80.03547,39.14677,0.0 -80.03594,39.14671,0.0 -80.03636,39.14667,0.0 -80.03719,39.14653,0.0 -80.03735,39.14729,0.0 -80.03748,39.14771,0.0 -80.03786,39.14769,0.0 -80.03824,39.14766,0.0 -80.0384,39.14765,0.0 -80.03864,39.14767,0.0 -80.03874,39.14769,0.0 -80.03855,39.14841,0.0 -80.03655,39.14879,0.0 -80.03668,39.1492,0.0 -80.03673,39.14948,0.0 -80.03693,39.15011,0.0 -80.03712,39.15079,0.0 -80.03771,39.15113,0.0 -80.03802,39.15128,0.0 -80.03841000000001,39.15153,0.0 -80.03912,39.15193,0.0 -80.03993,39.15245,0.0 -80.03945,39.15294,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Shop-N-Save</name>
+			<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-80.036788,39.1452241,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>285</name>
+			<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-80.03491,39.1461961,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>345</name>
+			<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-80.0387368,39.1476869,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>355</name>
+			<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-80.0365497,39.148793,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>840</name>
+			<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-80.0399265,39.1524477,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Barbour County Sr. Center</name>
+			<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-80.0394497,39.1529414,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Style id='icon-503-DB4436-nodesc-normal'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-503-DB4436-nodesc-highlight'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-503-DB4436-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-DB4436-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-DB4436-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-1267FF-5-nodesc-normal'>
+			<LineStyle>
+				<color>ffFF6712</color>
+				<width>5</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='line-1267FF-5-nodesc-highlight'>
+			<LineStyle>
+				<color>ffFF6712</color>
+				<width>8.0</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='line-1267FF-5-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-1267FF-5-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-1267FF-5-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>

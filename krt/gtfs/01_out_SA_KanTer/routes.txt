@@ -1,0 +1,2 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+R1,krt,01,,Saint Albans via Kanawha Terrace,3,http://rideonkrt.com/schedules15/KVRTA-Rt-1sa-v3web.pdf,FF9900,FFFFFF

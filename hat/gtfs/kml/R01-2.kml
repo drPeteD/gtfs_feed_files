@@ -1,0 +1,160 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>R01-2</name>
+		<Placemark>
+			<name>Directions from Barbour County Sr. Center to Maple Terrace Apts.</name>
+			<styleUrl>#line-1267FF-5-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-80.03945,39.15294,0.0 -80.03928,39.15311,0.0 -80.04057,39.15387,0.0 -80.0406,39.15385,0.0 -80.0412,39.15336,0.0 -80.04137,39.15328,0.0 -80.04163,39.15350000000001,0.0 -80.04182,39.15365,0.0 -80.04146,39.15395,0.0 -80.04128,39.15409,0.0 -80.04107,39.15425,0.0 -80.04234,39.15521,0.0 -80.04246,39.15529,0.0 -80.04254,39.15534,0.0 -80.0428,39.15557,0.0 -80.04303,39.15575,0.0 -80.0433,39.15595,0.0 -80.04348,39.15609,0.0 -80.04371,39.15625,0.0 -80.04418,39.15663,0.0 -80.04412,39.15681,0.0 -80.04374,39.15778,0.0 -80.04333,39.15896,0.0 -80.04288,39.16012,0.0 -80.0434,39.16022,0.0 -80.04387000000001,39.16034,0.0 -80.04344,39.16147000000001,0.0 -80.04301,39.16259,0.0 -80.04266,39.16252,0.0 -80.04254,39.16249,0.0 -80.04203,39.16237,0.0 -80.04182,39.16231,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Barbour County Sr. Center</name>
+			<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-80.0394497,39.1529414,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>27 Pike St, Philippi, WV 26416, USA</name>
+			<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-80.0405997,39.15385,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>830</name>
+			<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-80.0413672,39.1532781,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Stevens St, Philippi, WV 26416, USA</name>
+			<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-80.04128,39.1540918,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>415</name>
+			<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-80.0441802,39.1566302,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>410</name>
+			<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-80.04288,39.1601169,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>405</name>
+			<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-80.0438738,39.1603433,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Maple Terrace Apts.</name>
+			<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-80.0418199,39.1623137,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Style id='icon-503-DB4436-nodesc-normal'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-503-DB4436-nodesc-highlight'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-503-DB4436-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-DB4436-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-DB4436-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-1267FF-5-nodesc-normal'>
+			<LineStyle>
+				<color>ffFF6712</color>
+				<width>5</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='line-1267FF-5-nodesc-highlight'>
+			<LineStyle>
+				<color>ffFF6712</color>
+				<width>8.0</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='line-1267FF-5-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-1267FF-5-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-1267FF-5-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>

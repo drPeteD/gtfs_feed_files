@@ -1,0 +1,9 @@
+service_id,date,exception_type
+<<<<<<< HEAD
+=======
+service_id,20151225,2
+service_id,20160101,2
+service_id,20160704,2
+service_id,20161124,2
+service_id,20161225,2
+>>>>>>> 4a49a162cf44b1cfafd4e204bcb54ce4c87bd3e6

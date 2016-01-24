@@ -1,0 +1,2 @@
+feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date, feed_version
+Dr.Pete.Dailey@gmail.com,https://bitbucket.org/Dr_Pete/hat-transit-data,en,20151120,20161119,20151121.1

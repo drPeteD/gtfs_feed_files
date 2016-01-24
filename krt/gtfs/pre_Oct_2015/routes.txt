@@ -1,0 +1,22 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+R1,krt,1,St. Albans - West Charleston,,3,http://www.rideonkrt.com/site/pdf/KRT-Rt%201out.pdf,336699,FFFFFF
+R2,krt,2,State Capitol/Kanawha City/Cabin Creek,,3,http://www.rideonkrt.com/site/pdf/KRT-Rt%202out.pdf,99CCFF,333333
+R3,krt,3,Charleston - Dunbar/Institute/Nitro,,3,http://www.rideonkrt.com/site/pdf/10292013/Nitro%20Inbound.pdf,999933,333333
+R4,krt,4,North Charleston - State Capitol,,3,http://www.rideonkrt.com/site/pdf/KRT-Rt%204out.pdf,666699,FFFFFF
+R5,krt,5,Charleston - Tyler Mountain/Cross Lanes/Nitro,,3,http://www.rideonkrt.com/site/pdf/KRT-Rt%205in.pdf,CC9933,333333
+R6,krt,6,Charleston - Elkview,,3,http://www.rideonkrt.com/site/pdf/KRT-Rt%206in.pdf,006666,FFFFFF
+R7,krt,7,Charleston - Campbells Creek,,3,http://www.rideonkrt.com/site/pdf/KRT-Rt%207in.pdf,3399FF,333333
+R8,krt,8,Charleston - Sissonville,,3,http://www.rideonkrt.com/site/pdf/KRT-Rt%208in.pdf,993300,FFFFFF
+R9,krt,9,Charleston - Montgomery/Eskdale,,3,http://www.rideonkrt.com/site/pdf/KRT-Rt%209in.pdf,CCCC99,333333
+R11,krt,11,Oakridge Dr./Wertz Ave.,,3,http://www.rideonkrt.com/site/pdf/KRT-Rt%2011out.pdf,666666,FFFFFF
+R12,krt,12,Garrison Ave/Hillsdale,,3,http://www.rideonkrt.com/site/pdf/KRT-Rt%2012out.pdf,FFCC66,333333
+R13,krt,13,Beech Avenue,,3,http://www.rideonkrt.com/site/pdf/KRT-Rt%2013out.pdf,6699CC,FFFFFF
+R15,krt,15,South Hills Loop,,3,http://www.rideonkrt.com/site/pdf/KRT-Rt%2015out.pdf,663366,FFFFFF
+R16,krt,16,South Park/CAMC Memorial,,3,http://www.rideonkrt.com/site/pdf/KRT-Rt%2016out.pdf,9999CC,333333
+R18,krt,18,Fort Hill-Montrose,,3,http://www.rideonkrt.com/site/pdf/KRT-Rt%2018out.pdf,CCCCCC,333333
+R20,krt,20,Virginia Street - State Capitol,,3,http://www.rideonkrt.com/site/pdf/KRT-Rt%2020out.pdf,CCCC66,333333
+R21,krt,21,Charleston - Southridge/Alum Creek,,3,http://www.rideonkrt.com/site/pdf/KRT-Rt%2021out.pdf,CC6600,FFFFFF
+R22,krt,22,Charleston - Montgomery/Quincy,,3,http://www.rideonkrt.com/site/pdf/KRT-Rt%2022out.pdf,9999FF,333333
+R23,krt,23,Charleston - Clendenin,,3,http://www.rideonkrt.com/site/pdf/KRT-Rt%2023in.pdf,0066CC,FFFFFF
+R28,krt,28,Charleston - Hillcrest/Northgate,,3,http://www.rideonkrt.com/site/pdf/KRT-Rt%2028in.pdf,99CCCC,333333
+R34,krt,34,State Capitol - Elk City,,3,http://www.rideonkrt.com/site/pdf/KRT-Rt%2034%20Trolleyin.pdf,999999,FFFFFF

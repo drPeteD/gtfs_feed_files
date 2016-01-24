@@ -1,0 +1,6 @@
+stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type, parent_station,stop_timezone,wheelchair_boarding
+A,,Barbour County Sr. Center,,39.1529799,-80.0395160,,,,,,
+D,,Shop-N-Save,,39.1449718,-80.0367105,,,,,,
+E,,Maple Terrace Apts.,,39.1621886,-80.0418777,,,,,,
+F,,Hyden Greene Apts.,,39.1569110,-80.0394030,,,,,,
+B,,Baughman Towers,,39.1478374,-80.0384381,,,,,,

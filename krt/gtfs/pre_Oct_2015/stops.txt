@@ -1,0 +1,105 @@
+stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,stop_timezone,wheelchair_boarding,zone
+119&Coop,,US 119 at Coopers Creek,,38.4060941,-81.541069,2,,,,,1,1
+119&Dutch,,US 119 & Dutch Road,,38.3893961,-81.593309,1,,,,,1,0
+119&Frame,,US 119 & Frame Road,,38.4425898,-81.480875,3,,,,,1,2
+119&Jordan,,US 119 & Jordan Creek,,38.4721608,-81.399103,5,,,,,1,4
+119&Lilly,,US 119 & Lilly Street,,38.3643865,-81.612987,1,,,,,1,0
+12th&Dun,,12th Street & Dunbar Avenue,,38.3604442,-81.739901,1,,,,,1,0
+26th&7th,,26th Street & 7th Avenue,,38.3765707,-81.676765,1,,,,,1,0
+35th,,35th Street,,38.3316172,-81.598334,1,,,,,1,0
+36th&McC,,36th Street & MacCorkle Avenue,,38.3282500,-81.596650,1,,,,,1,0
+3rd_mont,,Montgomery Amtrak,,38.1807440,-81.324311,6,,,,,1,5
+40th&rt25,,40th Street & Route 25 (Nitro),,38.4319758,-81.837598,1,,,,,1,0
+4th&Stock,,4th & Stockton Streets,,38.3685789,-81.663662,1,,,,,1,0
+57th&McC,,57th Street & MacCorkle Avenue,,38.3138059,-81.568497,1,,,,,1,0
+61Handley,,WV Rt 61 at Handley,,38.1871921,-81.365272,5,,,,,1,4
+61Pratt,,WV Rt 61 at Pratt,,38.2090256,-81.384037,5,,,,,1,4
+67th&McC,,67th Street & MacCorkle Avenue,,38.2981044,-81.565397,2,,,,,1,1
+aaa,,AAA,,38.3154740,-81.713609,2,,,,,1,1
+AJackson,,Andrew Jackson Middle School,,38.4272608,-81.784265,2,,,,,1,1
+Alcoa&SP,,Alcoa Drive & South Park Road,,38.3063008,-81.608913,1,,,,,1,0
+AlumElem,,Alum Creek Elementary School,,38.2713520,-81.776310,3,,,,,1,2
+Ashton,,Ashton Place,,38.3413156,-81.678073,1,,,,,1,0
+B&B,,Bridge Road & Walnut Road,,38.3412540,-81.642421,1,,,,,1,0
+Bigley&Ash,,Bigley Avenue & Ash Street,,38.3597460,-81.625848,1,,,,,1,0
+Bigley&Wash,,Bigley Avenue & Washington Street,,38.3609953,-81.641191,1,,,,,1,0
+Bonham,,Bonham Dairy,,38.4098860,-81.669404,1,,,,,1,0
+CA&Wash,,Califorina & Washington Streets,,38.3375520,-81.610098,1,,,,,1,0
+CabinCrk,,US Highway 61 at Cabin Creek,,38.1963960,-81.480183,3,,,,,1,2
+CabinCrk&Dawes,,Cabin Creek at Dawes,,38.1430330,-81.452234,4,,,,,1,3
+CabinCrk&DryBranch,,Cabin Creek at Dry Branch,,38.1791067,-81.465904,4,,,,,1,3
+CapHigh,,Capital High School,,38.3721748,-81.574498,1,,,,,1,0
+capMark,,Capitol Market,,38.3528724,-81.628697,1,,,,,1,0
+CedarGrove,,Cedar Grove Mall,,38.2161425,-81.425005,4,,,,,1,3
+Char&Gar,,Charmac & Garrison Streets,,38.3880211,-81.628642,1,,,,,1,0
+Cinco,,Cinco Bridge,,38.3339670,-81.460295,3,,,,,1,2
+Clearvw&Siss,,Clearview Heights & Sissonville Drive,,38.4788036,-81.670291,2,,,,,1,1
+Clendinin,,Clendenin,,38.4893334,-81.344662,5,,,,,1,4
+D&6th,,D Street & 6th Avenue,,38.3677300,-81.695926,1,,,,,1,0
+D&7th,,D Street & 7th Avenue,,38.3686010,-81.696516,1,,,,,1,0
+Dave&Thorne,,Daverton & Thorne,,38.3567026,-81.664036,1,,,,,1,0
+DavisCrk,,Davis Creek,,38.3408170,-81.701766,1,,,,,1,0
+Eav,,East Avenue,,38.3352732,-81.600657,1,,,,,1,0
+Ebank,,East Bank,,38.2164481,-81.442423,4,,,,,1,3
+Elkview_kmart,,Elkview K-Mart,,38.4575198,-81.500671,3,,,,,1,2
+Elmore&Preston,,Elmore & Preston Streets,,38.3683433,-81.615522,1,,,,,1,0
+Eskdale,,Cabin Creek at Eskdale,,38.0915139,-81.443198,4,,,,,1,3
+Fisher&Siss,,Fisher's Branch Road & Sissonville Drive,,38.4444931,-81.671349,2,,,,,1,1
+Front&31,,CAMC Memorial Hospital,,38.3296248,-81.604664,1,,,,,1,0
+Grnbr&Wash,,Greenbrier & Washington Streets,,38.3391461,-81.613896,1,,,,,1,0
+hdepot,,Home Depot,,38.3168310,-81.716330,2,,,,,1,1
+HillApt,,Hillcrest Apartments,,38.3400461,-81.606724,1,,,,,1,0
+Hills&Cresc,,Hillsdale & Crescent,,38.3647178,-81.615833,1,,,,,1,0
+hwy8,,WV Rt 6 at Montgomery,,38.1806150,-81.319838,6,,,,,1,5
+icerink,,Ice Rink Shelter,,38.3389770,-81.712977,2,,,,,1,1
+KanBlvd&Malden,,Kanawha Boulevard at Malden,,38.3008409,-81.556948,1,,,,,1,0
+kohls,,RHL Boulevard Shelter South,,38.3275740,-81.714540,2,,,,,1,1
+lee&md,,Lee and Maryland Streets,,38.3626149,-81.644244,1,,,,,1,0
+leeLeo,,Lee Street East & Leon Sullivan Way,,38.348504,-81.630766,1,,,,,1,0
+leeTri,,Lee Street Triangle,,38.350564,-81.633097,1,,,,,1,0
+Leewood,,Cabin Creek at Leewood,,38.0676772,-81.449885,5,,,,,1,4
+lowes,,Dudley Farms Plaza,,38.3276950,-81.713019,2,,,,,1,1
+LPTerr,,Littlepage Terrace,,38.3754217,-81.665406,1,,,,,1,0
+LTM,,Laidley Transit Mall,,38.3518375,-81.635520,1,,,,,1,0
+Marmet,,Marmet,,38.2404640,-81.559672,2,,,,,1,1
+marquee,,Marquee Cinema,,38.3189250,-81.713458,2,,,,,1,1
+McC&RL,,MacCorkle Avenue & Rock Lake Drive,,38.3538315,-81.740491,1,,,,,1,0
+McQ&Beech,,McQueen Avenue & Beech Street,,38.3727510,-81.655203,1,,,,,1,0
+Millertown,,Millertown,,38.5112194,-81.637065,3,,,,,1,2
+Mont&Glen,,Montrose Drive & Glendale Avenue,,38.3567173,-81.685635,1,,,,,1,0
+Montg,,Montgomery,,38.1803374,-81.328330,6,,,,,1,5
+NitroMarket,,Nitro Market Place,,38.4114326,-81.810443,2,,,,,1,1
+Oak&Oak,,Oakwood & Oakhurst,,38.3421100,-81.663808,1,,,,,1,0
+Oak&Serene,,Oakridge & Serene,,38.3408231,-81.589515,1,,,,,1,0
+Ohley,,Cabin Creek at Ohley,,38.1069963,-81.449009,4,,,,,1,3
+OldFaschek,,WV Rt 214 & Little Coal River Road (Old FasChek),,38.2862030,-81.807293,3,,,,,1,2
+PaintCrk,,Paint Creek at Gallagher,,38.1731543,-81.401731,5,,,,,1,4
+PatrickPlaza,,Patrick Street Plaza,,38.3684450,-81.670503,1,,,,,1,0
+Pied&Camp,,Piedmont & Campbell's Creek,,38.3098898,-81.555188,2,,,,,1,1
+quick,,Quick Road,,38.4009822,-81.482624,3,,,,,1,2
+quincy,,Quincy Mall,,38.2064290,-81.506398,3,,,,,,2
+quincyWalmart,,Quincy Center WalMart,,38.202517,-81.504832,3,,,,,1,2
+qur&cap,,Quarrier and Capitol Streets,,38.3499174,-81.635127,1,,,,,1,0
+regJail,,Kanawha Regional Jail,,38.3114990,-81.710302,2,,,,,1,1
+riverside,,Riverside High School,,38.2084150,-81.511728,3,,,,,1,2
+riverwalk,,Riverwalk Plaza,,38.3649248,-81.708664,1,,,,,1,0
+sams,,Sam's Club,,38.3226840,-81.712972,2,,,,,1,1
+sissdr,,Sissonville Drive,,38.5281588,-81.630982,3,,,,,1,2
+springhillapts,,Springhill Apartments,,38.3493772,-81.616766,1,,,,,1,0
+stalbansstat,,St. Albans Station,,38.3870845,-81.838202,2,,,,,1,1
+target,,RHL Boulevard Shelter North,,38.3360480,-81.712971,2,,,,,1,1
+thomasgroc,,Thomas Grocery,,38.3207379,-81.426665,3,,,,,1,2
+ticketmaster,,TicketMaster,,38.3620438,-81.597951,1,,,,,1,0
+trace&dudley,,Trace Fork Boulevard & Dudley Farms,,38.3325002,-81.712776,2,,,,,1,1
+trg,,TRG,,38.3143590,-81.720036,2,,,,,1,1
+tristateresort,,Tri-State Resort,,38.4201970,-81.811245,2,,,,,1,1
+tylermnt,,Top of Tyler Mountain,,38.4280425,-81.747658,2,,,,,1,1
+us35&us60,,US 35 & US 60,,38.3970020,-81.855959,2,,,,,1,1
+walmart,,Walmart,,38.3208660,-81.715740,2,,,,,1,1
+WashEliz,,Washington Street East & Elizabeth Street,Bus Shelter # 09-19,38.340776,-81.617333,1,,,,,1,0
+WashMorris,,Washington Street East & Morris Street (CAMC Gen. Outbound),,38.346651,-81.626781,1,,,,,1,0
+WashRuff,,Washington Street East & Ruffner Avenue,,38.343738,-81.622960,1,,,,,1,0
+Wdwrd&Hdly,,Woodward & Headley Drives,,38.3887727,-81.688178,1,,,,,1,0
+wilkes&sfort,,Wilkes Drive & South Fort Drive,,38.3503988,-81.657230,1,,,,,1,0
+wvsu,,West Virginia State University,,38.3832821,-81.765854,1,,,,,1,0
+YMCA,,YMCA,,38.3440742,-81.604583,1,,,,,1,0

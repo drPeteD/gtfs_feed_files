@@ -1,0 +1,18 @@
+stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type, parent_station,stop_timezone,wheelchair_boarding
+100003,,Laidley Station stop C,Stop C,38.352010,-81.635180,,,0,900001,,1
+201006,,Sears Shelter,Shelter,38.3541,-81.64004,,,,,,1
+501007,,Civic Center,,38.3551,-81.64136,,,,,,
+501008,,Randolph & Pensylvania Ave,,38.35847,-81.64466,,,,,,
+201009,,Randolph & Tennessee Streets\,Shelter,38.35924,-81.64526,,,,,,1
+501010,,Randolph & Maryland Ave,,38.36136,-81.64697,,,,,,
+501011,,Delaware & Central Ave,,38.36212,-81.6485,,,,,,
+501012,,Central & Vine St,,38.36261,-81.6501,,,,,,
+501013,,Central & Park Ave,,38.364,-81.65296,,,,,,
+501014,,Central & Glenwood,,38.36462,-81.65427,,,,,,
+501015,,Central & Hunt Ave,,38.36627,-81.65769,,,,,,
+501016,,4th & Florida St,,38.36694,-81.6601,,,,,,
+101017,,4th & Stockton Bench,Bench,38.36845,-81.66337,,,0,,,1
+501018,,4th & Patrick St,,38.36949,-81.6656,,,,,,
+501019,,Kmart,,38.37035,-81.66741,,,,,,
+501020,,Dollar Tree,,38.36879,-81.66869,,,,,,
+101021,,Big Lots Shelter,Shelter,38.3684,-81.670503,,,1,,,

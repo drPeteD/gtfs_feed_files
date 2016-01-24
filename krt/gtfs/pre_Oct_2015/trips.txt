@@ -1,0 +1,1187 @@
+route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,shape_id,wheelchair_accessible
+R1,weekdays,1out_g_1, St. Albans,,0,,1_KT_Out,1
+R1,weekdays,1out_g_2, St. Albans,,0,,1_KT_Out,1
+R1,weekdays,1out_g_3, St. Albans,,0,,1_KT_Out,1
+R1,weekdays,1out_ltm_1, St. Albans,,0,,1_KT_Out,1
+R1,weekdays,1out_ltm_2, St. Albans,,0,,1_KT_Out,1
+R1,weekdays,1out_rt2_1, St. Albans,,0,,1_KT_Out,1
+R1,weekdays,1out_rt2_2, St. Albans,,0,,1_KT_Out,1
+R1,weekdays,1out_rt2_3, St. Albans,,0,,1_KT_Out,1
+R1,weekdays,1out_rt2_4, St. Albans,,0,,1_KT_Out,1
+R1,weekdays,1out_rt2_5, St. Albans,,0,,1_KT_Out,1
+R1,weekdays,1out_rt2_6, St. Albans,,0,,1_KT_Out,1
+R1,weekdays,1out_rt2_7, St. Albans,,0,,1_KT_Out,1
+R1,weekdays,1out_rt2_8, St. Albans,,0,,1_KT_Out,1
+R1,weekdays,1out_rt2_9, St. Albans,,0,,1_KT_Out,1
+R1,weekdays,1out_rt2_10, St. Albans,,0,,1_KT_Out,1
+R1,weekdays,1out_rt2_11, St. Albans,,0,,1_KT_Out,1
+R1,weekdays,1out_rt2_12, St. Albans,,0,,1_KT_Out,1
+R1,weekdays,1out_rt2_13, St. Albans,,0,,1_KT_Out,1
+R1,weekdays,1out_rt2_14, St. Albans,,0,,1_KT_Out,1
+R1,weekdays,1out_rt2_15, St. Albans,,0,,1_KT_Out,1
+R1,weekdays,1out_rt2_16, St. Albans,,0,,1_KT_Out,1
+R1,weekdays,1out_rt2_17, St. Albans,,0,,1_KT_Out,1
+R1,weekdays,1out_rt2_18, St. Albans,,0,,1_KT_Out,1
+R1,weekdays,1out_rt2_19, St. Albans,,0,,1_KT_Out,1
+R1,weekdays,1out_rt2_20, St. Albans,,0,,1_KT_Out,1
+R1,weekdays,1out_rt2_21, St. Albans,,0,,1_KT_Out,1
+R1,weekdays,1out_rt2_22, St. Albans,,0,,1_KT_Out,1
+R1,weekdays,1out_rt2_23, St. Albans,,0,,1_MC_Out,1
+R1,weekdays,1out_rt2_24, St. Albans,,0,,1_KT_Out,1
+R1,weekdays,1out_rt2_25, St. Albans,,0,,1_KT_Out,1
+R1,weekdays,1out_rt2_26, St. Albans,,0,,1_KT_Out,1
+R1,weekdays,1out_rt2_27, St. Albans,,0,,1_KT_Out,1
+R1,weekdays,1out_rt2_28, St. Albans,,0,,1_KT_Out,1
+R1,weekdays,1out_rt2_29, St. Albans,,0,,1_KT_Out,1
+R1,weekdays,1out_rt2_30, St. Albans,,0,,1_KT_Out,1
+R1,weekdays,1out_rt2_31, St. Albans,,0,,1_KT_Out,1
+R1,weekdays,1out_rt2_32, St. Albans,,0,,1_KT_Out,1
+R1,weekdays,1out_rt22_1, St. Albans,,0,,1_KT_Out,1
+R1,weekdays,1out_rt22_2, St. Albans,,0,,1_KT_Out,1
+R1,weekdays,1out_rt22_3, St. Albans,,0,,1_KT_Out,1
+R1,weekdays,1out_rt22_4, St. Albans,,0,,1_KT_Out,1
+R1,weekdays,1out_rt22_5, St. Albans,,0,,1_KT_Out,1
+R1,weekdays,1out_rt22_6, St. Albans,,0,,1_KT_Out,1
+R1,weekdays,1out_rt22_7, St. Albans,,0,,1_KT_Out,1
+R1,weekdays,1out_rt22_8, St. Albans,,0,,1_KT_Out,1
+R1,weekdays,1out_rt22_9, St. Albans,,0,,1_KT_Out,1
+R1,weekdays,1out_rt22_10, St. Albans,,0,,1_KT_Out,1
+R1,weekdays,1out_rt22_11, St. Albans,,0,,1_KT_Out,1
+R1,weekdays,1out_rt22_12, St. Albans,,0,,1_KT_Out,1
+R1,weekdays,1out_rt22_13, St. Albans,,0,,1_KT_Out,1
+R1,weekdays,1out_rt22_14, St. Albans,,0,,1_KT_Out,1
+R1,weekdays,1out_rt22_15, St. Albans,,0,,1_KT_Out,1
+R1,weekdays,1out_rt22_16, St. Albans,,0,,1_KT_Out,1
+R1,weekdays,1out_rt22_17, St. Albans,,0,,1_KT_Out,1
+R1,weekdays,1out_rt22_18, St. Albans,,0,,1_KT_Out,1
+R1,weekdays,1out_rt22_19, St. Albans,,0,,1_KT_Out,1
+R1,weekdays,1out_rt22_20, St. Albans,,0,,1_KT_Out,1
+R1,weekdays,1out_rt22_21, St. Albans,,0,,1_KT_Out,1
+R1,weekdays,1out_rt22_22, St. Albans,,0,,1_KT_Out,1
+R1,weekdays,1out_rt22_23, St. Albans,,0,,1_KT_Out,1
+R1,weekdays,1out_rt22_24, St. Albans,,0,,1_KT_Out,1
+R1,weekdays,1out_rt22_25, St. Albans,,0,,1_KT_Out,1
+R1,weekdays,1out_rt22_26, St. Albans,,0,,1_KT_Out,1
+R1,weekdays,1out_rt22_27, St. Albans,,0,,1_KT_Out,1
+R1,weekdays,1out_rt22_28, St. Albans,,0,,1_KT_Out,1
+R1,weekdays,1out_rt22_29, St. Albans,,0,,1_KT_Out,1
+R1,weekdays,1in_g_1, Capitol,,1,,1_KT_In,1
+R1,weekdays,1in_g_2, Capitol,,1,,1_MC_In,1
+R1,weekdays,1in_rt2_1, Capitol,,1,,1_KT_In,1
+R1,weekdays,1in_rt2_2, Capitol,,1,,1_KT_In,1
+R1,weekdays,1in_rt2_3, Capitol,,1,,1_KT_In,1
+R1,weekdays,1in_rt2_4, Capitol,,1,,1_KT_In,1
+R1,weekdays,1in_rt2_5, Capitol,,1,,1_KT_In,1
+R1,weekdays,1in_rt2_6, Capitol,,1,,1_KT_In,1
+R1,weekdays,1in_rt2_7, Capitol,,1,,1_KT_In,1
+R1,weekdays,1in_rt2_8, Capitol,,1,,1_KT_In,1
+R1,weekdays,1in_rt2_9, Capitol,,1,,1_KT_In,1
+R1,weekdays,1in_rt2_10, Capitol,,1,,1_KT_In,1
+R1,weekdays,1in_rt2_11, Capitol,,1,,1_KT_In,1
+R1,weekdays,1in_rt2_12, Capitol,,1,,1_KT_In,1
+R1,weekdays,1in_rt2_13, Capitol,,1,,1_KT_In,1
+R1,weekdays,1in_rt2_14, Capitol,,1,,1_KT_In,1
+R1,weekdays,1in_rt2_15, Capitol,,1,,1_KT_In,1
+R1,weekdays,1in_rt2_16, Capitol,,1,,1_KT_In,1
+R1,weekdays,1in_rt2_17, Capitol,,1,,1_KT_In,1
+R1,weekdays,1in_rt2_18, Capitol,,1,,1_KT_In,1
+R1,weekdays,1in_rt2_19, Capitol,,1,,1_KT_In,1
+R1,weekdays,1in_rt2_20, Capitol,,1,,1_KT_In,1
+R1,weekdays,1in_rt2_21, Capitol,,1,,1_KT_In,1
+R1,weekdays,1in_rt2_22, Capitol,,1,,1_KT_In,1
+R1,weekdays,1in_rt2_23, Capitol,,1,,1_KT_In,1
+R1,weekdays,1in_rt2_24, Capitol,,1,,1_KT_In,1
+R1,weekdays,1in_rt2_25, Capitol,,1,,1_KT_In,1
+R1,weekdays,1in_rt2_26, Capitol,,1,,1_KT_In,1
+R1,weekdays,1in_rt2_27, Capitol,,1,,1_KT_In,1
+R1,weekdays,1in_rt2_28, Capitol,,1,,1_KT_In,1
+R1,weekdays,1in_rt2_29, Capitol,,1,,1_KT_In,1
+R1,weekdays,1in_rt9_1, Capitol,,1,,1_KT_In,1
+R1,weekdays,1in_rt9_2, Capitol,,1,,1_KT_In,1
+R1,weekdays,1in_rt21_1, Capitol,,1,,1_KT_In,1
+R1,weekdays,1in_rt22_1, Capitol,,1,,1_KT_In,1
+R1,weekdays,1in_rt22_2, Capitol,,1,,1_KT_In,1
+R1,weekdays,1in_rt22_3, Capitol,,1,,1_KT_In,1
+R1,weekdays,1in_rt22_4, Capitol,,1,,1_KT_In,1
+R1,weekdays,1in_rt22_5, Capitol,,1,,1_KT_In,1
+R1,weekdays,1in_rt22_6, Capitol,,1,,1_KT_In,1
+R1,weekdays,1in_rt22_7, Capitol,,1,,1_KT_In,1
+R1,weekdays,1in_rt22_8, Capitol,,1,,1_MC_In,1
+R1,weekdays,1in_rt22_9, Capitol,,1,,1_KT_In,1
+R1,weekdays,1in_rt22_10, Capitol,,1,,1_KT_In,1
+R1,weekdays,1in_rt22_11, Capitol,,1,,1_KT_In,1
+R1,weekdays,1in_rt22_12, Capitol,,1,,1_KT_In,1
+R1,weekdays,1in_rt22_13, Capitol,,1,,1_KT_In,1
+R1,weekdays,1in_rt22_14, Capitol,,1,,1_KT_In,1
+R1,weekdays,1in_rt22_15, Capitol,,1,,1_KT_In,1
+R1,weekdays,1in_rt22_16, Capitol,,1,,1_KT_In,1
+R1,weekdays,1in_rt22_17, Capitol,,1,,1_KT_In,1
+R1,weekdays,1in_rt22_18, Capitol,,1,,1_KT_In,1
+R1,weekdays,1in_rt22_19, Capitol,,1,,1_KT_In,1
+R1,weekdays,1in_rt22_20, Capitol,,1,,1_KT_In,1
+R1,weekdays,1in_rt22_21, Capitol,,1,,1_KT_In,1
+R1,weekdays,1in_rt22_22, Capitol,,1,,1_KT_In,1
+R1,weekdays,1in_rt22_23, Capitol,,1,,1_KT_In,1
+R1,weekdays,1in_rt22_24, Capitol,,1,,1_KT_In,1
+R1,weekdays,1in_rt22_25, Capitol,,1,,1_KT_In,1
+R1,weekdays,1in_rt22_26, Capitol,,1,,1_KT_In,1
+R1,weekdays,1in_rt22_27, Capitol,,1,,1_KT_In,1
+R1,weekdays,1in_rt22_28, Capitol,,1,,1_KT_In,1
+R1,weekdays,1in_rt22_29, Capitol,,1,,1_KT_In,1
+R1,sundays,1out_g_6, St. Albans,,0,,1_KT_Out,1
+R1,sundays,1out_rt2_64, St. Albans,,0,,1_KT_Out,1
+R1,sundays,1out_rt2_65, St. Albans,,0,,1_KT_Out,1
+R1,sundays,1out_rt2_66, St. Albans,,0,,1_KT_Out,1
+R1,sundays,1out_rt2_67, St. Albans,,0,,1_KT_Out,1
+R1,sundays,1out_rt2_68, St. Albans,,0,,1_KT_Out,1
+R1,sundays,1out_rt2_69, St. Albans,,0,,1_KT_Out,1
+R1,sundays,1out_rt2_70, St. Albans,,0,,1_KT_Out,1
+R1,sundays,1out_rt2_71, St. Albans,,0,,1_KT_Out,1
+R1,sundays,1out_rt2_72, St. Albans,,0,,1_KT_Out,1
+R1,sundays,1out_rt2_73, St. Albans,,0,,1_KT_Out,1
+R1,sundays,1in_g_10, Capitol,,1,,1_MC_In,1
+R1,sundays,1in_rt2_55, Capitol,,1,,1_KT_In,1
+R1,sundays,1in_rt2_56, Capitol,,1,,1_KT_In,1
+R1,sundays,1in_rt2_57, Capitol,,1,,1_KT_In,1
+R1,sundays,1in_rt2_58, Capitol,,1,,1_KT_In,1
+R1,sundays,1in_rt2_59, Capitol,,1,,1_KT_In,1
+R1,sundays,1in_rt2_60, Capitol,,1,,1_KT_In,1
+R1,sundays,1in_rt2_61, Capitol,,1,,1_KT_In,1
+R1,sundays,1in_rt2_62, Capitol,,1,,1_KT_In,1
+R1,sundays,1in_rt2_63, Capitol,,1,,1_KT_In,1
+R1,saturdays,1out_g_4, St. Albans,,0,,1_KT_Out,1
+R1,saturdays,1out_g_5, St. Albans,,0,,1_KT_Out,1
+R1,saturdays,1out_ltm_3, St. Albans,,0,,1_KT_Out,1
+R1,saturdays,1out_rt1_1, St. Albans,,0,,1_KT_Out,1
+R1,saturdays,1out_rt1_2, St. Albans,,0,,1_MC_Out,1
+R1,saturdays,1out_rt2_33, St. Albans,,0,,1_KT_Out,1
+R1,saturdays,1out_rt2_34, St. Albans,,0,,1_KT_Out,1
+R1,saturdays,1out_rt2_35, St. Albans,,0,,1_KT_Out,1
+R1,saturdays,1out_rt2_36, St. Albans,,0,,1_KT_Out,1
+R1,saturdays,1out_rt2_37, St. Albans,,0,,1_KT_Out,1
+R1,saturdays,1out_rt2_38, St. Albans,,0,,1_KT_Out,1
+R1,saturdays,1out_rt2_39, St. Albans,,0,,1_KT_Out,1
+R1,saturdays,1out_rt2_40, St. Albans,,0,,1_KT_Out,1
+R1,saturdays,1out_rt2_41, St. Albans,,0,,1_KT_Out,1
+R1,saturdays,1out_rt2_42, St. Albans,,0,,1_KT_Out,1
+R1,saturdays,1out_rt2_43, St. Albans,,0,,1_KT_Out,1
+R1,saturdays,1out_rt2_44, St. Albans,,0,,1_KT_Out,1
+R1,saturdays,1out_rt2_45, St. Albans,,0,,1_KT_Out,1
+R1,saturdays,1out_rt2_47, St. Albans,,0,,1_KT_Out,1
+R1,saturdays,1out_rt2_48, St. Albans,,0,,1_KT_Out,1
+R1,saturdays,1out_rt2_49, St. Albans,,0,,1_KT_Out,1
+R1,saturdays,1out_rt2_50, St. Albans,,0,,1_KT_Out,1
+R1,saturdays,1out_rt2_51, St. Albans,,0,,1_KT_Out,1
+R1,saturdays,1out_rt2_52, St. Albans,,0,,1_KT_Out,1
+R1,saturdays,1out_rt2_53, St. Albans,,0,,1_KT_Out,1
+R1,saturdays,1out_rt2_54, St. Albans,,0,,1_KT_Out,1
+R1,saturdays,1out_rt2_55, St. Albans,,0,,1_KT_Out,1
+R1,saturdays,1out_rt2_56, St. Albans,,0,,1_KT_Out,1
+R1,saturdays,1out_rt2_57, St. Albans,,0,,1_KT_Out,1
+R1,saturdays,1out_rt2_58, St. Albans,,0,,1_KT_Out,1
+R1,saturdays,1out_rt2_59, St. Albans,,0,,1_KT_Out,1
+R1,saturdays,1out_rt2_60, St. Albans,,0,,1_KT_Out,1
+R1,saturdays,1out_rt2_61, St. Albans,,0,,1_KT_Out,1
+R1,saturdays,1out_rt2_62, St. Albans,,0,,1_KT_Out,1
+R1,saturdays,1out_rt2_63, St. Albans,,0,,1_KT_Out,1
+R1,saturdays,1out_rt22_30, St. Albans,,0,,1_KT_Out,1
+R1,saturdays,1out_rt22_31, St. Albans,,0,,1_KT_Out,1
+R1,saturdays,1out_rt22_32, St. Albans,,0,,1_KT_Out,1
+R1,saturdays,1out_rt22_33, St. Albans,,0,,1_KT_Out,1
+R1,saturdays,1out_rt22_34, St. Albans,,0,,1_KT_Out,1
+R1,saturdays,1out_rt22_35, St. Albans,,0,,1_KT_Out,1
+R1,saturdays,1out_rt22_36, St. Albans,,0,,1_KT_Out,1
+R1,saturdays,1out_rt22_37, St. Albans,,0,,1_KT_Out,1
+R1,saturdays,1out_rt22_38, St. Albans,,0,,1_KT_Out,1
+R1,saturdays,1out_rt22_39, St. Albans,,0,,1_KT_Out,1
+R1,saturdays,1out_rt22_40, St. Albans,,0,,1_KT_Out,1
+R1,saturdays,1out_rt22_41, St. Albans,,0,,1_KT_Out,1
+R1,saturdays,1out_rt22_42, St. Albans,,0,,1_KT_Out,1
+R1,saturdays,1out_rt22_43, St. Albans,,0,,1_KT_Out,1
+R1,saturdays,1out_rt22_44, St. Albans,,0,,1_KT_Out,1
+R1,saturdays,1out_rt22_45, St. Albans,,0,,1_KT_Out,1
+R1,saturdays,1out_rt22_46, St. Albans,,0,,1_KT_Out,1
+R1,saturdays,1out_rt22_47, St. Albans,,0,,1_KT_Out,1
+R1,saturdays,1out_rt22_48, St. Albans,,0,,1_KT_Out,1
+R1,saturdays,1out_rt22_49, St. Albans,,0,,1_KT_Out,1
+R1,saturdays,1out_rt22_50, St. Albans,,0,,1_KT_Out,1
+R1,saturdays,1out_rt22_51, St. Albans,,0,,1_KT_Out,1
+R1,saturdays,1out_rt22_52, St. Albans,,0,,1_KT_Out,1
+R1,saturdays,1out_rt22_53, St. Albans,,0,,1_KT_Out,1
+R1,saturdays,1in_g_3, Capitol,,1,,1_KT_In,1
+R1,saturdays,1in_g_4, Capitol,,1,,1_KT_In,1
+R1,saturdays,1in_g_5, Capitol,,1,,1_KT_In,1
+R1,saturdays,1in_g_6, Capitol,,1,,1_KT_In,1
+R1,saturdays,1in_g_7, Capitol,,1,,1_KT_In,1
+R1,saturdays,1in_g_8, Capitol,,1,,1_KT_In,1
+R1,saturdays,1in_g_9, Capitol,,1,,1_MC_In,1
+R1,saturdays,1in_35st_1, Capitol,,1,,1_KT_In,1
+R1,saturdays,1in_35st_2, Capitol,,1,,1_KT_In,1
+R1,saturdays,1in_35st_3, Capitol,,1,,1_KT_In,1
+R1,saturdays,1in_35st_4, Capitol,,1,,1_KT_In,1
+R1,saturdays,1in_35st_5, Capitol,,1,,1_KT_In,1
+R1,saturdays,1in_rt2_30, Capitol,,1,,1_KT_In,1
+R1,saturdays,1in_rt2_31, Capitol,,1,,1_KT_In,1
+R1,saturdays,1in_rt2_32, Capitol,,1,,1_KT_In,1
+R1,saturdays,1in_rt2_33, Capitol,,1,,1_KT_In,1
+R1,saturdays,1in_rt2_34, Capitol,,1,,1_KT_In,1
+R1,saturdays,1in_rt2_35, Capitol,,1,,1_KT_In,1
+R1,saturdays,1in_rt2_36, Capitol,,1,,1_KT_In,1
+R1,saturdays,1in_rt2_37, Capitol,,1,,1_KT_In,1
+R1,saturdays,1in_rt2_38, Capitol,,1,,1_KT_In,1
+R1,saturdays,1in_rt2_39, Capitol,,1,,1_KT_In,1
+R1,saturdays,1in_rt2_40, Capitol,,1,,1_MC_In,1
+R1,saturdays,1in_rt2_41, Capitol,,1,,1_KT_In,1
+R1,saturdays,1in_rt2_42, Capitol,,1,,1_KT_In,1
+R1,saturdays,1in_rt2_43, Capitol,,1,,1_KT_In,1
+R1,saturdays,1in_rt2_44, Capitol,,1,,1_KT_In,1
+R1,saturdays,1in_rt2_45, Capitol,,1,,1_KT_In,1
+R1,saturdays,1in_rt2_46, Capitol,,1,,1_KT_In,1
+R1,saturdays,1in_rt2_47, Capitol,,1,,1_KT_In,1
+R1,saturdays,1in_rt2_48, Capitol,,1,,1_KT_In,1
+R1,saturdays,1in_rt2_49, Capitol,,1,,1_KT_In,1
+R1,saturdays,1in_rt2_50, Capitol,,1,,1_KT_In,1
+R1,saturdays,1in_rt2_51, Capitol,,1,,1_KT_In,1
+R1,saturdays,1in_rt2_52, Capitol,,1,,1_KT_In,1
+R1,saturdays,1in_rt2_53, Capitol,,1,,1_KT_In,1
+R1,saturdays,1in_rt2_54, Capitol,,1,,1_KT_In,1
+R1,saturdays,1in_rt22_30, Capitol,,1,,1_KT_In,1
+R1,saturdays,1in_rt22_31, Capitol,,1,,1_KT_In,1
+R1,saturdays,1in_rt22_32, Capitol,,1,,1_KT_In,1
+R1,saturdays,1in_rt22_33, Capitol,,1,,1_KT_In,1
+R1,saturdays,1in_rt22_34, Capitol,,1,,1_KT_In,1
+R1,saturdays,1in_rt22_35, Capitol,,1,,1_KT_In,1
+R1,saturdays,1in_rt22_36, Capitol,,1,,1_KT_In,1
+R1,saturdays,1in_rt22_37, Capitol,,1,,1_MC_In,1
+R1,saturdays,1in_rt22_38, Capitol,,1,,1_KT_In,1
+R1,saturdays,1in_rt22_39, Capitol,,1,,1_KT_In,1
+R1,saturdays,1in_rt22_40, Capitol,,1,,1_KT_In,1
+R1,saturdays,1in_rt22_41, Capitol,,1,,1_KT_In,1
+R1,saturdays,1in_rt22_42, Capitol,,1,,1_KT_In,1
+R1,saturdays,1in_rt22_43, Capitol,,1,,1_KT_In,1
+R1,saturdays,1in_rt22_44, Capitol,,1,,1_KT_In,1
+R1,saturdays,1in_rt22_45, Capitol,,1,,1_KT_In,1
+R1,saturdays,1in_rt22_46, Capitol,,1,,1_KT_In,1
+R1,saturdays,1in_rt22_47, Capitol,,1,,1_KT_In,1
+R1,saturdays,1in_rt22_48, Capitol,,1,,1_KT_In,1
+R1,saturdays,1in_rt22_49, Capitol,,1,,1_KT_In,1
+R1,saturdays,1in_rt22_50, Capitol,,1,,1_KT_In,1
+R1,saturdays,1in_rt22_51, Capitol,,1,,1_KT_In,1
+R1,saturdays,1in_rt22_52, Capitol,,1,,1_KT_In,1
+R11,weekdays,11out_5,Oakridge,,0,,11_Out,1
+R11,weekdays,11in_5,Laidley Transit Mall Transit Mall,,1,,11_In,1
+R11,opdays,11out_1,Oakridge,,0,,11_Out,1
+R11,opdays,11out_2,Oakridge,,0,,11_Out,1
+R11,opdays,11out_3,Oakridge,,0,,11_Out,1
+R11,opdays,11out_4,Oakridge,,0,,11_Out,1
+R11,opdays,11out_6,Oakridge,,0,,11_Out,1
+R11,opdays,11out_7,Oakridge,,0,,11_Out,1
+R11,opdays,11out_8,Oakridge,,0,,11_Out,1
+R11,opdays,11out_9,Oakridge,,0,,11_Out,1
+R11,opdays,11in_1,Laidley Transit Mall,,1,,11_In,1
+R11,opdays,11in_2,Laidley Transit Mall,,1,,11_In,1
+R11,opdays,11in_3,Laidley Transit Mall,,1,,11_In,1
+R11,opdays,11in_4,Laidley Transit Mall,,1,,11_In,1
+R11,opdays,11in_6,Laidley Transit Mall,,1,,11_In,1
+R11,opdays,11in_7,Laidley Transit Mall,,1,,11_In,1
+R11,opdays,11in_8,Laidley Transit Mall,,1,,11_In,1
+R12,weekdays,12out_odell_1,Elmore,,0,,12_Out,1
+R12,weekdays,12out_odell_2,Elmore,,0,,12_Out,1
+R12,weekdays,12out_odell_3,Elmore,,0,,12_Out,1
+R12,weekdays,12out_full_1,Elmore,,0,,12_Out,1
+R12,weekdays,12out_full_2,Elmore,,0,,12_Out,1
+R12,weekdays,12out_full_3,Elmore,,0,,12_Out,1
+R12,weekdays,12out_full_4,Elmore,,0,,12_Out,1
+R12,weekdays,12in_bigley_1,Laidley Transit Mall,,1,,12_In,1
+R12,weekdays,12in_bigley_2,Laidley Transit Mall,,1,,12_In,1
+R12,weekdays,12in_bigley_3,Laidley Transit Mall,,1,,12_In,1
+R12,weekdays,12in_bigley_4,Laidley Transit Mall,,1,,12_In,1
+R12,weekdays,12in_full_1,Laidley Transit Mall,,1,,12_In,1
+R12,weekdays,12in_full_2,Laidley Transit Mall,,1,,12_In,1
+R12,weekdays,12in_full_3,Laidley Transit Mall,,1,,12_In,1
+R12,saturdays,12out_odell_4,Elmore,,0,,12_Out,1
+R12,saturdays,12out_full_5,Elmore,,0,,12_Out,1
+R12,saturdays,12out_char_1,Elmore,,0,,12_Out,1
+R12,saturdays,12out_char_2,Elmore,,0,,12_Out,1
+R12,saturdays,12out_char_3,Elmore,,0,,12_Out,1
+R12,saturdays,12out_char_4,Elmore,,0,,12_Out,1
+R12,saturdays,12out_char_5,Elmore,,0,,12_Out,1
+R12,saturdays,12in_full_4,Laidley Transit Mall,,1,,12_In,1
+R12,saturdays,12in_elmore_1,Laidley Transit Mall,,1,,12_In,1
+R12,saturdays,12in_char_1,Laidley Transit Mall,,1,,12_In,1
+R12,saturdays,12in_char_2,Laidley Transit Mall,,1,,12_In,1
+R12,saturdays,12in_char_3,Laidley Transit Mall,,1,,12_In,1
+R12,saturdays,12in_char_4,Laidley Transit Mall,,1,,12_In,1
+R12,saturdays,12in_char_5,Laidley Transit Mall,,1,,12_In,1
+R13,weekdays,13out_1,Beech Ave,,0,,13_Out,1
+R13,weekdays,13out_2,Beech Ave,,0,,13_Out,1
+R13,weekdays,13out_3,Beech Ave,,0,,13_Out,1
+R13,weekdays,13out_4,Beech Ave,,0,,13_Out,1
+R13,weekdays,13out_5,Beech Ave,,0,,13_Out,1
+R13,weekdays,13out_6,Beech Ave,,0,,13_Out,1
+R13,weekdays,13out_7,Beech Ave,,0,,13_Out,1
+R13,weekdays,13out_8,Beech Ave,,0,,13_Out,1
+R13,weekdays,13out_9,Beech Ave,,0,,13_Out,1
+R13,weekdays,13out_10,Beech Ave,,0,,13_Out,1
+R13,weekdays,13out_11,Beech Ave,,0,,13_Out,1
+R13,weekdays,13in_1,Laidley Transit Mall,,1,,13_In,1
+R13,weekdays,13in_2,Laidley Transit Mall,,1,,13_In,1
+R13,weekdays,13in_3,Laidley Transit Mall,,1,,13_In,1
+R13,weekdays,13in_4,Laidley Transit Mall,,1,,13_In,1
+R13,weekdays,13in_5,Laidley Transit Mall,,1,,13_In,1
+R13,weekdays,13in_6,Laidley Transit Mall,,1,,13_In,1
+R13,weekdays,13in_7,Laidley Transit Mall,,1,,13_In,1
+R13,weekdays,13in_8,Laidley Transit Mall,,1,,13_In,1
+R13,weekdays,13in_9,Laidley Transit Mall,,1,,13_In,1
+R13,weekdays,13in_10,Laidley Transit Mall,,1,,13_In,1
+R13,saturdays,13out_12,Beech Ave,,0,,13_Out,1
+R13,saturdays,13out_13,Beech Ave,,0,,13_Out,1
+R13,saturdays,13out_14,Beech Ave,,0,,13_Out,1
+R13,saturdays,13out_15,Beech Ave,,0,,13_Out,1
+R13,saturdays,13out_16,Beech Ave,,0,,13_Out,1
+R13,saturdays,13out_17,Beech Ave,,0,,13_Out,1
+R13,saturdays,13out_18,Beech Ave,,0,,13_Out,1
+R13,saturdays,13out_19,Beech Ave,,0,,13_Out,1
+R13,saturdays,13out_20,Beech Ave,,0,,13_Out,1
+R13,saturdays,13out_21,Beech Ave,,0,,13_Out,1
+R13,saturdays,13in_11,Laidley Transit Mall,,1,,13_In,1
+R13,saturdays,13in_12,Laidley Transit Mall,,1,,13_In,1
+R13,saturdays,13in_13,Laidley Transit Mall,,1,,13_In,1
+R13,saturdays,13in_14,Laidley Transit Mall,,1,,13_In,1
+R13,saturdays,13in_15,Laidley Transit Mall,,1,,13_In,1
+R13,saturdays,13in_16,Laidley Transit Mall,,1,,13_In,1
+R13,saturdays,13in_17,Laidley Transit Mall,,1,,13_In,1
+R13,saturdays,13in_18,Laidley Transit Mall,,1,,13_In,1
+R13,saturdays,13in_19,Laidley Transit Mall,,1,,13_In,1
+R13,saturdays,13in_20,Laidley Transit Mall,,1,,13_In,1
+R13,saturdays,13in_21,Laidley Transit Mall,,1,,13_In,1
+R15,weekdays,15am_oak_1,South Hills,,0,,15_Loop_AM,1
+R15,weekdays,15am_1,South Hills,,0,,15_Loop_AM,1
+R15,weekdays,15am_2,South Hills,,0,,15_Loop_AM,1
+R15,weekdays,15am_3,South Hills,,0,,15_Loop_AM,1
+R15,weekdays,15am_4,South Hills,,0,,15_Loop_AM,1
+R15,weekdays,15am_5,South Hills,,0,,15_Loop_AM,1
+R15,weekdays,15am_6,South Hills,,0,,15_Loop_AM,1
+R15,weekdays,15am_7,South Hills,,0,,15_Loop_AM,1
+R15,weekdays,15pm_1,South Hills,,0,,15_Loop,1
+R15,weekdays,15pm_2,South Hills,,0,,15_Loop,1
+R15,weekdays,15pm_3,South Hills,,0,,15_Loop,1
+R15,weekdays,15pm_4,South Hills,,0,,15_Loop,1
+R15,weekdays,15pm_5,South Hills,,0,,15_Loop,1
+R15,weekdays,15pm_6,South Hills,,0,,15_Loop,1
+R15,weekdays,15pm_7,South Hills,,0,,15_Loop,1
+R15,saturdays,15am_oak_2,South Hills,,0,,15_Loop_AM,1
+R15,saturdays,15am_8,South Hills,,0,,15_Loop_AM,1
+R15,saturdays,15am_9,South Hills,,0,,15_Loop_AM,1
+R15,saturdays,15am_10,South Hills,,0,,15_Loop_AM,1
+R15,saturdays,15pm_8,South Hills,,0,,15_Loop,1
+R15,saturdays,15pm_9,South Hills,,0,,15_Loop,1
+R15,saturdays,15pm_10,South Hills,,0,,15_Loop,1
+R15,saturdays,15pm_11,South Hills,,0,,15_Loop,1
+R15,saturdays,15pm_12,South Hills,,0,,15_Loop,1
+R15,saturdays,15pm_13,South Hills,,0,,15_Loop,1
+R16,weekdays,16out_1,Alcoa,,0,,16_Out,1
+R16,weekdays,16out_2,Alcoa,,0,,16_Out,1
+R16,weekdays,16out_3,Alcoa,,0,,16_Out,1
+R16,weekdays,16out_4,Alcoa,,0,,16_Out,1
+R16,weekdays,16out_5,Alcoa,,0,,16_Out,1
+R16,weekdays,16out_6,Alcoa,,0,,16_Out,1
+R16,weekdays,16out_7,Alcoa,,0,,16_Out,1
+R16,weekdays,16in_1,Laidley Transit Mall,,1,,16_In,1
+R16,weekdays,16in_2,Laidley Transit Mall,,1,,16_In,1
+R16,weekdays,16in_3,Laidley Transit Mall,,1,,16_In,1
+R16,weekdays,16in_4,Laidley Transit Mall,,1,,16_In,1
+R16,weekdays,16in_5,Laidley Transit Mall,,1,,16_In,1
+R16,weekdays,16in_6,Laidley Transit Mall,,1,,16_In,1
+R16,weekdays,16in_7,Laidley Transit Mall,,1,,16_In,1
+R16,saturdays,16out_8,Alcoa,,0,,16_Out,1
+R16,saturdays,16out_9,Alcoa,,0,,16_Out,1
+R16,saturdays,16out_10,Alcoa,,0,,16_Out,1
+R16,saturdays,16out_11,Alcoa,,0,,16_Out,1
+R16,saturdays,16out_12,Alcoa,,0,,16_Out,1
+R16,saturdays,16out_13,Alcoa,,0,,16_Out,1
+R16,saturdays,16out_14,Alcoa,,0,,16_Out,1
+R16,saturdays,16in_8,Laidley Transit Mall,,1,,16_In,1
+R16,saturdays,16in_9,Laidley Transit Mall,,1,,16_In,1
+R16,saturdays,16in_10,Laidley Transit Mall,,1,,16_In,1
+R16,saturdays,16in_11,Laidley Transit Mall,,1,,16_In,1
+R16,saturdays,16in_12,Laidley Transit Mall,,1,,16_In,1
+R16,saturdays,16in_13,Laidley Transit Mall,,1,,16_In,1
+R16,saturdays,16in_14,Laidley Transit Mall,,1,,16_In,1
+R18,opdays,18out_1,Riverwalk,,0,,18_TP_Out,1
+R18,opdays,18out_2,Riverwalk,,0,,18_TP_Out,1
+R18,opdays,18out_3,Riverwalk,,0,,18_TP_Out,1
+R18,opdays,18out_4,Riverwalk,,0,,18_TP_Out,1
+R18,opdays,18out_5,Riverwalk,,0,,18_TP_Out,1
+R18,opdays,18out_dst_1,Riverwalk,,0,,18_TP_Out,1
+R18,opdays,18in_1,Laidley Transit Mall,,1,,18_TP_In,1
+R18,opdays,18in_2,Laidley Transit Mall,,1,,18_TP_In,1
+R18,opdays,18in_3,Laidley Transit Mall,,1,,18_TP_In,1
+R18,opdays,18in_4,Laidley Transit Mall,,1,,18_TP_In,1
+R18,opdays,18in_5,Laidley Transit Mall,,1,,18_TP_In,1
+R18,opdays,18in_dst_1,Laidley Transit Mall,,1,,18_TP_In,1
+R2,weekdays,2out_g_1,Eastbank,,0,,2_Out,1
+R2,weekdays,2out_g_2,Eastbank,,0,,2_KM_Out,1
+R2,weekdays,2out_rt1_1,Eastbank,,0,,2_Out,1
+R2,weekdays,2out_rt1_2,Eastbank,,0,,2_Out,1
+R2,weekdays,2out_rt1_3,Eastbank,,0,,2_KM_Out,1
+R2,weekdays,2out_rt1_4,Eastbank,,0,,2_Out,1
+R2,weekdays,2out_rt1_5,Eastbank,,0,,2_Out,1
+R2,weekdays,2out_rt1_6,Eastbank,,0,,2_Out,1
+R2,weekdays,2out_rt1_7,Eastbank,,0,,2_KM_Out,1
+R2,weekdays,2out_rt1_8,Eastbank,,0,,2_Out,1
+R2,weekdays,2out_rt1_9,Eastbank,,0,,2_KM_Out,1
+R2,weekdays,2out_rt1_10,Eastbank,,0,,2_Out,1
+R2,weekdays,2out_rt1_11,Eastbank,,0,,2_Out,1
+R2,weekdays,2out_rt1_12,Eastbank,,0,,2_Out,1
+R2,weekdays,2out_rt1_13,Eastbank,,0,,2_KM_Out,1
+R2,weekdays,2out_rt1_14,Eastbank,,0,,2_Out,1
+R2,weekdays,2out_rt1_15,Eastbank,,0,,2_Out,1
+R2,weekdays,2out_rt1_16,Eastbank,,0,,2_Out,1
+R2,weekdays,2out_rt1_17,Eastbank,,0,,2_KM_Out,1
+R2,weekdays,2out_rt1_18,Eastbank,,0,,2_Out,1
+R2,weekdays,2out_rt1_19,Eastbank,,0,,2_Out,1
+R2,weekdays,2out_rt1_20,Eastbank,,0,,2_Out,1
+R2,weekdays,2out_rt1_21,Eastbank,,0,,2_KM_Out,1
+R2,weekdays,2out_rt1_22,Eastbank,,0,,2_Out,1
+R2,weekdays,2out_rt1_23,Eastbank,,0,,2_KM_Out,1
+R2,weekdays,2out_rt1_24,Eastbank,,0,,2_Out,1
+R2,weekdays,2out_rt1_25,Eastbank,,0,,2_Out,1
+R2,weekdays,2out_rt1_26,Eastbank,,0,,2_KM_Out,1
+R2,weekdays,2out_rt1_27,Eastbank,,0,,2_Out,1
+R2,weekdays,2out_rt1_28,Eastbank,,0,,2_Out,1
+R2,weekdays,2out_rt1_29,Eastbank,,0,,2_Out,1
+R2,weekdays,2out_rt23_1,Eastbank,,0,,2_Out,1
+R2,weekdays,2in_rt1_1,Stockton,,1,,2_In,1
+R2,weekdays,2in_rt1_2,Stockton,,1,,2_In,1
+R2,weekdays,2in_rt1_3,Stockton,,1,,2_In,1
+R2,weekdays,2in_rt1_4,Stockton,,1,,2_In,1
+R2,weekdays,2in_rt1_5,Stockton,,1,,2_In,1
+R2,weekdays,2in_rt1_6,Stockton,,1,,2_In,1
+R2,weekdays,2in_rt1_7,Stockton,,1,,2_In,1
+R2,weekdays,2in_rt1_8,Stockton,,1,,2_In,1
+R2,weekdays,2in_rt1_9,Stockton,,1,,2_KM_In,1
+R2,weekdays,2in_rt1_10,Stockton,,1,,2_In,1
+R2,weekdays,2in_rt1_11,Stockton,,1,,2_KM_In,1
+R2,weekdays,2in_rt1_12,Stockton,,1,,2_In,1
+R2,weekdays,2in_rt1_13,Stockton,,1,,2_KM_In,1
+R2,weekdays,2in_rt1_14,Stockton,,1,,2_In,1
+R2,weekdays,2in_rt1_15,Stockton,,1,,2_In,1
+R2,weekdays,2in_rt1_16,Stockton,,1,,2_In,1
+R2,weekdays,2in_rt1_17,Stockton,,1,,2_KM_In,1
+R2,weekdays,2in_rt1_18,Stockton,,1,,2_In,1
+R2,weekdays,2in_rt1_19,Stockton,,1,,2_KM_In,1
+R2,weekdays,2in_rt1_20,Stockton,,1,,2_In,1
+R2,weekdays,2in_rt1_21,Stockton,,1,,2_KM_In,1
+R2,weekdays,2in_rt1_22,Stockton,,1,,2_In,1
+R2,weekdays,2in_rt1_23,Stockton,,1,,2_In,1
+R2,weekdays,2in_rt1_24,Stockton,,1,,2_In,1
+R2,weekdays,2in_rt1_25,Stockton,,1,,2_In,1
+R2,weekdays,2in_g_1,Stockton,,1,,2_In,1
+R2,weekdays,2in_g_2,Stockton,,1,,2_In,1
+R2,weekdays,2in_g_3,Stockton,,1,,2_In,1
+R2,weekdays,2in_g_4,Stockton,,1,,2_In,1
+R2,weekdays,2in_g_5,Stockton,,1,,2_KM_In,1
+R2,weekdays,2in_g_6,Stockton,,1,,2_In,1
+R2,weekdays,2in_g_7,Stockton,,1,,2_In,1
+R2,weekdays,2in_g_8,Stockton,,1,,2_KM_In,1
+R2,sundays,2out_g_5,Eastbank,,0,,2_Out,1
+R2,sundays,2out_rt1_57,Eastbank,,0,,2_Out,1
+R2,sundays,2out_rt1_58,Eastbank,,0,,2_Out,1
+R2,sundays,2out_rt1_59,Eastbank,,0,,2_Out,1
+R2,sundays,2out_rt1_60,Eastbank,,0,,2_Out,1
+R2,sundays,2out_rt1_61,Eastbank,,0,,2_Out,1
+R2,sundays,2out_rt1_62,Eastbank,,0,,2_Out,1
+R2,sundays,2out_rt1_63,Eastbank,,0,,2_Out,1
+R2,sundays,2out_rt1_64,Eastbank,,0,,2_Out,1
+R2,sundays,2out_rt1_65,Eastbank,,0,,2_Out,1
+R2,sundays,2out_rt1_66,Eastbank,,0,,2_Out,1
+R2,sundays,2in_rt1_53,Stockton,,1,,2_In,1
+R2,sundays,2in_rt1_54,Stockton,,1,,2_In,1
+R2,sundays,2in_rt1_55,Stockton,,1,,2_In,1
+R2,sundays,2in_rt1_56,Stockton,,1,,2_In,1
+R2,sundays,2in_rt1_57,Stockton,,1,,2_In,1
+R2,sundays,2in_rt1_58,Stockton,,1,,2_In,1
+R2,sundays,2in_rt1_59,Stockton,,1,,2_In,1
+R2,sundays,2in_rt1_60,Stockton,,1,,2_In,1
+R2,sundays,2in_g_13,Stockton,,1,,2_In,1
+R2,saturdays,2out_g_3,Eastbank,,0,,2_KM_Out,1
+R2,saturdays,2out_g_4,Eastbank,,0,,2_Out,1
+R2,saturdays,2out_rt1_30,Eastbank,,0,,2_Out,1
+R2,saturdays,2out_rt1_31,Eastbank,,0,,2_KM_Out,1
+R2,saturdays,2out_rt1_32,Eastbank,,0,,2_Out,1
+R2,saturdays,2out_rt1_33,Eastbank,,0,,2_KM_Out,1
+R2,saturdays,2out_rt1_34,Eastbank,,0,,2_Out,1
+R2,saturdays,2out_rt1_35,Eastbank,,0,,2_KM_Out,1
+R2,saturdays,2out_rt1_36,Eastbank,,0,,2_Out,1
+R2,saturdays,2out_rt1_37,Eastbank,,0,,2_Out,1
+R2,saturdays,2out_rt1_38,Eastbank,,0,,2_Out,1
+R2,saturdays,2out_rt1_39,Eastbank,,0,,2_Out,1
+R2,saturdays,2out_rt1_40,Eastbank,,0,,2_Out,1
+R2,saturdays,2out_rt1_41,Eastbank,,0,,2_Out,1
+R2,saturdays,2out_rt1_42,Eastbank,,0,,2_Out,1
+R2,saturdays,2out_rt1_43,Eastbank,,0,,2_Out,1
+R2,saturdays,2out_rt1_44,Eastbank,,0,,2_Out,1
+R2,saturdays,2out_rt1_45,Eastbank,,0,,2_Out,1
+R2,saturdays,2out_rt1_46,Eastbank,,0,,2_Out,1
+R2,saturdays,2out_rt1_47,Eastbank,,0,,2_KM_Out,1
+R2,saturdays,2out_rt1_48,Eastbank,,0,,2_Out,1
+R2,saturdays,2out_rt1_49,Eastbank,,0,,2_KM_Out,1
+R2,saturdays,2out_rt1_50,Eastbank,,0,,2_Out,1
+R2,saturdays,2out_rt1_51,Eastbank,,0,,2_KM_Out,1
+R2,saturdays,2out_rt1_52,Eastbank,,0,,2_KM_Out,1
+R2,saturdays,2out_rt1_53,Eastbank,,0,,2_Out,1
+R2,saturdays,2out_rt1_54,Eastbank,,0,,2_Out,1
+R2,saturdays,2out_rt1_55,Eastbank,,0,,2_Out,1
+R2,saturdays,2out_rt1_56,Eastbank,,0,,2_Out,1
+R2,saturdays,2out_rt22_1,Eastbank,,0,,2_Out,1
+R2,saturdays,2in_rt1_26,Stockton,,1,,2_In,1
+R2,saturdays,2in_rt1_27,Stockton,,1,,2_In,1
+R2,saturdays,2in_rt1_28,Stockton,,1,,2_In,1
+R2,saturdays,2in_rt1_29,Stockton,,1,,2_KM_In,1
+R2,saturdays,2in_rt1_30,Stockton,,1,,2_In,1
+R2,saturdays,2in_rt1_31,Stockton,,1,,2_KM_In,1
+R2,saturdays,2in_rt1_32,Stockton,,1,,2_In,1
+R2,saturdays,2in_rt1_33,Stockton,,1,,2_KM_In,1
+R2,saturdays,2in_rt1_34,Stockton,,1,,2_In,1
+R2,saturdays,2in_rt1_35,Stockton,,1,,2_In,1
+R2,saturdays,2in_rt1_36,Stockton,,1,,2_In,1
+R2,saturdays,2in_rt1_37,Stockton,,1,,2_In,1
+R2,saturdays,2in_rt1_38,Stockton,,1,,2_In,1
+R2,saturdays,2in_rt1_39,Stockton,,1,,2_In,1
+R2,saturdays,2in_rt1_40,Stockton,,1,,2_In,1
+R2,saturdays,2in_rt1_41,Stockton,,1,,2_In,1
+R2,saturdays,2in_rt1_42,Stockton,,1,,2_In,1
+R2,saturdays,2in_rt1_43,Stockton,,1,,2_In,1
+R2,saturdays,2in_rt1_44,Stockton,,1,,2_In,1
+R2,saturdays,2in_rt1_45,Stockton,,1,,2_KM_In,1
+R2,saturdays,2in_rt1_46,Stockton,,1,,2_In,1
+R2,saturdays,2in_rt1_47,Stockton,,1,,2_KM_In,1
+R2,saturdays,2in_rt1_48,Stockton,,1,,2_In,1
+R2,saturdays,2in_rt1_49,Stockton,,1,,2_KM_In,1
+R2,saturdays,2in_rt1_50,Stockton,,1,,2_In,1
+R2,sundays,2in_rt1_51,Stockton,,1,,2_In,1
+R2,sundays,2in_rt1_52,Stockton,,1,,2_In,1
+R2,saturdays,2in_g_9,Stockton,,1,,2_KM_In,1
+R2,saturdays,2in_g_10,Stockton,,1,,2_In,1
+R2,saturdays,2in_g_11,Stockton,,1,,2_In,1
+R2,saturdays,2in_g_12,Stockton,,1,,2_In,1
+R20,weekdays,20out_1,Capitol,,0,,20_Out,1
+R20,weekdays,20out_2,Capitol,,0,,20_Out,1
+R20,weekdays,20out_3,Capitol,,0,,20_Out,1
+R20,weekdays,20out_4,Capitol,,0,,20_Out,1
+R20,weekdays,20out_5,Capitol,,0,,20_Out,1
+R20,weekdays,20out_6,Capitol,,0,,20_Out,1
+R20,weekdays,20out_7,Capitol,,0,,20_Out,1
+R20,weekdays,20out_8,Capitol,,0,,20_Out,1
+R20,weekdays,20out_9,Capitol,,0,,20_Out,1
+R20,weekdays,20out_10,Capitol,,0,,20_Out,1
+R20,weekdays,20out_11,Capitol,,0,,20_Out,1
+R20,weekdays,20out_12,Capitol,,0,,20_Out,1
+R20,weekdays,20out_13,Capitol,,0,,20_Out,1
+R20,weekdays,20out_14,Capitol,,0,,20_Out,1
+R20,weekdays,20out_15,Capitol,,0,,20_Out,1
+R20,weekdays,20out_16,Capitol,,0,,20_Out,1
+R20,weekdays,20out_17,Capitol,,0,,20_Out,1
+R20,weekdays,20out_18,Capitol,,0,,20_Out,1
+R20,weekdays,20out_19,Capitol,,0,,20_Out,1
+R20,weekdays,20out_20,Capitol,,0,,20_Out,1
+R20,weekdays,20out_21,Capitol,,0,,20_Out,1
+R20,weekdays,20out_trol_1,Capitol,,0,,20_Out,1
+R20,weekdays,20out_trol_2,Capitol,,0,,20_Out,1
+R20,weekdays,20out_trol_3,Capitol,,0,,20_Out,1
+R20,weekdays,20out_trol_4,Capitol,,0,,20_Out,1
+R20,weekdays,20out_trol_5,Capitol,,0,,20_Out,1
+R20,weekdays,20out_trol_6,Capitol,,0,,20_Out,1
+R20,weekdays,20out_trol_7,Capitol,,0,,20_Out,1
+R20,weekdays,20in_1,Laidley Transit Mall,,1,,20_In,1
+R20,weekdays,20in_2,Laidley Transit Mall,,1,,20_In,1
+R20,weekdays,20in_3,Laidley Transit Mall,,1,,20_In,1
+R20,weekdays,20in_4,Laidley Transit Mall,,1,,20_In,1
+R20,weekdays,20in_5,Laidley Transit Mall,,1,,20_In,1
+R20,weekdays,20in_6,Laidley Transit Mall,,1,,20_In,1
+R20,weekdays,20in_7,Laidley Transit Mall,,1,,20_In,1
+R20,weekdays,20in_8,Laidley Transit Mall,,1,,20_In,1
+R20,weekdays,20in_9,Laidley Transit Mall,,1,,20_In,1
+R20,weekdays,20in_10,Laidley Transit Mall,,1,,20_In,1
+R20,weekdays,20in_11,Laidley Transit Mall,,1,,20_In,1
+R20,weekdays,20in_12,Laidley Transit Mall,,1,,20_In,1
+R20,weekdays,20in_13,Laidley Transit Mall,,1,,20_In,1
+R20,weekdays,20in_14,Laidley Transit Mall,,1,,20_In,1
+R20,weekdays,20in_15,Laidley Transit Mall,,1,,20_In,1
+R20,weekdays,20in_16,Laidley Transit Mall,,1,,20_In,1
+R20,weekdays,20in_17,Laidley Transit Mall,,1,,20_In,1
+R20,weekdays,20in_18,Laidley Transit Mall,,1,,20_In,1
+R20,weekdays,20in_19,Laidley Transit Mall,,1,,20_In,1
+R20,weekdays,20in_20,Laidley Transit Mall,,1,,20_In,1
+R20,weekdays,20in_21,Laidley Transit Mall,,1,,20_In,1
+R20,saturdays,20out_22,Capitol,,0,,20_Out,1
+R20,saturdays,20out_23,Capitol,,0,,20_Out,1
+R20,saturdays,20out_24,Capitol,,0,,20_Out,1
+R20,saturdays,20out_25,Capitol,,0,,20_Out,1
+R20,saturdays,20out_26,Capitol,,0,,20_Out,1
+R20,saturdays,20out_27,Capitol,,0,,20_Out,1
+R20,saturdays,20out_28,Capitol,,0,,20_Out,1
+R20,saturdays,20out_29,Capitol,,0,,20_Out,1
+R20,saturdays,20out_30,Capitol,,0,,20_Out,1
+R20,saturdays,20out_31,Capitol,,0,,20_Out,1
+R20,saturdays,20out_trol_8,Capitol,,0,,20_Out,1
+R20,saturdays,20out_trol_9,Capitol,,0,,20_Out,1
+R20,saturdays,20out_trol_10,Capitol,,0,,20_Out,1
+R20,saturdays,20out_trol_11,Capitol,,0,,20_Out,1
+R20,saturdays,20out_trol_12,Capitol,,0,,20_Out,1
+R20,saturdays,20out_trol_13,Capitol,,0,,20_Out,1
+R20,saturdays,20out_trol_14,Capitol,,0,,20_Out,1
+R20,saturdays,20in_22,Laidley Transit Mall,,1,,20_In,1
+R20,saturdays,20in_23,Laidley Transit Mall,,1,,20_In,1
+R20,saturdays,20in_24,Laidley Transit Mall,,1,,20_In,1
+R20,saturdays,20in_25,Laidley Transit Mall,,1,,20_In,1
+R20,saturdays,20in_26,Laidley Transit Mall,,1,,20_In,1
+R20,saturdays,20in_27,Laidley Transit Mall,,1,,20_In,1
+R20,saturdays,20in_28,Laidley Transit Mall,,1,,20_In,1
+R20,saturdays,20in_29,Laidley Transit Mall,,1,,20_In,1
+R20,saturdays,20in_30,Laidley Transit Mall,,1,,20_In,1
+R20,saturdays,20in_31,Laidley Transit Mall,,1,,20_In,1
+R20,saturdays,20in_trol_1_sat,Laidley Transit Mall,,1,,20_In,1
+R20,saturdays,20in_trol_2_sat,Laidley Transit Mall,,1,,20_In,1
+R20,saturdays,20in_trol_3_sat,Laidley Transit Mall,,1,,20_In,1
+R20,saturdays,20in_trol_4_sat,Laidley Transit Mall,,1,,20_In,1
+R20,saturdays,20in_trol_5_sat,Laidley Transit Mall,,1,,20_In,1
+R21,weekdays,21out_fasck_1,Alum Creek,,0,,21_Jail_Out,1
+R21,weekdays,21out_trgfc_1,Alum Creek,,0,,21_Out,1
+R21,weekdays,21out_jail_1,Alum Creek,,0,,21_Jail_Out,1
+R21,weekdays,21out_jail_2,Alum Creek,,0,,21_Jail_Out,1
+R21,weekdays,21out_jail_3,Alum Creek,,0,,21_Jail_Out,1
+R21,weekdays,21out_jail_4,Alum Creek,,0,,21_Jail_Out,1
+R21,weekdays,21out_jail_5,Alum Creek,,0,,21_Jail_Out,1
+R21,weekdays,21out_jail_6,Alum Creek,,0,,21_Jail_Out,1
+R21,weekdays,21out_jail_7,Alum Creek,,0,,21_Jail_Out,1
+R21,weekdays,21out_jail_8,Alum Creek,,0,,21_Jail_Out,1
+R21,weekdays,21out_jail_9,Alum Creek,,0,,21_Jail_Out,1
+R21,weekdays,21out_jail_10,Alum Creek,,0,,21_Jail_Out,1
+R21,weekdays,21out_jail_11,Alum Creek,,0,,21_Jail_Out,1
+R21,weekdays,21out_jail_12,Alum Creek,,0,,21_Jail_Out,1
+R21,weekdays,21out_tffc_1,Alum Creek,,0,,21_Out,1
+R21,weekdays,21out_tffc_2,Alum Creek,,0,,21_Out,1
+R21,weekdays,21in_full_1,Laindley,,1,,21_Jail_In,1
+R21,weekdays,21in_full_2,Laindley,,1,,21_Jail_In,1
+R21,weekdays,21in_ltm_1,Laindley,,1,,21_In,1
+R21,weekdays,21in_ltm_2,Laindley,,1,,21_In,1
+R21,weekdays,21in_ltm_3,Laindley,,1,,21_In,1
+R21,weekdays,21in_ltm_4,Laindley,,1,,21_In,1
+R21,weekdays,21in_ltm_5,Laindley,,1,,21_In,1
+R21,weekdays,21in_ltm_6,Laindley,,1,,21_In,1
+R21,weekdays,21in_ltm_7,Laindley,,1,,21_In,1
+R21,weekdays,21in_ltm_8,Laindley,,1,,21_In,1
+R21,weekdays,21in_ltm_9,Laindley,,1,,21_In,1
+R21,weekdays,21in_tfoak_1,Laindley,,1,,21_In,1
+R21,weekdays,21in_tfoak_2,Laindley,,1,,21_In,1
+R21,weekdays,21in_tfoak_3,Laindley,,1,,21_In,1
+R21,weekdays,21in_fachk_1,Laindley,,1,,21_In,1
+R21,weekdays,21in_fachk_2,Laindley,,1,,21_In,1
+R21,sundays,21out_tf_1,Alum Creek,,0,,21_Jail_Out,1
+R21,sundays,21out_tf_2,Alum Creek,,0,,21_Jail_Out,1
+R21,sundays,21out_tf_3,Alum Creek,,0,,21_Jail_Out,1
+R21,sundays,21out_wmtrg_1,Alum Creek,,0,,21_Out,1
+R21,sundays,21in_sundavis_1,Laindley,,1,,21_Jail_In,1
+R21,sundays,21in_sundavis_2,Laindley,,1,,21_Jail_In,1
+R21,sundays,21in_sundavis_3,Laindley,,1,,21_Jail_In,1
+R21,sundays,21in_sun_1,Laindley,,1,,21_Jail_In,1
+R21,sundays,21in_sun_2,Laindley,,1,,21_Jail_In,1
+R21,saturdays,21out_jail_13,Alum Creek,,0,,21_Jail_Out,1
+R21,saturdays,21out_jail_14,Alum Creek,,0,,21_Jail_Out,1
+R21,saturdays,21out_jail_15,Alum Creek,,0,,21_Jail_Out,1
+R21,saturdays,21out_jail_16,Alum Creek,,0,,21_Jail_Out,1
+R21,saturdays,21out_jail_17,Alum Creek,,0,,21_Jail_Out,1
+R21,saturdays,21out_jail_18,Alum Creek,,0,,21_Jail_Out,1
+R21,saturdays,21out_jail_19,Alum Creek,,0,,21_Jail_Out,1
+R21,saturdays,21out_jail_20,Alum Creek,,0,,21_Jail_Out,1
+R21,saturdays,21out_jail_21,Alum Creek,,0,,21_Jail_Out,1
+R21,saturdays,21out_jail_22,Alum Creek,,0,,21_Jail_Out,1
+R21,saturdays,21out_jail_23,Alum Creek,,0,,21_Jail_Out,1
+R21,saturdays,21out_jail_24,Alum Creek,,0,,21_Jail_Out,1
+R21,saturdays,21in_ltm_10,Laindley,,1,,21_In,1
+R21,saturdays,21in_ltm_11,Laindley,,1,,21_In,1
+R21,saturdays,21in_ltm_12,Laindley,,1,,21_In,1
+R21,saturdays,21in_ltm_13,Laindley,,1,,21_In,1
+R21,saturdays,21in_ltm_14,Laindley,,1,,21_In,1
+R21,saturdays,21in_ltm_15,Laindley,,1,,21_In,1
+R21,saturdays,21in_ltm_16,Laindley,,1,,21_In,1
+R21,saturdays,21in_ltm_17,Laindley,,1,,21_In,1
+R21,saturdays,21in_ltm_18,Laindley,,1,,21_In,1
+R21,saturdays,21in_tfoak_4,Laindley,,1,,21_In,1
+R21,saturdays,21in_tfoak_5,Laindley,,1,,21_In,1
+R22,weekdays,22out_g_1,Montgomery,,0,,22_Out,1
+R22,weekdays,22out_g_2,Montgomery,,0,,22_Out,1
+R22,weekdays,22out_g_3,Montgomery,,0,,22_Out,1
+R22,weekdays,22out_rt1_1,Montgomery,,0,,22_Out,1
+R22,weekdays,22out_rt1_2,Montgomery,,0,,22_Out,1
+R22,weekdays,22out_rt1_3,Montgomery,,0,,22_Out,1
+R22,weekdays,22out_rt1_4,Montgomery,,0,,22_Out,1
+R22,weekdays,22out_rt1_5,Montgomery,,0,,22_Out,1
+R22,weekdays,22out_rt1_6,Montgomery,,0,,22_Out,1
+R22,weekdays,22out_rt1_7,Montgomery,,0,,22_Out,1
+R22,weekdays,22out_rt1_8,Montgomery,,0,,22_Out,1
+R22,weekdays,22out_rt1_9,Montgomery,,0,,22_Out,1
+R22,weekdays,22out_rt1_10,Montgomery,,0,,22_Out,1
+R22,weekdays,22out_rt1_11,Montgomery,,0,,22_Out,1
+R22,weekdays,22out_rt1_12,Montgomery,,0,,22_Out,1
+R22,weekdays,22out_rt1_13,Montgomery,,0,,22_Out,1
+R22,weekdays,22out_rt1_14,Montgomery,,0,,22_Out,1
+R22,weekdays,22out_rt1_15,Montgomery,,0,,22_Out,1
+R22,weekdays,22out_rt1_16,Montgomery,,0,,22_Out,1
+R22,weekdays,22out_rt1_17,Montgomery,,0,,22_Out,1
+R22,weekdays,22out_rt1_18,Montgomery,,0,,22_Out,1
+R22,weekdays,22out_rt1_19,Montgomery,,0,,22_Out,1
+R22,weekdays,22out_rt1_20,Montgomery,,0,,22_Out,1
+R22,weekdays,22out_rt1_21,Montgomery,,0,,22_Out,1
+R22,weekdays,22out_rt1_22,Montgomery,,0,,22_Out,1
+R22,weekdays,22out_rt1_23,Montgomery,,0,,22_Out,1
+R22,weekdays,22out_rt1_24,Montgomery,,0,,22_Out,1
+R22,weekdays,22out_rt1_25,Montgomery,,0,,22_Out,1
+R22,weekdays,22out_rt1_26,Montgomery,,0,,22_Out,1
+R22,weekdays,22out_rt22_1,Montgomery,,0,,22_Out,1
+R22,weekdays,22out_rt22_2,Montgomery,,0,,22_Out,1
+R22,weekdays,22in_rt2_1,Patrick Street,,1,,22_In,1
+R22,weekdays,22in_rt2_2,Patrick Street,,1,,22_In,1
+R22,weekdays,22in_rt2_3,Patrick Street,,1,,22_In,1
+R22,weekdays,22in_rt2_4,Patrick Street,,1,,22_In,1
+R22,weekdays,22in_rt2_5,Patrick Street,,1,,22_In,1
+R22,weekdays,22in_rt2_6,Patrick Street,,1,,22_In,1
+R22,weekdays,22in_rt2_7,Patrick Street,,1,,22_In,1
+R22,weekdays,22in_rt2_8,Patrick Street,,1,,22_In,1
+R22,weekdays,22in_rt2_9,Patrick Street,,1,,22_In,1
+R22,weekdays,22in_rt2_10,Patrick Street,,1,,22_In,1
+R22,weekdays,22in_rt2_11,Patrick Street,,1,,22_In,1
+R22,weekdays,22in_rt2_12,Patrick Street,,1,,22_In,1
+R22,weekdays,22in_rt2_13,Patrick Street,,1,,22_In,1
+R22,weekdays,22in_rt2_14,Patrick Street,,1,,22_In,1
+R22,weekdays,22in_rt2_15,Patrick Street,,1,,22_In,1
+R22,weekdays,22in_rt2_16,Patrick Street,,1,,22_In,1
+R22,weekdays,22in_rt2_17,Patrick Street,,1,,22_In,1
+R22,weekdays,22in_rt2_18,Patrick Street,,1,,22_In,1
+R22,weekdays,22in_rt2_19,Patrick Street,,1,,22_In,1
+R22,weekdays,22in_rt2_20,Patrick Street,,1,,22_In,1
+R22,weekdays,22in_rt2_22,Patrick Street,,1,,22_In,1
+R22,weekdays,22in_rt1_1,Stockton,,1,,22_In,1
+R22,weekdays,22in_g_1,Stockton,,1,,22_In,1
+R22,weekdays,22in_g_2,Stockton,,1,,22_In,1
+R22,weekdays,22in_g_3,Stockton,,1,,22_In,1
+R22,weekdays,22in_g_4,Stockton,,1,,22_In,1
+R22,weekdays,22in_g_5,Stockton,,1,,22_In,1
+R22,weekdays,22in_ltm_1,Laidley Transit Mall,,1,,22_In,1
+R22,weekdays,22in_ltm_2,Laidley Transit Mall,,1,,22_In,1
+R22,weekdays,22in_rt21_1,Laidley Transit Mall,,1,,22_In,1
+R22,weekdays,22in_rt22_1,Laidley Transit Mall,,1,,22_In,1
+R22,weekdays,23in_2,Laidley Transit Mall,,1,,23_In,1
+R22,sundays,22out_g_7,Montgomery,,0,,22_Out,1
+R22,sundays,22out_rt3_1,Montgomery,,0,,22_Out,1
+R22,sundays,22out_rt3_2,Montgomery,,0,,22_Out,1
+R22,sundays,22out_rt3_3,Montgomery,,0,,22_Out,1
+R22,sundays,22out_rt3_4,Montgomery,,0,,22_Out,1
+R22,sundays,22out_rt3_5,Montgomery,,0,,22_Out,1
+R22,sundays,22out_rt3_6,Montgomery,,0,,22_Out,1
+R22,sundays,22out_rt3_7,Montgomery,,0,,22_Out,1
+R22,sundays,22out_rt3_8,Montgomery,,0,,22_Out,1
+R22,sundays,22out_rt3_9,Montgomery,,0,,22_Out,1
+R22,sundays,22in_g_10,Stockton,,1,,22_In,1
+R22,sundays,22in_rt3_1,Laidley Transit Mall,,1,,22_In,1
+R22,sundays,22in_rt3_2,Laidley Transit Mall,,1,,22_In,1
+R22,sundays,22in_rt3_3,Laidley Transit Mall,,1,,22_In,1
+R22,sundays,22in_rt3_4,Laidley Transit Mall,,1,,22_In,1
+R22,sundays,22in_rt3_5,Laidley Transit Mall,,1,,22_In,1
+R22,sundays,22in_rt3_6,Laidley Transit Mall,,1,,22_In,1
+R22,sundays,22in_rt3_7,Laidley Transit Mall,,1,,22_In,1
+R22,sundays,22in_rt3_8,Laidley Transit Mall,,1,,22_In,1
+R22,sundays,22in_rt3_9,Laidley Transit Mall,,1,,22_In,1
+R22,saturdays,22out_g_4,Montgomery,,0,,22_Out,1
+R22,saturdays,22out_g_5,Montgomery,,0,,22_Out,1
+R22,saturdays,22out_g_6,Montgomery,,0,,22_Out,1
+R22,saturdays,22out_rt1_27,Montgomery,,0,,22_Out,1
+R22,saturdays,22out_rt1_28,Montgomery,,0,,22_Out,1
+R22,saturdays,22out_rt1_29,Montgomery,,0,,22_Out,1
+R22,saturdays,22out_rt1_30,Montgomery,,0,,22_Out,1
+R22,saturdays,22out_rt1_31,Montgomery,,0,,22_Out,1
+R22,saturdays,22out_rt1_32,Montgomery,,0,,22_Out,1
+R22,saturdays,22out_rt1_33,Montgomery,,0,,22_Out,1
+R22,saturdays,22out_rt1_34,Montgomery,,0,,22_Out,1
+R22,saturdays,22out_rt1_35,Montgomery,,0,,22_Out,1
+R22,saturdays,22out_rt1_36,Montgomery,,0,,22_Out,1
+R22,saturdays,22out_rt1_37,Montgomery,,0,,22_Out,1
+R22,saturdays,22out_rt1_38,Montgomery,,0,,22_Out,1
+R22,saturdays,22out_rt1_39,Montgomery,,0,,22_Out,1
+R22,saturdays,22out_rt1_40,Montgomery,,0,,22_Out,1
+R22,saturdays,22out_rt1_41,Montgomery,,0,,22_Out,1
+R22,saturdays,22out_rt1_42,Montgomery,,0,,22_Out,1
+R22,saturdays,22out_rt1_43,Montgomery,,0,,22_Out,1
+R22,saturdays,22out_rt1_44,Montgomery,,0,,22_Out,1
+R22,saturdays,22out_rt1_45,Montgomery,,0,,22_Out,1
+R22,saturdays,22out_rt1_46,Montgomery,,0,,22_Out,1
+R22,saturdays,22out_rt22_3,Montgomery,,0,,22_Out,1
+R22,saturdays,22in_rt2_23,Patrick Street,,1,,22_In,1
+R22,saturdays,22in_rt2_24,Patrick Street,,1,,22_In,1
+R22,saturdays,22in_rt2_25,Patrick Street,,1,,22_In,1
+R22,saturdays,22in_rt2_26,Patrick Street,,1,,22_In,1
+R22,saturdays,22in_rt1_2,Stockton,,1,,22_In,1
+R22,saturdays,22in_rt1_3,Stockton,,1,,22_In,1
+R22,saturdays,22in_rt1_4,Stockton,,1,,22_In,1
+R22,saturdays,22in_rt1_5,Stockton,,1,,22_In,1
+R22,saturdays,22in_rt1_6,Stockton,,1,,22_In,1
+R22,saturdays,22in_g_6,Stockton,,1,,22_In,1
+R22,saturdays,22in_g_7,Stockton,,1,,22_In,1
+R22,saturdays,22in_g_8,Stockton,,1,,22_In,1
+R22,saturdays,22in_g_9,Stockton,,1,,22_In,1
+R22,saturdays,22in_ltm_3,Laidley Transit Mall,,1,,22_In,1
+R22,saturdays,22in_ltm_4,Laidley Transit Mall,,1,,22_In,1
+R22,saturdays,22in_rt22_2,Laidley Transit Mall,,1,,22_In,1
+R22,saturdays,22in_rt22_3,Laidley Transit Mall,,1,,22_In,1
+R22,saturdays,22in_rt22_4,Laidley Transit Mall,,1,,22_In,1
+R22,saturdays,22in_rt22_5,Laidley Transit Mall,,1,,22_In,1
+R22,saturdays,22in_rt22_6,Laidley Transit Mall,,1,,22_In,1
+R22,saturdays,22in_rt22_7,Laidley Transit Mall,,1,,22_In,1
+R22,saturdays,22in_rt22_8,Laidley Transit Mall,,1,,22_In,1
+R22,saturdays,22in_rt22_9,Laidley Transit Mall,,1,,22_In,1
+R22,saturdays,22in_rt22_10,Laidley Transit Mall,,1,,22_In,1
+R22,saturdays,22in_rt22_11,Laidley Transit Mall,,1,,22_In,1
+R22,saturdays,22in_rt22_12,Laidley Transit Mall,,1,,22_In,1
+R23,opdays,23out_1,Clendenin,,0,,23_Out,1
+R23,opdays,23out_2,Clendenin,,0,,23_Out,1
+R23,opdays,23out_3,Clendenin,,0,,23_Out,1
+R23,opdays,23out_4,Clendenin,,0,,23_Out,1
+R23,opdays,23out_5,Clendenin,,0,,23_Out,1
+R23,opdays,23out_6,Clendenin,,0,,23_Out,1
+R23,opdays,23out_7,Clendenin,,0,,23_Out,1
+R23,opdays,23out_8,Clendenin,,0,,23_Out,1
+R23,opdays,23in_1,Laidley Transit Mall,,1,,23_In,1
+R23,opdays,23in_3,Laidley Transit Mall,,1,,23_In,1
+R23,opdays,23in_4,Laidley Transit Mall,,1,,23_In,1
+R23,opdays,23in_5,Laidley Transit Mall,,1,,23_In,1
+R23,opdays,23in_6,Laidley Transit Mall,,1,,23_In,1
+R23,opdays,23in_7,Laidley Transit Mall,,1,,23_In,1
+R23,opdays,23in_8,Laidley Transit Mall,,1,,23_In,1
+R23,opdays,23in_9,Laidley Transit Mall,,1,,23_In,1
+R28,weekdays,28out_elk_1,Northgate,,0,,28_Out,1
+R28,weekdays,28out_elk_2,Northgate,,0,,28_Out,1
+R28,weekdays,28out_elk_3,Northgate,,0,,28_Out,1
+R28,weekdays,28out_elk_4,Northgate,,0,,28_Out,1
+R28,weekdays,28out_caphigh_1,Northgate,,0,,28_Out,1
+R28,weekdays,28out_caphigh_2,Northgate,,0,,28_Out,1
+R28,weekdays,28out_caphigh_3,Northgate,,0,,28_Out,1
+R28,weekdays,28out_caphigh_4,Northgate,,0,,28_Out,1
+R28,weekdays,28out_caphigh_5,Northgate,,0,,28_Out,1
+R28,weekdays,28in_caphigh_1,Laidley,,1,,28_In,1
+R28,weekdays,28in_caphigh_2,Laidley,,1,,28_In,1
+R28,weekdays,28in_caphigh_3,Laidley,,1,,28_In,1
+R28,weekdays,28in_caphigh_4,Laidley,,1,,28_In,1
+R28,weekdays,28in_caphigh_5,Laidley,,1,,28_In,1
+R28,weekdays,28in_elk_1,Laidley,,1,,28_In,1
+R28,weekdays,28in_elk_2,Laidley,,1,,28_In,1
+R28,saturdays,28out_elk_5,Northgate,,1,,28_Out,1
+R28,saturdays,28out_elk_6,Northgate,,0,,28_Out,1
+R28,saturdays,28out_elk_7,Northgate,,0,,28_Out,1
+R28,saturdays,28out_elk_8,Northgate,,0,,28_Out,1
+R28,saturdays,28out_elk_9,Northgate,,0,,28_Out,1
+R28,saturdays,28out_elk_10,Northgate,,0,,28_Out,1
+R28,saturdays,28in_elk_3,Laidley Transit Mall,,1,,28_In,1
+R28,saturdays,28in_elk_4,Laidley Transit Mall,,1,,28_In,1
+R28,saturdays,28in_elk_5,Laidley Transit Mall,,1,,28_In,1
+R28,saturdays,28in_elk_6,Laidley Transit Mall,,1,,28_In,1
+R28,saturdays,28in_elk_7,Laidley Transit Mall,,1,,28_In,1
+R28,saturdays,28in_elk_8,Laidley Transit Mall,,1,,28_In,1
+R3,weekdays,3out_g_1,Nitro,,0,,3_Out,1
+R3,weekdays,3out_g_2,Nitro,,0,,3_Out,1
+R3,weekdays,3out_g_3,Nitro,,0,,3_Out,1
+R3,weekdays,3out_rt3_1,Nitro,,0,,3_Out,1
+R3,weekdays,3out_rt3_2,Nitro,,0,,3_Out,1
+R3,weekdays,3out_rt3_3,Nitro,,0,,3_Out,1
+R3,weekdays,3out_rt3_4,Nitro,,0,,3_Out,1
+R3,weekdays,3out_rt3_5,Nitro,,0,,3_Out,1
+R3,weekdays,3out_rt3_6,Nitro,,0,,3_Out,1
+R3,weekdays,3out_rt3_7,Nitro,,0,,3_Out,1
+R3,weekdays,3out_rt3_8,Nitro,,0,,3_Out,1
+R3,weekdays,3out_rt5_1,Nitro,,0,,3_Out,1
+R3,weekdays,3out_rt5_2,Nitro,,0,,3_Out,1
+R3,weekdays,3out_rt5_3,Nitro,,0,,3_Out,1
+R3,weekdays,3out_rt5_4,Nitro,,0,,3_Out,1
+R3,weekdays,3out_rt5_5,Nitro,,0,,3_Out,1
+R3,weekdays,3out_rt5_6,Nitro,,0,,3_Out,1
+R3,weekdays,3out_rt5_7,Nitro,,0,,3_Out,1
+R3,weekdays,3out_rt5_8,Nitro,,0,,3_Out,1
+R3,weekdays,3out_rt5_9,Nitro,,0,,3_Out,1
+R3,weekdays,3out_rt5_10,Nitro,,0,,3_Out,1
+R3,weekdays,3out_rt5_11,Nitro,,0,,3_Out,1
+R3,weekdays,3out_rt5_12,Nitro,,0,,3_Out,1
+R3,weekdays,3out_rt5_13,Nitro,,0,,3_Out,1
+R3,weekdays,3out_rt5_14,Nitro,,0,,3_Out,1
+R3,weekdays,3out_rt5_15,Nitro,,0,,3_Out,1
+R3,weekdays,3out_rt20_1,Nitro,,0,,3_Out,1
+R3,weekdays,3out_rt20_2,Nitro,,0,,3_Out,1
+R3,weekdays,3out_rt20_3,Nitro,,0,,3_Out,1
+R3,weekdays,3out_rt20_4,Nitro,,0,,3_Out,1
+R3,weekdays,3out_rt20_5,Nitro,,0,,3_Out,1
+R3,weekdays,3out_rt20_6,Nitro,,0,,3_Out,1
+R3,weekdays,3out_rt21_1,Nitro,,0,,3_Out,1
+R3,weekdays,3in_rt3_1,Capitol,,1,,3_In,1
+R3,weekdays,3in_rt3_2,Capitol,,1,,3_In,1
+R3,weekdays,3in_rt3_3,Capitol,,1,,3_In,1
+R3,weekdays,3in_rt3_4,Capitol,,1,,3_In,1
+R3,weekdays,3in_rt3_5,Capitol,,1,,3_In,1
+R3,weekdays,3in_rt3_6,Capitol,,1,,3_In,1
+R3,weekdays,3in_rt3_7,Capitol,,1,,3_In,1
+R3,weekdays,3in_rt3_8,Capitol,,1,,3_In,1
+R3,weekdays,3in_rt3_9,Capitol,,1,,3_In,1
+R3,weekdays,3in_rt3_10,Capitol,,1,,3_In,1
+R3,weekdays,3in_rt3_11,Capitol,,1,,3_In,1
+R3,weekdays,3in_rt3_12,Capitol,,1,,3_In,1
+R3,weekdays,3in_rt3_13,Capitol,,1,,3_In,1
+R3,weekdays,3in_rt3_14,Capitol,,1,,3_In,1
+R3,weekdays,3in_rt3_15,Capitol,,1,,3_In,1
+R3,weekdays,3in_rt3_16,Capitol,,1,,3_In,1
+R3,weekdays,3in_g_1,Capitol,,1,,3_In,1
+R3,weekdays,3in_g_2,Capitol,,1,,3_In,1
+R3,weekdays,3in_g_4,Capitol,,1,,3_In,1
+R3,weekdays,3in_g_5,Capitol,,1,,3_In,1
+R3,weekdays,3in_g_7,Capitol,,1,,3_In,1
+R3,weekdays,3in_rt4_1,Capitol,,1,,3_In,1
+R3,weekdays,3in_rt4_2,Capitol,,1,,3_In,1
+R3,weekdays,3in_rt4_3,Capitol,,1,,3_In,1
+R3,weekdays,3in_rt5_1,Capitol,,1,,3_In,1
+R3,weekdays,3in_rt5_2,Capitol,,1,,3_In,1
+R3,weekdays,3in_rt5_3,Capitol,,1,,3_In,1
+R3,weekdays,3in_rt20_1,Capitol,,1,,3_In,1
+R3,weekdays,3in_rt21_3,Capitol,,1,,3_In,1
+R3,weekdays,3in_rt33_1,Capitol,,1,,3_In,1
+R3,sundays,3out_g_7,Nitro,,0,,3_Out,1
+R3,sundays,3out_rt3_23,Nitro,,0,,3_Out,1
+R3,sundays,3out_rt3_24,Nitro,,0,,3_Out,1
+R3,sundays,3out_rt3_25,Nitro,,0,,3_Out,1
+R3,sundays,3out_rt3_26,Nitro,,0,,3_Out,1
+R3,sundays,3out_rt3_27,Nitro,,0,,3_Out,1
+R3,sundays,3out_rt3_28,Nitro,,0,,3_Out,1
+R3,sundays,3out_rt3_29,Nitro,,0,,3_Out,1
+R3,sundays,3out_rt3_30,Nitro,,0,,3_Out,1
+R3,sundays,3out_rt3_31,Nitro,,0,,3_Out,1
+R3,sundays,3out_rt3_32,Nitro,,0,,3_Out,1
+R3,sundays,3out_rt3_33,Nitro,,0,,3_Out,1
+R3,sundays,3out_rt3_34,Nitro,,0,,3_Out,1
+R3,sundays,3in_rt3_32,Capitol,,1,,3_In,1
+R3,sundays,3in_rt3_33,Capitol,,1,,3_In,1
+R3,sundays,3in_rt3_34,Capitol,,1,,3_In,1
+R3,sundays,3in_rt3_35,Capitol,,1,,3_In,1
+R3,sundays,3in_rt3_36,Capitol,,1,,3_In,1
+R3,sundays,3in_rt3_37,Capitol,,1,,3_In,1
+R3,sundays,3in_rt3_38,Capitol,,1,,3_In,1
+R3,sundays,3in_rt3_39,Capitol,,1,,3_In,1
+R3,sundays,3in_rt3_40,Capitol,,1,,3_In,1
+R3,sundays,3in_g_14,Capitol,,1,,3_In,1
+R3,saturdays,3out_g_4,Nitro,,0,,3_Out,1
+R3,saturdays,3out_g_5,Nitro,,0,,3_Out,1
+R3,saturdays,3out_g_6,Nitro,,0,,3_Out,1
+R3,saturdays,3out_rt3_9,Nitro,,0,,3_Out,1
+R3,saturdays,3out_rt3_10,Nitro,,0,,3_Out,1
+R3,saturdays,3out_rt3_11,Nitro,,0,,3_Out,1
+R3,saturdays,3out_rt3_12,Nitro,,0,,3_Out,1
+R3,saturdays,3out_rt3_13,Nitro,,0,,3_Out,1
+R3,saturdays,3out_rt3_14,Nitro,,0,,3_Out,1
+R3,saturdays,3out_rt3_15,Nitro,,0,,3_Out,1
+R3,saturdays,3out_rt3_16,Nitro,,0,,3_Out,1
+R3,saturdays,3out_rt3_17,Nitro,,0,,3_Out,1
+R3,saturdays,3out_rt3_18,Nitro,,0,,3_Out,1
+R3,saturdays,3out_rt3_19,Nitro,,0,,3_Out,1
+R3,saturdays,3out_rt3_20,Nitro,,0,,3_Out,1
+R3,saturdays,3out_rt3_21,Nitro,,0,,3_Out,1
+R3,saturdays,3out_rt3_22,Nitro,,0,,3_Out,1
+R3,saturdays,3out_rt5_16,Nitro,,0,,3_Out,1
+R3,saturdays,3out_rt5_17,Nitro,,0,,3_Out,1
+R3,saturdays,3out_rt5_18,Nitro,,0,,3_Out,1
+R3,saturdays,3out_rt5_19,Nitro,,0,,3_Out,1
+R3,saturdays,3out_rt5_20,Nitro,,0,,3_Out,1
+R3,saturdays,3out_rt5_21,Nitro,,0,,3_Out,1
+R3,saturdays,3out_rt5_22,Nitro,,0,,3_Out,1
+R3,saturdays,3out_rt5_23,Nitro,,0,,3_Out,1
+R3,saturdays,3out_rt5_24,Nitro,,0,,3_Out,1
+R3,saturdays,3out_rt5_25,Nitro,,0,,3_Out,1
+R3,saturdays,3out_rt5_26,Nitro,,0,,3_Out,1
+R3,saturdays,3out_rt5_27,Nitro,,0,,3_Out,1
+R3,saturdays,3in_rt3_17,Capitol,,1,,3_In,1
+R3,saturdays,3in_rt3_18,Capitol,,1,,3_In,1
+R3,saturdays,3in_rt3_19,Capitol,,1,,3_In,1
+R3,saturdays,3in_rt3_20,Capitol,,1,,3_In,1
+R3,saturdays,3in_rt3_21,Capitol,,1,,3_In,1
+R3,saturdays,3in_rt3_22,Capitol,,1,,3_In,1
+R3,saturdays,3in_rt3_23,Capitol,,1,,3_In,1
+R3,saturdays,3in_rt3_24,Capitol,,1,,3_In,1
+R3,saturdays,3in_rt3_25,Capitol,,1,,3_In,1
+R3,saturdays,3in_rt3_26,Capitol,,1,,3_In,1
+R3,saturdays,3in_rt3_27,Capitol,,1,,3_In,1
+R3,saturdays,3in_rt3_28,Capitol,,1,,3_In,1
+R3,saturdays,3in_rt3_29,Capitol,,1,,3_In,1
+R3,saturdays,3in_rt3_30,Capitol,,1,,3_In,1
+R3,saturdays,3in_rt3_31,Capitol,,1,,3_In,1
+R3,saturdays,3in_g_8,Capitol,,1,,3_In,1
+R3,saturdays,3in_g_9,Capitol,,1,,3_In,1
+R3,saturdays,3in_g_10,Capitol,,1,,3_In,1
+R3,saturdays,3in_g_11,Capitol,,1,,3_In,1
+R3,saturdays,3in_g_12,Capitol,,1,,3_In,1
+R3,saturdays,3in_g_13,Capitol,,1,,3_In,1
+R3,saturdays,3in_rt5_4,Capitol,,1,,3_In,1
+R3,saturdays,3in_rt5_5,Capitol,,1,,3_In,1
+R3,saturdays,3in_rt5_6,Capitol,,1,,3_In,1
+R3,saturdays,3in_rt5_7,Capitol,,1,,3_In,1
+R3,saturdays,3in_rt5_8,Capitol,,1,,3_In,1
+R3,saturdays,3in_rt5_9,Capitol,,1,,3_In,1
+R3,saturdays,3in_rt5_10,Capitol,,1,,3_In,1
+R3,saturdays,3in_rt5_11,Capitol,,1,,3_In,1
+R3,saturdays,3in_rt5_12,Capitol,,1,,3_In,1
+R3,saturdays,3in_rt5_13,Capitol,,1,,3_In,1
+R3,saturdays,3in_rt5_14,Capitol,,1,,3_In,1
+R34,opdays,34out_1, Elk City,,0,,34_Out,1
+R34,opdays,34out_2, Elk City,,0,,34_Out,1
+R34,opdays,34out_3, Elk City,,0,,34_Out,1
+R34,opdays,34out_4, Elk City,,0,,34_Out,1
+R34,opdays,34out_5, Elk City,,0,,34_Out,1
+R34,opdays,34out_6, Elk City,,0,,34_Out,1
+R34,opdays,34out_7, Elk City,,0,,34_Out,1
+R34,opdays,34in_1, Capitol ,,1,,34_In,1
+R34,opdays,34in_2, Capitol ,,1,,34_In,1
+R34,opdays,34in_3, Capitol ,,1,,34_In,1
+R34,opdays,34in_4, Capitol ,,1,,34_In,1
+R34,opdays,34in_5, Capitol ,,1,,34_In,1
+R34,opdays,34in_6, Capitol ,,1,,34_In,1
+R4,weekdays,4out_1,Woodward,,0,,4_Out,1
+R4,weekdays,4out_2,Woodward,,0,,4_Out,1
+R4,weekdays,4out_3,Woodward,,0,,4_Out,1
+R4,weekdays,4out_4,Woodward,,0,,4_Out,1
+R4,weekdays,4out_5,Woodward,,0,,4_Out,1
+R4,weekdays,4out_g_1,Woodward,,0,,4_Out,1
+R4,weekdays,4out_g_2,Woodward,,0,,4_Out,1
+R4,weekdays,4in_1,Capitol,,1,,4_In,1
+R4,weekdays,4in_2,Capitol,,1,,4_In,1
+R4,weekdays,4in_3,Capitol,,1,,4_In,1
+R4,weekdays,4in_4,Capitol,,1,,4_In,1
+R4,weekdays,4in_5,Capitol,,1,,4_In,1
+R4,weekdays,4in_6,Capitol,,1,,4_In,1
+R5,weekdays,5out_rt3_1,Nitro,,0,,5_Out,1
+R5,weekdays,5out_rt3_2,Nitro,,0,,5_Out,1
+R5,weekdays,5out_rt3_3,Nitro,,0,,5_Out,1
+R5,weekdays,5out_rt3_4,Nitro,,0,,5_Out,1
+R5,weekdays,5out_rt3_5,Nitro,,0,,5_Out,1
+R5,weekdays,5out_rt3_6,Nitro,,0,,5_Out,1
+R5,weekdays,5out_rt3_7,Nitro,,0,,5_Out,1
+R5,weekdays,5out_rt3_8,Nitro,,0,,5_Out,1
+R5,weekdays,5out_rt3_9,Nitro,,0,,5_Out,1
+R5,weekdays,5out_rt3_10,Nitro,,0,,5_Out,1
+R5,weekdays,5out_rt3_11,Nitro,,0,,5_Out,1
+R5,weekdays,5out_rt3_12,Nitro,,0,,5_Out,1
+R5,weekdays,5out_rt3_13,Nitro,,0,,5_Out,1
+R5,weekdays,5in_rt3_1,Capitol,,1,,5_In,1
+R5,weekdays,5in_rt3_2,Capitol,,1,,5_In,1
+R5,weekdays,5in_rt3_3,Capitol,,1,,5_In,1
+R5,weekdays,5in_rt3_4,Capitol,,1,,5_In,1
+R5,weekdays,5in_rt3_5,Capitol,,1,,5_In,1
+R5,weekdays,5in_rt3_6,Capitol,,1,,5_In,1
+R5,weekdays,5in_rt3_7,Capitol,,1,,5_In,1
+R5,weekdays,5in_rt20_1,Capitol,,1,,5_In,1
+R5,weekdays,5in_rt20_2,Capitol,,1,,5_In,1
+R5,weekdays,5in_rt20_3,Capitol,,1,,5_In,1
+R5,weekdays,5in_rt20_4,Capitol,,1,,5_In,1
+R5,weekdays,5in_rt20_5,Capitol,,1,,5_In,1
+R5,weekdays,5in_rt5_1,Capitol,,1,,5_In,1
+R5,weekdays,5in_g_1,Capitol,,1,,5_In,1
+R5,weekdays,5in_g_2,Capitol,,1,,5_In,1
+R5,saturdays,5out_rt3_14,Nitro,,0,,5_Out,1
+R5,saturdays,5out_rt3_15,Nitro,,0,,5_Out,1
+R5,saturdays,5out_rt3_16,Nitro,,0,,5_Out,1
+R5,saturdays,5out_rt3_17,Nitro,,0,,5_Out,1
+R5,saturdays,5out_rt3_18,Nitro,,0,,5_Out,1
+R5,saturdays,5out_rt3_19,Nitro,,0,,5_Out,1
+R5,saturdays,5out_rt3_20,Nitro,,0,,5_Out,1
+R5,saturdays,5out_rt3_21,Nitro,,0,,5_Out,1
+R5,saturdays,5out_rt3_22,Nitro,,0,,5_Out,1
+R5,saturdays,5out_rt3_23,Nitro,,0,,5_Out,1
+R5,saturdays,5out_rt3_24,Nitro,,0,,5_Out,1
+R5,saturdays,5out_rt3_25,Nitro,,0,,5_Out,1
+R5,saturdays,5out_rt3_26,Nitro,,0,,5_Out,1
+R5,saturdays,5in_rt3_8,Capitol,,1,,5_In,1
+R5,saturdays,5in_rt3_9,Capitol,,1,,5_In,1
+R5,saturdays,5in_rt3_10,Capitol,,1,,5_In,1
+R5,saturdays,5in_rt3_11,Capitol,,1,,5_In,1
+R5,saturdays,5in_rt3_12,Capitol,,1,,5_In,1
+R5,saturdays,5in_rt3_13,Capitol,,1,,5_In,1
+R5,saturdays,5in_rt3_14,Capitol,,1,,5_In,1
+R5,saturdays,5in_rt3_15,Capitol,,1,,5_In,1
+R5,saturdays,5in_rt3_16,Capitol,,1,,5_In,1
+R5,saturdays,5in_rt3_17,Capitol,,1,,5_In,1
+R5,saturdays,5in_rt3_18,Capitol,,1,,5_In,1
+R5,saturdays,5in_rt3_19,Capitol,,1,,5_In,1
+R5,saturdays,5in_rt3_20,Capitol,,1,,5_In,1
+R5,saturdays,5in_rt3_21,Capitol,,1,,5_In,1
+R6,weekdays,6out_1,Elkview,,0,,6_Out,1
+R6,weekdays,6out_2,Elkview,,0,,6_Out,1
+R6,weekdays,6out_3,Elkview,,0,,6_Out,1
+R6,weekdays,6out_4,Elkview,,0,,6_Out,1
+R6,weekdays,6out_5,Elkview,,0,,6_Out,1
+R6,weekdays,6in_1,Laidley Transit Mall,,1,,6_In,1
+R6,weekdays,6in_2,Laidley Transit Mall,,1,,6_In,1
+R6,weekdays,6in_3,Laidley Transit Mall,,1,,6_In,1
+R6,weekdays,6in_4,Laidley Transit Mall,,1,,6_In,1
+R6,weekdays,6in_5,Laidley Transit Mall,,1,,6_In,1
+R6,saturdays,6out_6,Elkview,,0,,6_Out,1
+R6,saturdays,6out_7,Elkview,,0,,6_Out,1
+R6,saturdays,6out_8,Elkview,,0,,6_Out,1
+R6,saturdays,6out_9,Elkview,,0,,6_Out,1
+R6,saturdays,6out_10,Elkview,,0,,6_Out,1
+R6,saturdays,6in_6,Laidley Transit Mall,,1,,6_In,1
+R6,saturdays,6in_7,Laidley Transit Mall,,1,,6_In,1
+R6,saturdays,6in_8,Laidley Transit Mall,,1,,6_In,1
+R6,saturdays,6in_9,Laidley Transit Mall,,1,,6_In,1
+R6,saturdays,6in_10,Laidley Transit Mall,,1,,6_In,1
+R7,weekdays,7out_1,Campbells Creek,,0,,7_Out,1
+R7,weekdays,7out_2,Campbells Creek,,0,,7_Out,1
+R7,weekdays,7out_3,Campbells Creek,,0,,7_Out,1
+R7,weekdays,7out_4,Campbells Creek,,0,,7_Out,1
+R7,weekdays,7out_5,Campbells Creek,,0,,7_Out,1
+R7,weekdays,7in_1,Charleston,,1,,7_In,1
+R7,weekdays,7in_2,Charleston,,1,,7_In,1
+R7,weekdays,7in_3,Charleston,,1,,7_In,1
+R7,weekdays,7in_4,Charleston,,1,,7_In,1
+R7,weekdays,7in_5,Charleston,,1,,7_In,1
+R8,weekdays,8out_4,Sissonville,,0,,8_Out,1
+R8,weekdays,8in_4,Laidley Transit Mall,,1,,8_In,1
+R8,opdays,8out_1,Sissonville,,0,,8_Out,1
+R8,opdays,8out_2,Sissonville,,0,,8_Out,1
+R8,opdays,8out_3,Sissonville,,0,,8_Out,1
+R8,opdays,8out_5,Sissonville,,0,,8_Out,1
+R8,opdays,8out_6,Sissonville,,0,,8_Out,1
+R8,opdays,8out_7,Sissonville,,0,,8_Out,1
+R8,opdays,8in_1,Laidley Transit Mall,,1,,8_In,1
+R8,opdays,8in_2,Laidley Transit Mall,,1,,8_In,1
+R8,opdays,8in_3,Laidley Transit Mall,,1,,8_In,1
+R8,opdays,8in_5,Laidley Transit Mall,,1,,8_In,1
+R8,opdays,8in_6,Laidley Transit Mall,,1,,8_In,1
+R8,opdays,8in_7,Laidley Transit Mall,,1,,8_In,1
+R9,weekdays,9east_ebms_1,Montgomery,,0,,9_E_Montgomery,1
+R9,weekdays,9east_ebms_2,Montgomery,,0,,9_E_Montgomery,1
+R9,weekdays,9east_ebms_3,Montgomery,,0,,9_E_Montgomery,1
+R9,weekdays,9east_ebms_4,Montgomery,,0,,9_E_Montgomery,1
+R9,weekdays,9east_ebms_5,Montgomery,,0,,9_E_Montgomery,1
+R9,weekdays,9east_ebms_6,Montgomery,,0,,9_E_Montgomery,1
+R9,weekdays,9east_cabcrk_1,Montgomery,,0,,9_E_Leewood,1
+R9,weekdays,9east_cabcrk_2,Montgomery,,0,,9_E_Leewood,1
+R9,weekdays,9east_cabcrk_3,Montgomery,,0,,9_E_Leewood,1
+R9,weekdays,9east_cabcrk_4,Montgomery,,0,,9_E_Leewood,1
+R9,weekdays,9east_mont_1,Montgomery,,0,,9_E_Montgomery,1
+R9,weekdays,9east_mont_2,Montgomery,,0,,9_E_Montgomery,1
+R9,weekdays,9east_cc,Cabin Creek,,0,,9_E_CabinCreek,1
+R9,weekdays,9west_cabcrk_1,Quincy Mall,,1,,9_W_Leewood,1
+R9,weekdays,9west_cabcrk_2,Quincy Mall,,1,,9_W_Leewood,1
+R9,weekdays,9west_cabcrk_3,Quincy Mall,,1,,9_W_Leewood,1
+R9,weekdays,9west_cabcrk_4,Quincy Mall,,1,,9_W_Leewood,1
+R9,weekdays,9west_ebms_1,Quincy Mall,,1,,9_W_Montgomery,1
+R9,weekdays,9west_ebms_2,Quincy Mall,,1,,9_W_Montgomery,1
+R9,weekdays,9west_ebms_3,Quincy Mall,,1,,9_W_Montgomery,1
+R9,weekdays,9west_ebms_4,Quincy Mall,,1,,9_W_Montgomery,1
+R9,weekdays,9west_ebms_5,Quincy Mall,,1,,9_W_Montgomery,1
+R9,weekdays,9west_ebms_6,Quincy Mall,,1,,9_W_Montgomery,1
+R9,weekdays,9west_mont_1,Quincy Mall,,1,,9_W_Montgomery,1
+R9,weekdays,9west_mont_2,Quincy Mall,,1,,9_W_Montgomery,1

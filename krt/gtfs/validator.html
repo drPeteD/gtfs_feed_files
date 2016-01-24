@@ -1,0 +1,189 @@
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>FeedValidator: krt.zip</title>
+<style>
+body {font-family: Georgia, serif; background-color: white}
+.path {color: gray}
+div.problem {max-width: 500px}
+table.dump td,th {background-color: khaki; padding: 2px; font-family:monospace}
+table.dump td.problem,th.problem {background-color: dc143c; color: white; padding: 2px; font-family:monospace}
+table.count_outside td {vertical-align: top}
+table.count_outside {border-spacing: 0px; }
+table {border-spacing: 5px 0px; margin-top: 3px}
+h3.issueHeader {padding-left: 0.5em}
+h4.issueHeader {padding-left: 1em}
+.pass {background-color: lightgreen}
+.fail {background-color: yellow}
+.notice {background-color: yellow}
+.pass, .fail {font-size: 16pt}
+.header {background-color: white; font-family: Georgia, serif; padding: 0px}
+th.header {text-align: right; font-weight: normal; color: gray}
+.footer {font-size: 10pt}
+</style>
+</head>
+<body>
+GTFS validation results for feed:<br>
+<code><span class="path">/Users/pete/krt-transit-data/gtfs/</span><b>krt.zip</b></code><br>
+FeedValidator extension used: None
+<br><br>
+<table>
+<tr><th class="header">Agencies:</th><td class="header"><a href="http://www.rideonkrt.com">Kanawha Valley Regional Transportation Authority</a></td></tr>
+<tr><th class="header">Routes:</th><td class="header">2</td></tr>
+<tr><th class="header">Stops:</th><td class="header">119</td></tr>
+<tr><th class="header">Trips:</th><td class="header">88</td></tr>
+<tr><th class="header">Shapes:</th><td class="header">3</td></tr>
+<tr><th class="header">Effective:</th><td class="header">January 16, 2016 to December 31, 2016</td></tr>
+</table>
+<br>
+During the upcoming service dates Sat Jan 16 to Tue Mar 15:
+<table>
+<tr><th class="header">Average trips per date:</th><td class="header">30</td></tr>
+<tr><th class="header">Most trips on a date:</th><td class="header">39, on 42 service dates (Mon Jan 18, Tue Jan 19, Wed Jan 20, ...)</td></tr>
+<tr><th class="header">Least trips on a date:</th><td class="header">4, on 9 service dates (Sun Jan 17, Sun Jan 24, Sun Jan 31, ...)</td></tr>
+</table>
+<br>
+<h3 class="issueHeader">Notices:</h3><h4 class="issueHeader"><a name="NoticeNewVersionAvailable">New Version Available</a></h4><ul>
+<li><div class="problem notice">A new version 1.2.15 of transitfeed is available. Please visit <a href="https://github.com/google/transitfeed">https://github.com/google/transitfeed</a> and download the newest release.</div><br></li>
+</ul>
+<span class="fail">Found these problems:</span>
+<table class="count_outside">
+<tr><td><span class="fail">593 errors</span></td><td><span class="fail">15 warnings</span></td></tr>
+<tr><td>
+<table><tr><td>25</td><td><a href="#ErrorDuplicateID">Duplicate IDs</a></td></tr>
+<tr><td>417</td><td><a href="#ErrorInvalidValue">Invalid Values</a></td></tr>
+<tr><td>45</td><td><a href="#ErrorMissingValue">Missing Values</a></td></tr>
+<tr><td>106</td><td><a href="#ErrorOtherProblem">Other Problems</a></td></tr>
+</table>
+</td>
+<td>
+<table><tr><td>3</td><td><a href="#WarningInvalidValue">Invalid Values</a></td></tr>
+<tr><td>1</td><td><a href="#WarningNoServiceExceptions">No Service Exceptions</a></td></tr>
+<tr><td>7</td><td><a href="#WarningOtherProblem">Other Problems</a></td></tr>
+<tr><td>1</td><td><a href="#WarningStationsTooClose">Stations Too Close</a></td></tr>
+<tr><td>1</td><td><a href="#WarningUnrecognizedColumn">Unrecognized Column</a></td></tr>
+<tr><td>2</td><td><a href="#WarningUnusedStop">Unused Stops</a></td></tr>
+</table>
+</td>
+</table>
+<br><br>
+<h3 class="issueHeader">Errors:</h3><h4 class="issueHeader"><a name="ErrorDuplicateID">Duplicate ID</a></h4><ul>
+<li><div class="problem">Duplicate ID 100078 in column <code>stop_id</code></div>in line 61 of <code>stops.txt</code><br>
+<table class="dump"><tr><th class="problem">stop_id</th><th>stop_code</th><th>stop_name</th><th>stop_desc</th><th>stop_lat</th><th>stop_lon</th><th>zone_id</th><th>stop_url</th><th>location_type</th><th>parent_station</th><th>stop_timezone</th><th>wheelchair_boarding</th></tr>
+<tr><td class="problem">100078</td><td></td><td>St. Albans Station</td><td>St. Albans stop A</td><td>38.386010</td><td>-81.835480</td><td></td><td></td><td>0</td><td>1</td><td></td><td>1</td></tr></table>
+<br></li>
+<li><div class="problem">Duplicate ID 100078 in column <code>stop_id</code></div>in line 119 of <code>stops.txt</code><br>
+<table class="dump"><tr><th class="problem">stop_id</th><th>stop_code</th><th>stop_name</th><th>stop_desc</th><th>stop_lat</th><th>stop_lon</th><th>zone_id</th><th>stop_url</th><th>location_type</th><th>parent_station</th><th>stop_timezone</th><th>wheelchair_boarding</th></tr>
+<tr><td class="problem">100078</td><td></td><td>St. Albans Station</td><td>St. Albans stop A</td><td>38.386010</td><td>-81.835480</td><td></td><td></td><td>0</td><td></td><td></td><td></td></tr></table>
+<br></li>
+<li><div class="problem">Duplicate ID 100079 in column <code>stop_id</code></div>in line 120 of <code>stops.txt</code><br>
+<table class="dump"><tr><th class="problem">stop_id</th><th>stop_code</th><th>stop_name</th><th>stop_desc</th><th>stop_lat</th><th>stop_lon</th><th>zone_id</th><th>stop_url</th><th>location_type</th><th>parent_station</th><th>stop_timezone</th><th>wheelchair_boarding</th></tr>
+<tr><td class="problem">100079</td><td></td><td>US 35 & US 60</td><td>US 35 & US 60</td><td>38.397002</td><td>-81.855959</td><td>1</td><td></td><td></td><td>1</td><td></td><td>1</td></tr></table>
+<br></li>
+<li><div class="problem">Duplicate ID 900002 in column <code>stop_id</code></div>in line 121 of <code>stops.txt</code><br>
+<table class="dump"><tr><th class="problem">stop_id</th><th>stop_code</th><th>stop_name</th><th>stop_desc</th><th>stop_lat</th><th>stop_lon</th><th>zone_id</th><th>stop_url</th><th>location_type</th><th>parent_station</th><th>stop_timezone</th><th>wheelchair_boarding</th></tr>
+<tr><td class="problem">900002</td><td></td><td>St. Albans Station</td><td>St. Albans Station A</td><td>38.385800</td><td>-81.835270</td><td></td><td></td><td>1</td><td></td><td></td><td>1</td></tr></table>
+<br></li>
+<li><div class="problem">Duplicate ID 100079 in column <code>stop_id</code></div>in line 122 of <code>stops.txt</code><br>
+<table class="dump"><tr><th class="problem">stop_id</th><th>stop_code</th><th>stop_name</th><th>stop_desc</th><th>stop_lat</th><th>stop_lon</th><th>zone_id</th><th>stop_url</th><th>location_type</th><th>parent_station</th><th>stop_timezone</th><th>wheelchair_boarding</th></tr>
+<tr><td class="problem">100079</td><td></td><td>US 35 & US 60</td><td>US 35 & US 60</td><td>38.397002</td><td>-81.855959</td><td>1</td><td></td><td></td><td>900002</td><td></td><td>1</td></tr></table>
+<br></li>
+<li>and 20 more of this type.</ul>
+<h4 class="issueHeader"><a name="ErrorInvalidValue">Invalid Value</a></h4><ul>
+<li><div class="problem">Invalid value None in field <code>monday</code></div>in line 5 of <code>calendar.txt</code><br>
+<table class="dump"><tr><th>service_id</th><th>start_date</th><th>end_date</th><th class="problem">monday</th><th>tuesday</th><th>wednesday</th><th>thursday</th><th>friday</th><th>saturday</th><th>sunday</th></tr>
+<tr><td>service_id</td><td>20160116</td><td>20161231</td><td class="problem">None</td><td>None</td><td>None</td><td>None</td><td>None</td><td>None</td><td>None</td></tr></table>
+<br></li>
+<li><div class="problem">Invalid value None in field <code>tuesday</code></div>in line 5 of <code>calendar.txt</code><br>
+<table class="dump"><tr><th>service_id</th><th>start_date</th><th>end_date</th><th>monday</th><th class="problem">tuesday</th><th>wednesday</th><th>thursday</th><th>friday</th><th>saturday</th><th>sunday</th></tr>
+<tr><td>service_id</td><td>20160116</td><td>20161231</td><td>None</td><td class="problem">None</td><td>None</td><td>None</td><td>None</td><td>None</td><td>None</td></tr></table>
+<br></li>
+<li><div class="problem">Invalid value None in field <code>wednesday</code></div>in line 5 of <code>calendar.txt</code><br>
+<table class="dump"><tr><th>service_id</th><th>start_date</th><th>end_date</th><th>monday</th><th>tuesday</th><th class="problem">wednesday</th><th>thursday</th><th>friday</th><th>saturday</th><th>sunday</th></tr>
+<tr><td>service_id</td><td>20160116</td><td>20161231</td><td>None</td><td>None</td><td class="problem">None</td><td>None</td><td>None</td><td>None</td><td>None</td></tr></table>
+<br></li>
+<li><div class="problem">Invalid value None in field <code>thursday</code></div>in line 5 of <code>calendar.txt</code><br>
+<table class="dump"><tr><th>service_id</th><th>start_date</th><th>end_date</th><th>monday</th><th>tuesday</th><th>wednesday</th><th class="problem">thursday</th><th>friday</th><th>saturday</th><th>sunday</th></tr>
+<tr><td>service_id</td><td>20160116</td><td>20161231</td><td>None</td><td>None</td><td>None</td><td class="problem">None</td><td>None</td><td>None</td><td>None</td></tr></table>
+<br></li>
+<li><div class="problem">Invalid value None in field <code>friday</code></div>in line 5 of <code>calendar.txt</code><br>
+<table class="dump"><tr><th>service_id</th><th>start_date</th><th>end_date</th><th>monday</th><th>tuesday</th><th>wednesday</th><th>thursday</th><th class="problem">friday</th><th>saturday</th><th>sunday</th></tr>
+<tr><td>service_id</td><td>20160116</td><td>20161231</td><td>None</td><td>None</td><td>None</td><td>None</td><td class="problem">None</td><td>None</td><td>None</td></tr></table>
+<br></li>
+<li>and 412 more of this type.</ul>
+<h4 class="issueHeader"><a name="ErrorMissingValue">Missing Value</a></h4><ul>
+<li><div class="problem">Missing value for column <code>stop_name</code></div>in line 62 of <code>stops.txt</code><br>
+<table class="dump"><tr><th>stop_id</th><th>stop_code</th><th class="problem">stop_name</th><th>stop_desc</th><th>stop_lat</th><th>stop_lon</th><th>zone_id</th><th>stop_url</th><th>location_type</th><th>parent_station</th><th>stop_timezone</th><th>wheelchair_boarding</th></tr>
+<tr><td>201111</td><td></td><td class="problem"></td><td></td><td>38.38522</td><td>-81.83158</td><td></td><td></td><td>1</td><td></td><td></td><td></td></tr></table>
+<br></li>
+<li><div class="problem">Missing value for column <code>stop_name</code></div>in line 64 of <code>stops.txt</code><br>
+<table class="dump"><tr><th>stop_id</th><th>stop_code</th><th class="problem">stop_name</th><th>stop_desc</th><th>stop_lat</th><th>stop_lon</th><th>zone_id</th><th>stop_url</th><th>location_type</th><th>parent_station</th><th>stop_timezone</th><th>wheelchair_boarding</th></tr>
+<tr><td>501113</td><td></td><td class="problem"></td><td></td><td>38.38371</td><td>-81.82572</td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table>
+<br></li>
+<li><div class="problem">Missing value for column <code>stop_name</code></div>in line 66 of <code>stops.txt</code><br>
+<table class="dump"><tr><th>stop_id</th><th>stop_code</th><th class="problem">stop_name</th><th>stop_desc</th><th>stop_lat</th><th>stop_lon</th><th>zone_id</th><th>stop_url</th><th>location_type</th><th>parent_station</th><th>stop_timezone</th><th>wheelchair_boarding</th></tr>
+<tr><td>501115</td><td></td><td class="problem"></td><td></td><td>38.37974</td><td>-81.82049</td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table>
+<br></li>
+<li><div class="problem">Missing value for column <code>stop_name</code></div>in line 67 of <code>stops.txt</code><br>
+<table class="dump"><tr><th>stop_id</th><th>stop_code</th><th class="problem">stop_name</th><th>stop_desc</th><th>stop_lat</th><th>stop_lon</th><th>zone_id</th><th>stop_url</th><th>location_type</th><th>parent_station</th><th>stop_timezone</th><th>wheelchair_boarding</th></tr>
+<tr><td>501116</td><td></td><td class="problem"></td><td></td><td>38.3781</td><td>-81.81648</td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table>
+<br></li>
+<li><div class="problem">Missing value for column <code>stop_name</code></div>in line 68 of <code>stops.txt</code><br>
+<table class="dump"><tr><th>stop_id</th><th>stop_code</th><th class="problem">stop_name</th><th>stop_desc</th><th>stop_lat</th><th>stop_lon</th><th>zone_id</th><th>stop_url</th><th>location_type</th><th>parent_station</th><th>stop_timezone</th><th>wheelchair_boarding</th></tr>
+<tr><td>501117</td><td></td><td class="problem"></td><td></td><td>38.37779</td><td>-81.81143</td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table>
+<br></li>
+<li>and 40 more of this type.</ul>
+<h4 class="issueHeader"><a name="ErrorOtherProblem">Other Problem</a></h4><ul>
+<li><div class="problem">Timetravel detected! Arrival time is before previous departure at sequence number 490 in trip 01_SA_out_Sat_KanTer_60-35-j</div><br></li>
+<li><div class="problem">Timetravel detected! Arrival time is before previous departure at sequence number 490 in trip 01_SA_out_Sun_KanTer_60-35-f</div><br></li>
+<li><div class="problem">Timetravel detected! Arrival time is before previous departure at sequence number 5 in trip None-k</div><br></li>
+<li><div class="problem">Timetravel detected! Arrival time is before previous departure at sequence number 5 in trip None-k</div><br></li>
+<li><div class="problem">Timetravel detected! Arrival time is before previous departure at sequence number 125 in trip None-k</div><br></li>
+<li>and 101 more of this type.</ul>
+<h3 class="issueHeader">Warnings:</h3><h4 class="issueHeader"><a name="WarningInvalidValue">Invalid Value</a></h4><ul>
+<li><div class="problem">Invalid value US 35 & US 60 in field <code>stop_desc</code><br>stop_desc should not be the same as stop_name</div>in line 59 of <code>stops.txt</code><br>
+<table class="dump"><tr><th>stop_id</th><th>stop_code</th><th>stop_name</th><th class="problem">stop_desc</th><th>stop_lat</th><th>stop_lon</th><th>zone_id</th><th>stop_url</th><th>location_type</th><th>parent_station</th><th>stop_timezone</th><th>wheelchair_boarding</th></tr>
+<tr><td>100079</td><td></td><td>US 35 & US 60</td><td class="problem">US 35 & US 60</td><td>38.397002</td><td>-81.855959</td><td>1</td><td></td><td></td><td></td><td></td><td></td></tr></table>
+<br></li>
+<li><div class="problem">Invalid value US 35 & US 60 in field <code>stop_desc</code><br>stop_desc should not be the same as stop_name</div>in line 120 of <code>stops.txt</code><br>
+<table class="dump"><tr><th>stop_id</th><th>stop_code</th><th>stop_name</th><th class="problem">stop_desc</th><th>stop_lat</th><th>stop_lon</th><th>zone_id</th><th>stop_url</th><th>location_type</th><th>parent_station</th><th>stop_timezone</th><th>wheelchair_boarding</th></tr>
+<tr><td>100079</td><td></td><td>US 35 & US 60</td><td class="problem">US 35 & US 60</td><td>38.397002</td><td>-81.855959</td><td>1</td><td></td><td></td><td>1</td><td></td><td>1</td></tr></table>
+<br></li>
+<li><div class="problem">Invalid value US 35 & US 60 in field <code>stop_desc</code><br>stop_desc should not be the same as stop_name</div>in line 122 of <code>stops.txt</code><br>
+<table class="dump"><tr><th>stop_id</th><th>stop_code</th><th>stop_name</th><th class="problem">stop_desc</th><th>stop_lat</th><th>stop_lon</th><th>zone_id</th><th>stop_url</th><th>location_type</th><th>parent_station</th><th>stop_timezone</th><th>wheelchair_boarding</th></tr>
+<tr><td>100079</td><td></td><td>US 35 & US 60</td><td class="problem">US 35 & US 60</td><td>38.397002</td><td>-81.855959</td><td>1</td><td></td><td></td><td>900002</td><td></td><td>1</td></tr></table>
+<br></li>
+</ul>
+<h4 class="issueHeader"><a name="WarningNoServiceExceptions">No Service Exceptions</a></h4><ul>
+<li><div class="problem">All services are defined on a weekly basis from 2016-01-16 to 2016-12-31 with no single day variations. If there are exceptions such as holiday service dates please ensure they are listed in calendar_dates.txt</div><br></li>
+</ul>
+<h4 class="issueHeader"><a name="WarningOtherProblem">Other Problem</a></h4><ul>
+<li><div class="problem">Service period with service_id "service_id" doesn't have service on any days of the week.</div>in line 5 of <code>calendar.txt</code><br>
+<br></li>
+<li><div class="problem">Found too many cells (commas) in line 60 of file "stops.txt".  Every row in the file should have the same number of cells as the header (first line) does.</div>in line 60 of <code>stops.txt</code><br>
+<br></li>
+<li><div class="problem">The trip with the trip_id "None-s" doesn't have any stop times defined.</div><br></li>
+<li><div class="problem">The trip with the trip_id "None-v" doesn't have any stop times defined.</div><br></li>
+<li><div class="problem">The trip with the trip_id "None-u" doesn't have any stop times defined.</div><br></li>
+<li>and 2 more of this type.</ul>
+<h4 class="issueHeader"><a name="WarningStationsTooClose">Stations Too Close</a></h4><ul>
+<li><div class="problem">The stations "MarylandAveShelt" (ID 201031) and "None" (ID MarylandAveShelt) are 1.41m apart and probably represent the same location.</div><br></li>
+</ul>
+<h4 class="issueHeader"><a name="WarningUnrecognizedColumn">Unrecognized Column</a></h4><ul>
+<li><div class="problem">Unrecognized column <code>dist_from_previous</code> in file <code>shapes.txt</code>. This might be a misspelled column name (capitalization matters!). Or it could be extra information (such as a proposed feed extension) that the validator doesn't know about yet. Extra information is fine; this warning is here to catch misspelled optional column names.</div>in line 1 of <code>shapes.txt</code><br>
+<table class="dump"><tr><th>shape_id</th><th>shape_pt_lat</th><th>shape_pt_lon</th><th>shape_pt_sequence</th><th>shape_dist_traveled</th><th class="problem">dist_from_previous</th></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td class="problem"></td></tr></table>
+<br></li>
+</ul>
+<h4 class="issueHeader"><a name="WarningUnusedStop">Unused Stop</a></h4><ul>
+<li><div class="problem">Laidley St Transit Mall (ID 100001) isn't used in any trips</div><br></li>
+<li><div class="problem">St. Albans Station (ID 900002) isn't used in any trips</div><br></li>
+</ul>
+
+<div class="footer">
+Generated by <a href="https://github.com/google/transitfeed/wiki/FeedValidator">
+FeedValidator</a> version 1.2.14 on January 16, 2016 at 01:36 PM EST.
+</div>
+</body>
+</html>

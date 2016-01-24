@@ -1,0 +1,4 @@
+Worksheet:02_CC_in_QuWal
+2015-12-12 11:34:53.943086   Required value missing. in calendar.
+2015-12-12 11:34:53.970554   IndexError. stop row i:3
+2015-12-12 11:34:53.970712   IndexError. stop row i:4

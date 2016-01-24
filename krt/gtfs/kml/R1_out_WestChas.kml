@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>R1_out_WestChas</name>
+		<Placemark>
+			<name>R1_out_WestChas</name>
+			<styleUrl>#line-4186F0-10-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-81.63552,38.351838,0.0 -81.635744,38.351682,0.0 -81.636205,38.351435,0.0 -81.636506,38.351294,0.0 -81.636647,38.351269,0.0 -81.637487,38.352028,0.0 -81.638925,38.35317200000001,0.0 -81.640473,38.354335,0.0 -81.642107,38.355539,0.0 -81.64282,38.35627,0.0 -81.64348400000002,38.357024,0.0 -81.644307,38.357907,0.0 -81.646074,38.360122,0.0 -81.647258,38.361588,0.0 -81.647874,38.362346,0.0 -81.648798,38.361903,0.0 -81.648888,38.361984,0.0 -81.650188,38.362592,0.0 -81.654332,38.364573,0.0 -81.656148,38.36545,0.0 -81.658404,38.366545,0.0 -81.659306,38.366916,0.0 -81.659999,38.366837,0.0 -81.660228,38.366898,0.0 -81.66037,38.366962,0.0 -81.663725,38.368535,0.0 -81.666331,38.369742,0.0 -81.666883,38.370038,0.0 -81.667894,38.37049,0.0 -81.669376,38.370937000000005,0.0 -81.670069,38.369983000000005,0.0 -81.670013,38.369863,0.0 -81.668332,38.369125,0.0 -81.669331,38.367816,0.0 -81.670594,38.368355,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Style id='line-4186F0-10-nodesc-normal'>
+			<LineStyle>
+				<color>ffF08641</color>
+				<width>10</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='line-4186F0-10-nodesc-highlight'>
+			<LineStyle>
+				<color>ffF08641</color>
+				<width>15.0</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='line-4186F0-10-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-4186F0-10-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-4186F0-10-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>

@@ -1,0 +1,9 @@
+service_id,date,exception_type,note
+weekdays,20150101,2,newyearsday15
+opdays,20150101,2,newyearsday15
+weekdays,20151126,2,thanksgiving15
+opdays,20151126,2,thanksgiving15
+weekdays,20151225,2,christmas15
+opdays,20151225,2,christmas15
+opdays,20150704,2,independenceday15
+saturdays,20150704,2,independenceday15
