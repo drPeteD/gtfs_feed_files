@@ -1,0 +1,20 @@
+stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type, parent_station,stop_timezone,wheelchair_boarding
+11001,,Morris St & Piedmont Rd,,+38.350750,-81.621550,,,0,,,0
+11002,,Oakridge Dr & Serene Dr,,+38.340820,-81.589510,,,0,,,0
+11010,,Morris St & Smith St,,+38.349090,-81.623850,,,0,,,0
+11011,,Piedmont Rd & Stadium Pl,,+38.346090,-81.615420,,,0,,,0
+11012,,Oakridge Dr & Elmont Dr,,+38.348640,-81.593250,,,0,,,0
+11013,,Oakridge Dr & Woodbridge Dr,,+38.351430,-81.585720,,,0,,,0
+11014,,Oakridge Dr & Wertz Ave,,+38.349030,-81.583720,,,0,,,0
+11015,,Oakridge Dr & Moorland Dr,,+38.345120,-81.587370,,,0,,,0
+2010,,Lee St & Capitol St,,+38.350750,-81.633380,,,0,,,0
+2011,,Lee St & Leon Sullivan Way,,+38.348480,-81.630760,,,0,,,0
+2012,,Washington St & Morris St,,+38.346630,-81.626770,,,0,,,0
+2018,,Greenbrier St & Quarrier St,,+38.338140,-81.614850,,,0,,,0
+3001,,Capitol Complex,,+38.337560,-81.610090,,,0,,,0
+3100,,Laidley Field Parking B,,+38.342320,-81.613300,,,0,,,0
+3101,,Piedmont Rd & Sidney St,,+38.340990,-81.613400,,,0,,,0
+3102,,Building #5,,+38.338870,-81.610550,,,0,,,0
+4,,Transit Mall stop 4,,+38.351860,-81.635400,,,0,100,,0
+6010,,Greenbrier St & Hillcrest Dr,,+38.344870,-81.607230,,,0,,,0
+6011,,Greenbrier St & Oakridge Dr,,+38.346680,-81.605290,,,0,,,0

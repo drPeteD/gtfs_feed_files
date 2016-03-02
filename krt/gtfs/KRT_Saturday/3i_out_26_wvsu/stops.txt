@@ -1,0 +1,18 @@
+stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type, parent_station,stop_timezone,wheelchair_boarding
+3002,,7th Ave & 26th St,,+38.376540,-81.676390,,,0,,,0
+3003,,Dunbar Ave & 12th St,,+38.360440,-81.739900,,,0,,,0
+3004,,WV State University,,+38.383790,-81.765430,,,0,,,0
+3032,,7th Ave & 33rd St,,+38.377250,-81.685030,,,0,,,0
+3033,,7th Ave & 37th St,,+38.376430,-81.693130,,,0,,,0
+3034,,7th Ave & Nease Dr,,+38.373320,-81.704500,,,0,,,0
+3035,,7th Ave & Wilson St,,+38.371520,-81.708730,,,0,,,0
+3036,,Shamblin Stone,,+38.363780,-81.720070,,,0,,,0
+3037,,Dunbar Ave & 2nd St,,+38.361430,-81.726260,,,0,,,0
+3038,,Dunbar Village Shopping Center,,+38.360240,-81.735330,,,0,,,0
+3039,,Dunbar Ave & 16th St,,+38.361240,-81.744750,,,0,,,0
+3040,,16th St & Fletcher Ave,,+38.364130,-81.742580,,,0,,,0
+3041,,16th St & Fairlawn Ave,,+38.365420,-81.741620,,,0,,,0
+3042,,Fairlawn Ave & 22nd St,,+38.369420,-81.746210,,,0,,,0
+3043,,Fairlawn Ave & Washington Dr,,+38.373170,-81.750770,,,0,,,0
+3044,,Fairlawn Ave & King St,,+38.378120,-81.757010,,,0,,,0
+3045,,Shawnee Park,,+38.379530,-81.758490,,,0,,,0

@@ -1,0 +1,9 @@
+route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,shape_id,wheelchair_accessible,bikes_allowed
+R23,saturday,KRT_Saturday-23_in-a,,,,,R23_in_Clendenin,1,1
+R23,saturday,KRT_Saturday-23_in-b,,,,,R23_in_Clendenin,1,1
+R23,saturday,KRT_Saturday-23_in-c,,,,,R23_in_Clendenin,1,1
+R23,saturday,KRT_Saturday-23_in-d,,,,,R23_in_Clendenin,1,1
+R23,saturday,KRT_Saturday-23_in-e,,,,,R23_in_Clendenin,1,1
+R23,saturday,KRT_Saturday-23_in-f,,,,,R23_in_Clendenin,1,1
+R23,saturday,KRT_Saturday-23_in-g,,,,,R23_in_Clendenin,1,1
+R23,saturday,KRT_Saturday-23_in-h,,,,,R23_in_Clendenin,1,1

@@ -1,0 +1,14 @@
+stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type, parent_station,stop_timezone,wheelchair_boarding
+1,,Transit Mall stop 1,,+38.352030,-81.635280,,,0,,,0
+100,,Town Center Station,Charleston Transit Station,+38.352089,-81.635344,,,1,,,1
+1010,,Quarrier St & Clendenin St,,+38.354120,-81.640040,,,0,,,0
+1011,,Quarrier St & Civic Center Dr,,+38.355100,-81.641360,,,0,,,0
+18010,,Cantley Dr & Oakwood Rd,,+38.347090,-81.654100,,,0,,,0
+21001,,Oakwood Rd & Oakhurst Dr,,+38.342110,-81.663800,,,0,,,0
+21004,,Walmart,,+38.320860,-81.715730,,,0,,,0
+21010,,I-64 Ramp,,+38.354150,-81.652160,,,0,,,0
+21011,,Oakwood Rd & Cantebury Dr,,+38.345370,-81.657030,,,0,,,0
+21012,,Oakhurst Dr & Emerald Rd,,+38.342860,-81.676270,,,0,,,0
+21013,,Oakhurst Dr & Sherwood Forest Rd,,+38.338560,-81.694880,,,0,,,0
+21025,,Gorridor G & Oakwood Rd,,+38.341480,-81.663320,,,0,,,0
+21027,,Corridor G & Trace Fork Blvd,,+38.332450,-81.710850,,,0,,,0

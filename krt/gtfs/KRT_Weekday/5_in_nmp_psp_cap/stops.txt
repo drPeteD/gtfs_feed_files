@@ -1,0 +1,31 @@
+stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type, parent_station,stop_timezone,wheelchair_boarding
+1001,,4th Ave & Stockton St,,+38.368540,-81.663720,,,0,,,0
+1002,,Patrick St Plaza,,+38.368340,-81.670550,,,0,,,0
+1020,,4th Ave & Patrick St,,+38.369440,-81.665690,,,0,,,0
+1021,,Kmart,,+38.370350,-81.667410,,,0,,,0
+1022,,Dollar Tree,,+38.368790,-81.668690,,,0,,,0
+3006,,Nitro Marketplace,,+38.411450,-81.810590,,,0,,,0
+3009,,7th Ave & 26th St,,+38.377050,-81.676240,,,0,,,0
+3028,,Washington St & Stockton St,,+38.371930,-81.661180,,,0,,,0
+3029,,Washington St & Patrick St,,+38.373290,-81.663330,,,0,,,0
+3030,,Littlepage Terrace,,+38.375320,-81.665520,,,0,,,0
+3031,,Washington St & 20th St,,+38.375210,-81.669310,,,0,,,0
+3075,,Cross Lanes Dr & Big Tyler Rd,,+38.420600,-81.790740,,,0,,,0
+3076,,Goff Mountain Rd & Brick Ln,,+38.416650,-81.794140,,,0,,,0
+3077,,Lakeview Dr & Goff Mountain Rd,,+38.414660,-81.794890,,,0,,,0
+3081,,Lakeview Dr & Don Karnes Blvd,,+38.411700,-81.805180,,,0,,,0
+3082,,Lakeview Dr & Jain Dr,,+38.412120,-81.799260,,,0,,,0
+3103,,7th Ave & Washington St,,+38.373190,-81.707800,,,0,,,0
+3104,,Washington St & Roxalana Rd,,+38.376030,-81.710950,,,0,,,0
+5001,,Tyler Mountain,,+38.402520,-81.726730,,,0,,,0
+5002,,AJMS,,+38.427260,-81.784260,,,0,,,0
+5010,,Washington St & Helena Dr,,+38.377600,-81.711300,,,0,,,0
+5011,,Washington St & Woodrum Ln,,+38.381880,-81.713980,,,0,,,0
+5012,,Washington St & Hildebrand Dr,,+38.385160,-81.716280,,,0,,,0
+5013,,Washington St & Slaughter Dr,,+38.390890,-81.718460,,,0,,,0
+5014,,Washington St & Big Tyler Rd,,+38.392350,-81.721360,,,0,,,0
+5015,,Big Tyler Dr & Lincoln Dr,,+38.396770,-81.723000,,,0,,,0
+5016,,Big Tyler Dr & Mayapple Ln,,+38.407850,-81.729120,,,0,,,0
+5017,,Big Tyler Dr & Eagle Rock Dr,,+38.416280,-81.732620,,,0,,,0
+5018,,Big Tyler Dr & Crystal Dr,,+38.428070,-81.747680,,,0,,,0
+5019,,Big Tyler Dr & Doc Bailey Rd,,+38.431930,-81.769510,,,0,,,0

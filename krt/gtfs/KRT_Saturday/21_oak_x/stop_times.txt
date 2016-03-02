@@ -1,0 +1,13 @@
+trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_type, drop_off_type,shape_dist_traveled
+KRT_Saturday-21_oak_x-a,22:30:00,22:30:00,1,100,,,,
+KRT_Saturday-21_oak_x-a,,,1010,101,,,,
+KRT_Saturday-21_oak_x-a,,,1011,102,,,,
+KRT_Saturday-21_oak_x-a,,,21010,103,,,,
+KRT_Saturday-21_oak_x-a,,,18010,104,,,,
+KRT_Saturday-21_oak_x-a,,,21011,105,,,,
+KRT_Saturday-21_oak_x-a,22:38:00,22:38:00,21001,106,,,,
+KRT_Saturday-21_oak_x-a,,,21025,107,,,,
+KRT_Saturday-21_oak_x-a,,,21012,108,,,,
+KRT_Saturday-21_oak_x-a,,,21013,109,,,,
+KRT_Saturday-21_oak_x-a,,,21027,110,,,,
+KRT_Saturday-21_oak_x-a,22:50:00,22:50:00,21004,111,,,,

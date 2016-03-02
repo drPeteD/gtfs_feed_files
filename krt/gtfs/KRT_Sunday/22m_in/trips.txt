@@ -1,0 +1,6 @@
+route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,shape_id,wheelchair_accessible,bikes_allowed
+R22m,sunday,KRT_Sunday-22m_in-a,,,,,,1,1
+R22m,sunday,KRT_Sunday-22m_in-b,,,,,,1,1
+R22m,sunday,KRT_Sunday-22m_in-c,,,,,,1,1
+R22m,sunday,KRT_Sunday-22m_in-d,,,,,,1,1
+R22m,sunday,KRT_Sunday-22m_in-e,,,,,,1,1

@@ -1,0 +1,6 @@
+route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,shape_id,wheelchair_accessible,bikes_allowed
+R22m,sunday,KRT_Sunday-22m_out-a,,,,,R22_out_Quincy,1,1
+R22m,sunday,KRT_Sunday-22m_out-b,,,,,R22_out_Quincy,1,1
+R22m,sunday,KRT_Sunday-22m_out-c,,,,,R22_out_Quincy,1,1
+R22m,sunday,KRT_Sunday-22m_out-d,,,,,R22_out_Quincy,1,1
+R22m,sunday,KRT_Sunday-22m_out-e,,,,,R22_out_Quincy,1,1

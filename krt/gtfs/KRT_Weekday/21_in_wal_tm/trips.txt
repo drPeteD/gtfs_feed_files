@@ -1,0 +1,11 @@
+route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,shape_id,wheelchair_accessible,bikes_allowed
+R21,weekday,KRT_Weekday-21_in_wal_tm-a,,,,,,,
+R21,weekday,KRT_Weekday-21_in_wal_tm-b,,,,,,,
+R21,weekday,KRT_Weekday-21_in_wal_tm-c,,,,,,,
+R21,weekday,KRT_Weekday-21_in_wal_tm-d,,,,,,,
+R21,weekday,KRT_Weekday-21_in_wal_tm-e,,,,,,,
+R21,weekday,KRT_Weekday-21_in_wal_tm-f,,,,,,,
+R21,weekday,KRT_Weekday-21_in_wal_tm-g,,,,,,,
+R21,weekday,KRT_Weekday-21_in_wal_tm-h,,,,,,,
+R21,weekday,KRT_Weekday-21_in_wal_tm-i,,,,,,,
+R21,weekday,KRT_Weekday-21_in_wal_tm-j,,,,,,,

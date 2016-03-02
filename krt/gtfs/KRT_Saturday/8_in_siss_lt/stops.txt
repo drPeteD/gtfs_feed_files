@@ -1,0 +1,22 @@
+stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type, parent_station,stop_timezone,wheelchair_boarding
+8001,,Sissonville Dr & Casdorph Dr,,+38.410030,-81.669250,,,0,,,0
+8002,,Sissonville Dr & Fisher's Branch Rd,,+38.444490,-81.671340,,,0,,,0
+8003,,Sissonville High School,,+38.475470,-81.671070,,,0,,,0
+8004,,Sissonville,,+38.530270,-81.629610,,,0,,,0
+8005,,Littlepage Terrace,,+38.375340,-81.665450,,,0,,,0
+8010,,Sissonville Dr & Chandler Dr,,+38.379300,-81.661330,,,0,,,0
+8011,,Sissonville Dr & Falcon Dr,,+38.385040,-81.657040,,,0,,,0
+8012,,Sissonville Dr & Scraggs Dr,,+38.392100,-81.658440,,,0,,,0
+8013,,Sissonville Dr & Edens Fork Rd,,+38.404780,-81.663620,,,0,,,0
+8014,,Sissonville Dr & Conville Dr,,+38.421840,-81.669720,,,0,,,0
+8015,,Sissonville Dr & Mayspring Rd,,+38.433300,-81.666910,,,0,,,0
+8016,,Sissonville Dr & Barley Dr,,+38.438060,-81.674680,,,0,,,0
+8017,,Sissonville Dr & Moon Ridge Dr,,+38.449580,-81.666930,,,0,,,0
+8018,,Sissonville Dr & Call Rd,,+38.460230,-81.663660,,,0,,,0
+8019,,Sissonville Middle School,,+38.465220,-81.667480,,,0,,,0
+8020,,Sissonville Dr & Tinney Ln,,+38.479410,-81.670050,,,0,,,0
+8021,,Sissonville Dr & Pinewood Dr,,+38.484750,-81.664610,,,0,,,0
+8022,,Sissonville Dr & Meg Dr,,+38.490170,-81.656590,,,0,,,0
+8023,,Sissonville Dr & Burbank Ln,,+38.494370,-81.648130,,,0,,,0
+8024,,Park-n-Ride,,+38.507820,-81.645530,,,0,,,0
+8025,,Sissonville Dr & Waybrooke Dr,,+38.514780,-81.630850,,,0,,,0

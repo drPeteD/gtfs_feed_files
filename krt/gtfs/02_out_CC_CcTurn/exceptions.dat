@@ -1,5 +1,0 @@
-Worksheet:02_out_CC_CcTurn
-2015-12-12 11:34:44.308974   Required value missing. in calendar.
-2015-12-12 11:34:44.318508   IndexError. stop row i:3
-2015-12-12 11:34:44.318714   IndexError. stop row i:4
-2015-12-12 11:34:44.338630   Required value missing. trip line i:27 route_id:route_id service_id:service_id trip_id:None-a

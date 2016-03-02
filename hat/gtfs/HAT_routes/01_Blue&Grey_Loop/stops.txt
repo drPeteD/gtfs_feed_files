@@ -1,0 +1,10 @@
+stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type, parent_station,stop_timezone,wheelchair_boarding
+A,,Barbour County Senior Center,,39.1529799,-80.0395160,,,,,,
+B,,Baughman Towers,,39.1478374,-80.0384381,,,,,,
+C,,Family Dollar Store,,39.1325980,-80.0161680,,,,,,
+D,,Shop-N-Save,,39.1449718,-80.0367105,,,,,,
+E,,Maple Terrace Apartments,,39.1621886,-80.0418777,,,,,,
+F,,Hyden Greene Apartments,,39.1569110,-80.0394030,,,,,,
+G,,Department of Health and Human Resource,,39.1573570,-80.0329680,,,,,,
+Hardee's,,Hardee's,,39.1498110,-80.0368300,,,,,,
+McDonalds,,McDonald's,,39.1451900,-80.0339520,,,,,,

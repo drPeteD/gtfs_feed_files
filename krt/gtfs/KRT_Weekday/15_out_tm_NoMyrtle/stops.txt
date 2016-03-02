@@ -1,0 +1,14 @@
+stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type, parent_station,stop_timezone,wheelchair_boarding
+15001,,Bridge Rd & Walnut Rd,,+38.341250,-81.642420,,,0,,,0
+15002,,Ashton Place,,+38.340190,-81.677630,,,0,,,0
+15010,,Bridge Rd & Myrtle Rd,,+38.342730,-81.641370,,,0,,,0
+15016,,Bridge Rd & Birch Rd,,+38.339870,-81.645310,,,0,,,0
+15017,,Bridge Rd & Chilton Manor,,+38.337150,-81.646500,,,0,,,0
+15018,,Bridge Rd & Oakwood Rd,,+38.333470,-81.649650,,,0,,,0
+15019,,Oakwood Rd & Tennis Club Rd,,+38.336090,-81.656230,,,0,,,0
+15020,,Oakwood Rd & Briar Hill Rd,,+38.339250,-81.660420,,,0,,,0
+15021,,Oakwood Rd & Oakhurst Dr,,+38.342120,-81.663830,,,0,,,0
+15022,,Oakhurst Dr & Lawndale Ln,,+38.343610,-81.671370,,,0,,,0
+3,,Transit Mall stop 3,,+38.351780,-81.635660,,,0,100,,0
+3089,,Virginia St & Summers St,,+38.349870,-81.636770,,,0,,,0
+3090,,Virginia St & Capitol St,,+38.349250,-81.636050,,,0,,,0

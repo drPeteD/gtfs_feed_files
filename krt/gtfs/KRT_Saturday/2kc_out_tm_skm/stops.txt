@@ -1,0 +1,28 @@
+stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type, parent_station,stop_timezone,wheelchair_boarding
+100,,Town Center Station,Charleston Transit Station,+38.352089,-81.635344,,,1,,,1
+2,,Transit Mall stop 2,,+38.352150,-81.634960,,,0,100,,0
+2001,,Capitol Complex,,+38.337070,-81.609670,,,0,,,0
+2002,,Shops @ Kanawha Mall,,+38.312250,-81.568310,,,0,,,0
+2010,,Lee St & Capitol St,,+38.350750,-81.633380,,,0,,,0
+2011,,Lee St & Leon Sullivan Way,,+38.348480,-81.630760,,,0,,,0
+2012,,Washington St & Morris St,,+38.346630,-81.626770,,,0,,,0
+2013,,Washington St & Bradford St,,+38.345000,-81.624820,,,0,,,0
+2014,,Washington St & Ruffner Ave,,+38.343720,-81.622950,,,0,,,0
+2015,,Washington St & Thompson St,,+38.342380,-81.620590,,,0,,,0
+2016,,Washington St & Maxwell St,,+38.340900,-81.617470,,,0,,,0
+2017,,Washington St & Sidney St,,+38.339950,-81.615580,,,0,,,0
+2018,,Greenbrier St & Quarrier St,,+38.338180,-81.614990,,,0,,,0
+2019,,Washington St & Michigan Ave,,+38.336670,-81.608210,,,0,,,0
+2020,,Washington St & Chesapeake Ave,,+38.335770,-81.603940,,,0,,,0
+2021,,Washington St & East Ave,,+38.335220,-81.600460,,,0,,,0
+2022,,35th St & Noyes Ave,,+38.329410,-81.598570,,,0,,,0
+2023,,MacCorkle Ave & 37th St,,+38.328080,-81.595590,,,0,,,0
+2024,,MacCorkle Ave & 39th St,,+38.327250,-81.591700,,,0,,,0
+2025,,MacCorkle Ave & 41st St,,+38.325930,-81.589460,,,0,,,0
+2026,,MacCorkle Ave & 43rd St,,+38.324470,-81.586890,,,0,,,0
+2027,,MacCorkle Ave & 45th St,,+38.323020,-81.584530,,,0,,,0
+2028,,MacCorkle Ave & 47th St,,+38.321500,-81.581680,,,0,,,0
+2029,,MacCorkle Ave & 50th St,,+38.319150,-81.577670,,,0,,,0
+2030,,MacCorkle Ave & 52nd St,,+38.317580,-81.574910,,,0,,,0
+2031,,MacCorkle Ave & 54th St,,+38.316070,-81.572300,,,0,,,0
+2032,,MacCorkle Ave & 56th St,,+38.314600,-81.569750,,,0,,,0

@@ -1,0 +1,10 @@
+stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type, parent_station,stop_timezone,wheelchair_boarding
+2,,Transit Mall stop 2,,+38.352150,-81.634960,,,0,100,,0
+2018,,Greenbrier St & Quarrier St,,+38.338180,-81.614990,,,0,,,0
+3001,,Capitol Complex,,+38.337560,-81.610100,,,0,,,0
+3010,,Quarrier St & Elizabeth St,,+38.339310,-81.617540,,,0,,,0
+3011,,Quarrier St & Ruffner Ave,,+38.342190,-81.624480,,,0,,,0
+3012,,Quarrier St & Morris St,,+38.345080,-81.628740,,,0,,,0
+3013,,Quarrier St & Leon Sullivan Way,,+38.347530,-81.632040,,,0,,,0
+3014,,Quarrier St & Dickinson St,,+38.348930,-81.633920,,,0,,,0
+3015,,Quarrier St & Capitol St,,+38.349860,-81.635020,,,0,,,0

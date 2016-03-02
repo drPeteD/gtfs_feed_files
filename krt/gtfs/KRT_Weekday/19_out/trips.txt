@@ -1,0 +1,8 @@
+route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,shape_id,wheelchair_accessible,bikes_allowed
+R19,weekday,KRT_Weekday-19_out-a,,,,,,1,1
+R19,weekday,KRT_Weekday-19_out-b,,,,,,1,1
+R19,weekday,KRT_Weekday-19_out-c,,,,,,1,1
+R19,weekday,KRT_Weekday-19_out-d,,,,,,1,1
+R19,weekday,KRT_Weekday-19_out-e,,,,,,1,1
+R19,weekday,KRT_Weekday-19_out-f,,,,,,1,1
+R19,weekday,KRT_Weekday-19_out-g,,,,,,1,1

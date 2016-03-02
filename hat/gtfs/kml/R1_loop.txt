@@ -1,5 +1,1 @@
-R01-1.kml
-R01-2.kml
-R01-3.kml
-R01-4.kml
-
+R01-1.kml,R01-2.kml,R01-3.kml,R01-4.kml

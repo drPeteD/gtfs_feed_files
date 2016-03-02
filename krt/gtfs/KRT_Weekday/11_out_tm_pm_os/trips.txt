@@ -1,0 +1,10 @@
+route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,shape_id,wheelchair_accessible,bikes_allowed
+R11,weekday,KRT_Weekday-11_out_tm_pm_os-a,,,,,,1,1
+R11,weekday,KRT_Weekday-11_out_tm_pm_os-b,,,,,,1,1
+R11,weekday,KRT_Weekday-11_out_tm_pm_os-c,,,,,,1,1
+R11,weekday,KRT_Weekday-11_out_tm_pm_os-d,,,,,,1,1
+R11,weekday,KRT_Weekday-11_out_tm_pm_os-e,,,,,,1,1
+R11,weekday,KRT_Weekday-11_out_tm_pm_os-f,,,,,,1,1
+R11,weekday,KRT_Weekday-11_out_tm_pm_os-g,,,,,,1,1
+R11,weekday,KRT_Weekday-11_out_tm_pm_os-h,,,,,,1,1
+R11,weekday,KRT_Weekday-11_out_tm_pm_os-i,,,,,,1,1

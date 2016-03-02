@@ -1,0 +1,21 @@
+stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type, parent_station,stop_timezone,wheelchair_boarding
+16001,,South Park Rd & Alcoa Dr,,+38.306300,-81.608910,,,0,,,0
+16010,,MacCorkle Ave & 33rd St,,+38.328480,-81.601090,,,0,,,0
+16011,,31st St & Chesterfield Ave,,+38.327310,-81.605200,,,0,,,0
+16012,,Chesterfield Ave & South Park Rd,,+38.326380,-81.601640,,,0,,,0
+16013,,South Park Rd & Granada Way,,+38.323900,-81.602440,,,0,,,0
+16014,,South Park Rd & Landfill Rd,,+38.318800,-81.605600,,,0,,,0
+16015,,South Park Rd & Glen Cove Pl,,+38.313580,-81.603010,,,0,,,0
+2001,,Capitol Complex,,+38.337070,-81.609670,,,0,,,0
+2018,,Greenbrier St & Quarrier St,,+38.338180,-81.614990,,,0,,,0
+2019,,Washington St & Michigan Ave,,+38.336670,-81.608210,,,0,,,0
+2020,,Washington St & Chesapeake Ave,,+38.335770,-81.603940,,,0,,,0
+2021,,Washington St & East Ave,,+38.335220,-81.600460,,,0,,,0
+2022,,36th St & Noyes Ave,,+38.329450,-81.596770,,,0,,,0
+3010,,Quarrier St & Elizabeth St,,+38.339310,-81.617540,,,0,,,0
+3011,,Quarrier St & Ruffner Ave,,+38.342190,-81.624480,,,0,,,0
+3012,,Quarrier St & Morris St,,+38.345080,-81.628740,,,0,,,0
+3013,,Quarrier St & Leon Sullivan Way,,+38.347530,-81.632040,,,0,,,0
+3014,,Quarrier St & Dickinson St,,+38.348930,-81.633920,,,0,,,0
+3015,,Quarrier St & Capitol St,,+38.349860,-81.635020,,,0,,,0
+4,,Transit Mall stop 4,,+38.351860,-81.635400,,,0,100,,0

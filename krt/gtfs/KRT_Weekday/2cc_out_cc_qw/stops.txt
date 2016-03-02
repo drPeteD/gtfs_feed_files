@@ -1,0 +1,10 @@
+stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type, parent_station,stop_timezone,wheelchair_boarding
+2005,,Cabin Creek,,+38.199200,-81.475210,,,0,,,0
+2006,,Quincy Walmart,,+38.203090,-81.505460,,,0,,,0
+2056,,MacCorkle Ave & N Porter St,,+38.195300,-81.492630,,,0,,,0
+2057,,MacCorkle Ave & Saxton St,,+38.195130,-81.489260,,,0,,,0
+2058,,MacCorkle Ave & James River Rd,,+38.195270,-81.484600,,,0,,,0
+2059,,MacCorkle Ave & Cabin Creek Rd,,+38.196360,-81.480180,,,0,,,0
+2060,,E Dupont Ave & Warrior Way,,+38.210380,-81.511320,,,0,,,0
+2061,,Riverside High School,,+38.208430,-81.511680,,,0,,,0
+2062,,McDonald's,,+38.204530,-81.504920,,,0,,,0

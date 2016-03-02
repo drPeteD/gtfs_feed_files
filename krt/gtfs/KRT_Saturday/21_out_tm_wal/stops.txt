@@ -1,0 +1,23 @@
+stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type, parent_station,stop_timezone,wheelchair_boarding
+1,,Transit Mall stop 1,,+38.352030,-81.635280,,,0,100,,0
+100,,Town Center Station,Charleston Transit Station,+38.352089,-81.635344,,,1,,,1
+1010,,Quarrier St & Clendenin St,,+38.354120,-81.640040,,,0,,,0
+1011,,Quarrier St & Civic Center Dr,,+38.355100,-81.641360,,,0,,,0
+15021,,Oakhurst Dr & Lawndale Ln,,+38.343580,-81.671210,,,0,,,0
+18010,,Cantley Dr & Oakwood Rd,,+38.347090,-81.654100,,,0,,,0
+21001,,Oakwood Rd & Oakhurst Dr,,+38.342110,-81.663800,,,0,,,0
+21002,,Davis Creek,,+38.340070,-81.702880,,,0,,,0
+21003,,Trace Fork (Ice Rink),,+38.338860,-81.712870,,,0,,,0
+21004,,Walmart,,+38.320860,-81.715730,,,0,,,0
+21010,,I-64 Ramp,,+38.354150,-81.652160,,,0,,,0
+21011,,Oakwood Rd & Cantebury Dr,,+38.345370,-81.657030,,,0,,,0
+21012,,Oakhurst Dr & Emerald Rd,,+38.342860,-81.676270,,,0,,,0
+21013,,Oakhurst Dr & Sherwood Forest Rd,,+38.338560,-81.694880,,,0,,,0
+21014,,Oakhurst Dr & Wray Cir,,+38.334330,-81.706500,,,0,,,0
+21015,,Oakhurst Dr & Augusta Pl,,+38.329850,-81.709740,,,0,,,0
+21016,,Oakhurst Dr & Terry Rd,,+38.323520,-81.714960,,,0,,,0
+21017,,RHL Blvd & Oakhurst Dr,,+38.324430,-81.716980,,,0,,,0
+21018,,Kohl's,,+38.327540,-81.714610,,,0,,,0
+21019,,Longhorn Steakhouse,,+38.331440,-81.712740,,,0,,,0
+21020,,Dick's Sporting Goods,,+38.336030,-81.713070,,,0,,,0
+21027,,Corridor G & Trace Fork Blvd,,+38.332450,-81.710850,,,0,,,0

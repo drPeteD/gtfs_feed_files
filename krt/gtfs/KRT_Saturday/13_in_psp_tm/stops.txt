@@ -1,0 +1,28 @@
+stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type, parent_station,stop_timezone,wheelchair_boarding
+100,,Town Center Station,Charleston Transit Station,+38.352089,-81.635344,,,1,,,1
+1001,,4th Ave & Stockton St,,+38.368540,-81.663720,,,0,,,0
+1002,,Patrick St Plaza,,+38.368340,-81.670550,,,0,,,0
+1020,,4th Ave & Patrick St,,+38.369440,-81.665690,,,0,,,0
+1023,,McDonalds,,+38.370390,-81.669670,,,0,,,0
+1024,,Patrick St,,+38.369920,-81.666820,,,0,,,0
+13001,,Beech Ave & McQueen Ave,,+38.372750,-81.655200,,,0,,,0
+13010,,Watts St & Patterson St,,+38.364520,-81.638600,,,0,,,0
+13011,,Mariana St & Vincent St,,+38.366320,-81.639340,,,0,,,0
+13012,,Price St & Greendale Dr,,+38.368180,-81.641000,,,0,,,0
+13013,,Swarthmore Ave & Valley Rd,,+38.369290,-81.641390,,,0,,,0
+13014,,Beech Ave & Highland Rd,,+38.368550,-81.653950,,,0,,,0
+13015,,Beech Ave & Somerset Dr,,+38.369510,-81.646490,,,0,,,0
+13016,,Beech Ave & West Ave,,+38.370810,-81.650120,,,0,,,0
+13017,,Beech Ave & Hunt Ave,,+38.372200,-81.652840,,,0,,,0
+13018,,Barton St & Frame St,,+38.371910,-81.657690,,,0,,,0
+3,,Transit Mall stop 3,,+38.351780,-81.635660,,,0,100,,0
+3021,,Washington St & Ohio Ave,,+38.362310,-81.641660,,,0,,,0
+3022,,Washington St & Greendale Dr,,+38.363930,-81.642910,,,0,,,0
+3027,,Washington St & Barton St,,+38.370690,-81.658630,,,0,,,0
+3028,,Washington St & Stockton St,,+38.371930,-81.661180,,,0,,,0
+3083,,Lee St & Delaware Ave,,+38.363720,-81.645150,,,0,,,0
+3084,,Lee St & Ohio Ave,,+38.361540,-81.643500,,,0,,,0
+3085,,One Stop,,+38.359850,-81.642120,,,0,,,0
+3086,,Lee St & Pennsylvania Ave,,+38.359060,-81.641510,,,0,,,0
+3087,,Lee St & Clendenin St,,+38.356040,-81.638970,,,0,,,0
+3088,,Lee St & Court St,,+38.353360,-81.635440,,,0,,,0

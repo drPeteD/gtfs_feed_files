@@ -1,0 +1,14 @@
+stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type, parent_station,stop_timezone,wheelchair_boarding
+1,,Transit Mall stop 1,,+38.352030,-81.635280,,,0,100,,0
+100,,Town Center Station,Charleston Transit Station,+38.352089,-81.635344,,,1,,,1
+1001,,4th Ave & Stockton St,,+38.368540,-81.663720,,,0,,,0
+1010,,Quarrier St & Clendenin St,,+38.354120,-81.640040,,,0,,,0
+1011,,Quarrier St & Civic Center Dr,,+38.355100,-81.641360,,,0,,,0
+1012,,Randolph St & Tennessee Ave,,+38.359240,-81.645260,,,0,,,0
+1013,,Randolph St & Maryland Ave,,+38.361360,-81.646970,,,0,,,0
+1014,,Five Corners,,+38.362130,-81.648500,,,0,,,0
+1015,,Central Ave & Vine St,,+38.362520,-81.650110,,,0,,,0
+1016,,Central Ave & Park Ave,,+38.363960,-81.653080,,,0,,,0
+1017,,Central Ave & Glenwood Ave,,+38.364610,-81.654420,,,0,,,0
+1018,,Central Ave & Hunt Ave,,+38.366230,-81.657810,,,0,,,0
+1019,,4th Ave & Florida St,,+38.366900,-81.660250,,,0,,,0

@@ -1,0 +1,6 @@
+route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,shape_id,wheelchair_accessible,bikes_allowed
+R10,weekday,KRT_Weekday-10_in-a,,,,,,1,1
+R10,weekday,KRT_Weekday-10_in-b,,,,,,1,1
+R10,weekday,KRT_Weekday-10_in-c,,,,,,1,1
+R10,weekday,KRT_Weekday-10_in-d,,,,,,1,1
+R10,weekday,KRT_Weekday-10_in-e,,,,,,1,1

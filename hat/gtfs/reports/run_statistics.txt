@@ -1,0 +1,18 @@
+Wed Feb 17 20:52:17 2016
+   HAT Workbooks: ['HAT_routes'].Workbook start. 2016-02-17 15:52:16.696900
+Start processing hat workbook HAT_routes with 1 worksheets. et:1 seconds ts:15:52:18
+Begin processing. 01_Blue&Grey_Loop. et:1 seconds ts:15:52:18
+>>> Begin worksheet data retrieval. <<<  et:1 seconds ts:15:52:18
+Getting worksheet row data.  et:10 seconds ts:15:52:27
+Stops duplicate processing.  et:11 seconds ts:15:52:27
+Stop_times processing.  et:11 seconds ts:15:52:27
+Shapes processing from kml.  et:11 seconds ts:15:52:27
+Worksheet 01_Blue&Grey_Loop processing complete.  et:11 seconds ts:15:52:27
+Validating worksheet 01_Blue&Grey_Loop.  et:11 seconds ts:15:52:27
+  >> Worksheet |HAT_routes-01_Blue&Grey_Loop|                             complete.
+ ^^^^^^^^^^^^^^^  HAT_routes-01_Blue&Grey_Loop  ^^^^^^^^^^^^^^^
+Validation results
+ et:12 seconds ts:15:52:28
+  >> Copying file to feed pickup. Validation results et:12 seconds ts:15:52:29
+Finished processing.
+ END et:12 seconds ts:15:52:29

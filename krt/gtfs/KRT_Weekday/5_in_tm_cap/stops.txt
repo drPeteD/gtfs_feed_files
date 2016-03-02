@@ -1,0 +1,17 @@
+stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type, parent_station,stop_timezone,wheelchair_boarding
+1,,Transit Mall stop 1,,+38.352030,-81.635280,,,0,100,,0
+3001,,Capitol Complex,,+38.337560,-81.610090,,,0,,,0
+3089,,Virginia St & Summers St,,+38.349870,-81.636770,,,0,,,0
+3090,,Virginia St & Capitol St,,+38.349250,-81.636050,,,0,,,0
+3091,,Virginia St & McFarland St,,+38.347990,-81.634470,,,0,,,0
+3092,,Virginia St & Leon Sullivan Way,,+38.346800,-81.633020,,,0,,,0
+3093,,Virginia St & Morris St,,+38.344190,-81.629850,,,0,,,0
+3094,,Virginia St & Bradford St,,+38.342700,-81.627530,,,0,,,0
+3095,,Virginia St & Ruffner Ave,,+38.341420,-81.625460,,,0,,,0
+3096,,Carroll Terrace Apartments,,+38.340130,-81.622580,,,0,,,0
+3097,,Virginia St & Elizabeth St,,+38.338470,-81.618270,,,0,,,0
+3098,,Elizabeth St & Washington St,,+38.340360,-81.616570,,,0,,,0
+3099,,Laidley Field Parking A,,+38.342960,-81.614140,,,0,,,0
+3100,,Laidley Field Parking B,,+38.342320,-81.613300,,,0,,,0
+3101,,Piedmont Rd & Sidney St,,+38.340990,-81.613400,,,0,,,0
+3102,,Building #5,,+38.338870,-81.610550,,,0,,,0

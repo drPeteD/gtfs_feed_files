@@ -1,0 +1,38 @@
+stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type, parent_station,stop_timezone,wheelchair_boarding
+2003,,MacCorkle Ave & 57th St,,+38.313840,-81.568410,,,0,,,0
+2023,,MacCorkle Ave & 37th St,,+38.328080,-81.595590,,,0,,,0
+2024,,MacCorkle Ave & 39th St,,+38.327250,-81.591700,,,0,,,0
+2025,,MacCorkle Ave & 41st St,,+38.325930,-81.589460,,,0,,,0
+2026,,MacCorkle Ave & 43rd St,,+38.324470,-81.586890,,,0,,,0
+2028,,MacCorkle Ave & 47th St,,+38.321500,-81.581680,,,0,,,0
+2029,,MacCorkle Ave & 50th St,,+38.319150,-81.577670,,,0,,,0
+2030,,MacCorkle Ave & 52nd St,,+38.317580,-81.574910,,,0,,,0
+2031,,MacCorkle Ave & 54th St,,+38.316070,-81.572300,,,0,,,0
+2032,,MacCorkle Ave & 56th St,,+38.314600,-81.569750,,,0,,,0
+2033,,Ivy Terrace Apartments,,+38.323300,-81.584600,,,0,,,0
+2038,,Kroger,,+38.311790,-81.564900,,,0,,,0
+2039,,MacCorkle Ave & 58th St,,+38.310710,-81.563550,,,0,,,0
+2087,,Court St & Brawley Walkway,,+38.352740,-81.636040,,,0,,,0
+22014,,Kanawha Blvd & River Ln,,+38.313500,-81.559250,,,0,,,0
+3,,Transit Mall stop 3,,+38.351780,-81.635660,,,0,100,,0
+3014,,Quarrier St & Dickinson St,,+38.348930,-81.633920,,,0,,,0
+3015,,Quarrier St & Capitol St,,+38.349860,-81.635020,,,0,,,0
+7001,,CAMC Memorial,,+38.329460,-81.601020,,,0,,,0
+7002,,Campbells Creek Dr & Bravo Rd,,+38.336530,-81.466290,,,0,,,0
+7003,,Campbells Creek Dr & Cambronne Ln,,+38.309630,-81.426750,,,0,,,0
+7010,,Thayer St & MacCorkle Ave,,+38.350180,-81.643420,,,0,,,0
+7011,,Frontage Rd & Porter Rd,,+38.338450,-81.628970,,,0,,,0
+7012,,Columbia Pipeline Group,,+38.335720,-81.625060,,,0,,,0
+7013,,University of Charleston,,+38.332260,-81.615620,,,0,,,0
+7014,,Frontage Rd & 28th St,,+38.330140,-81.610040,,,0,,,0
+7015,,Frontage Rd & 31st St,,+38.329090,-81.604680,,,0,,,0
+7016,,Kanawha Blvd & Campbells Creek Dr,,+38.309010,-81.556180,,,0,,,0
+7017,,Campbells Creek Dr & Wiley Rd,,+38.310180,-81.550160,,,0,,,0
+7018,,Campbells Creek Dr & Springfork Dr,,+38.313540,-81.536060,,,0,,,0
+7019,,Campbells Creek Dr & Gap View Dr,,+38.317130,-81.524670,,,0,,,0
+7020,,Campbells Creek Dr & Point Lick Dr,,+38.324110,-81.508960,,,0,,,0
+7021,,Mary Ingles Elementary,,+38.333150,-81.494000,,,0,,,0
+7022,,Campbells Creek Dr & Leopold Ln,,+38.342110,-81.484090,,,0,,,0
+7023,,Campbells Creek Dr & Catenary Coal Company Rd,,+38.344440,-81.477550,,,0,,,0
+7024,,Campbells Creek Dr & Slate Lick Rd,,+38.331170,-81.454690,,,0,,,0
+7025,,Campbells Creek Dr & Eight Mile Hollow Rd,,+38.321030,-81.427270,,,0,,,0

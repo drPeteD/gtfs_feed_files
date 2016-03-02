@@ -1,0 +1,15 @@
+route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,shape_id,wheelchair_accessible,bikes_allowed
+R17,saturday,KRT_Saturday-17_out-a,,,,,R2_cc_in,1,1
+R17,saturday,KRT_Saturday-17_out-b,,,,,R2_cc_in,1,1
+R17,saturday,KRT_Saturday-17_out-c,,,,,R2_cc_in,1,1
+R17,saturday,KRT_Saturday-17_out-d,,,,,R2_cc_in,1,1
+R17,saturday,KRT_Saturday-17_out-e,,,,,R2_cc_in,1,1
+R17,saturday,KRT_Saturday-17_out-f,,,,,R2_cc_in,1,1
+R17,saturday,KRT_Saturday-17_out-g,,,,,R2_cc_in,1,1
+R17,saturday,KRT_Saturday-17_out-h,,,,,R2_cc_in,1,1
+R17,saturday,KRT_Saturday-17_out-i,,,,,R2_cc_in,1,1
+R17,saturday,KRT_Saturday-17_out-j,,,,,R2_cc_in,1,1
+R17,saturday,KRT_Saturday-17_out-k,,,,,R2_cc_in,1,1
+R17,saturday,KRT_Saturday-17_out-l,,,,,R2_cc_in,1,1
+R17,saturday,KRT_Saturday-17_out-m,,,,,R2_cc_in,1,1
+R17,saturday,KRT_Saturday-17_out-n,,,,,R2_cc_in,1,1

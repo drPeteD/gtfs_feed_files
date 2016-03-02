@@ -1,0 +1,56 @@
+stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type, parent_station,stop_timezone,wheelchair_boarding
+2,,Transit Mall stop 2,,+38.352150,-81.634960,,,0,100,,0
+2001,,Capitol Complex,,+38.337070,-81.609670,,,0,,,0
+2003,,MacCorkle Ave & 57th St,,+38.313840,-81.568410,,,0,,,0
+2004,,Marmet,,+38.242390,-81.564660,,,0,,,0
+2005,,Cabin Creek,,+38.199200,-81.475210,,,0,,,0
+2006,,Quincy Walmart,,+38.203090,-81.505460,,,0,,,0
+2010,,Lee St & Capitol St,,+38.350750,-81.633380,,,0,,,0
+2011,,Lee St & Leon Sullivan Way,,+38.348480,-81.630760,,,0,,,0
+2012,,Washington St & Morris St,,+38.346630,-81.626770,,,0,,,0
+2013,,Washington St & Bradford St,,+38.345000,-81.624820,,,0,,,0
+2014,,Washington St & Ruffner Ave,,+38.343720,-81.622950,,,0,,,0
+2015,,Washington St & Thompson St,,+38.342380,-81.620590,,,0,,,0
+2016,,Washington St & Maxwell St,,+38.340900,-81.617470,,,0,,,0
+2017,,Washington St & Sidney St,,+38.339950,-81.615580,,,0,,,0
+2018,,Greenbrier St & Quarrier St,,+38.338180,-81.614990,,,0,,,0
+2019,,Washington St & Michigan Ave,,+38.336670,-81.608210,,,0,,,0
+2020,,Washington St & Chesapeake Ave,,+38.335770,-81.603940,,,0,,,0
+2021,,Washington St & East Ave,,+38.335220,-81.600460,,,0,,,0
+2022,,35th St & Noyes Ave,,+38.329410,-81.598570,,,0,,,0
+2023,,MacCorkle Ave & 37th St,,+38.328080,-81.595590,,,0,,,0
+2024,,MacCorkle Ave & 39th St,,+38.327250,-81.591700,,,0,,,0
+2025,,MacCorkle Ave & 41st St,,+38.325930,-81.589460,,,0,,,0
+2026,,MacCorkle Ave & 43rd St,,+38.324470,-81.586890,,,0,,,0
+2027,,MacCorkle Ave & 45th St,,+38.323020,-81.584530,,,0,,,0
+2028,,MacCorkle Ave & 47th St,,+38.321500,-81.581680,,,0,,,0
+2029,,MacCorkle Ave & 50th St,,+38.319150,-81.577670,,,0,,,0
+2030,,MacCorkle Ave & 52nd St,,+38.317580,-81.574910,,,0,,,0
+2031,,MacCorkle Ave & 54th St,,+38.316070,-81.572300,,,0,,,0
+2032,,MacCorkle Ave & 56th St,,+38.314600,-81.569750,,,0,,,0
+2038,,Kroger,,+38.311790,-81.564900,,,0,,,0
+2039,,MacCorkle Ave & 58th St,,+38.310710,-81.563550,,,0,,,0
+2040,,MacCorkle Ave & Alex Ln,,+38.306100,-81.563250,,,0,,,0
+2041,,Kmart,,+38.302500,-81.563690,,,0,,,0
+2042,,MacCorkle Ave & 67th St,,+38.298100,-81.565390,,,0,,,0
+2043,,MacCorkle Ave & 70th St,,+38.295520,-81.566510,,,0,,,0
+2044,,MacCorkle Ave & 72nd St,,+38.293660,-81.567180,,,0,,,0
+2045,,MacCorkle Ave & 83rd St,,+38.253160,-81.572280,,,0,,,0
+2046,,MacCorkle Ave & 87th St,,+38.250050,-81.570480,,,0,,,0
+2047,,MacCorkle Ave & 93rd St,,+38.246250,-81.567700,,,0,,,0
+2048,,Kroger,,+38.240540,-81.559590,,,0,,,0
+2049,,MacCorkle Ave & 116th St,,+38.232670,-81.548520,,,0,,,0
+2050,,MacCorkle Ave & 118th St,,+38.229980,-81.544940,,,0,,,0
+2051,,MacCorkle Ave & 120th St,,+38.227170,-81.541170,,,0,,,0
+2052,,MacCorkle Ave & 122nd St,,+38.225120,-81.538540,,,0,,,0
+2053,,MacCorkle Ave & 129th St,,+38.221180,-81.533220,,,0,,,0
+2054,,MacCorkle Ave & 135th St,,+38.217530,-81.528720,,,0,,,0
+2055,,MacCorkle Ave & Fields Creek Rd,,+38.212220,-81.524330,,,0,,,0
+2056,,MacCorkle Ave & N Porter St,,+38.195300,-81.492630,,,0,,,0
+2057,,MacCorkle Ave & Saxton St,,+38.195130,-81.489260,,,0,,,0
+2058,,MacCorkle Ave & James River Rd,,+38.195270,-81.484600,,,0,,,0
+2059,,MacCorkle Ave & Cabin Creek Rd,,+38.196360,-81.480180,,,0,,,0
+2060,,E Dupont Ave & Warrior Way,,+38.210380,-81.511320,,,0,,,0
+2061,,Riverside High School,,+38.208430,-81.511680,,,0,,,0
+2062,,McDonald's,,+38.204530,-81.504920,,,0,,,0
+2063,,MacCorkle Ave & Slaughters Creek Dr,,+38.195930,-81.497550,,,0,,,0

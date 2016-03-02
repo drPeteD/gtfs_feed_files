@@ -1,0 +1,10 @@
+stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type, parent_station,stop_timezone,wheelchair_boarding
+11010,,Morris St & Smith St,,+38.349090,-81.623850,,,0,,,0
+14001,,Capitol Market,,+38.352870,-81.628690,,,0,,,0
+14002,,City Park,,+38.348510,-81.616250,,,0,,,0
+14010,,St Francis Hospital,,+38.353320,-81.632660,,,0,,,0
+14011,,Donnally St & Summers St,,+38.352860,-81.631420,,,0,,,0
+14012,,Donnally St & Capitol St,,+38.351990,-81.630740,,,0,,,0
+14013,,Smith St & Leon Sullivan Way,,+38.351290,-81.626720,,,0,,,0
+14014,,Morris St & Piedmont Rd,,+38.350670,-81.621460,,,0,,,0
+3,,Transit Mall stop 3,,+38.351780,-81.635660,,,0,100,,0

@@ -1,0 +1,7 @@
+route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,shape_id,wheelchair_accessible,bikes_allowed
+R21,sunday,KRT_Sunday-21_in-a,,,,,R21_in_TraceFk_SoRg_local,1,1
+R21,sunday,KRT_Sunday-21_in-b,,,,,R21_in_TraceFk_SoRg_local,1,1
+R21,sunday,KRT_Sunday-21_in-c,,,,,R21_in_TraceFk_SoRg_local,1,1
+R21,sunday,KRT_Sunday-21_in-d,,,,,R21_in_TraceFk_SoRg_local,1,1
+R21,sunday,KRT_Sunday-21_in-e,,,,,R21_in_TraceFk_SoRg_local,1,1
+R21,sunday,KRT_Sunday-21_in-f,,,,,R21_in_TraceFk_SoRg_local,1,1

@@ -1,0 +1,8 @@
+route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,shape_id,wheelchair_accessible,bikes_allowed
+R5,weekday,KRT_Weekday-5_in_nmp_tm-a,,,,,,1,1
+R5,weekday,KRT_Weekday-5_in_nmp_tm-b,,,,,,1,1
+R5,weekday,KRT_Weekday-5_in_nmp_tm-c,,,,,,1,1
+R5,weekday,KRT_Weekday-5_in_nmp_tm-d,,,,,,1,1
+R5,weekday,KRT_Weekday-5_in_nmp_tm-e,,,,,,1,1
+R5,weekday,KRT_Weekday-5_in_nmp_tm-f,,,,,,1,1
+R5,weekday,KRT_Weekday-5_in_nmp_tm-g,,,,,,1,1

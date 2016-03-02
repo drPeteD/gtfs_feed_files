@@ -1,7 +1,24 @@
 route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
-R1,krt,01,,Saint Albans via Kanawha Terrace,3,http://rideonkrt.com/schedules15/KVRTA-Rt-1sa-v3web.pdf,FF9900,FFFFFF
-R1,krt,01,Saint Albans via Kanawha Terrace,,3,,FF9900,FFFFFF
-R1,krt,,,,3,,FF9900,FFFFFF
-route_id,krt,,,,3,,FF9900,FFFFFF
-route_id,krt,,,,3,,,
-R1,krt,,,,3,,,
+R10,krt,,Northgate / Hillcrest Drive,,3,http://rideonkrt.com/wp-content/uploads/2015/11/KVRTA-Rt-10-NovWeb.pdf,CA2214,FFFFFF
+R11,krt,,Wertz Avenue,,3,http://rideonkrt.com/wp-content/uploads/2015/11/KVRTA-Rt-11-NovWeb.pdf,0095D7,FFFFFF
+R13,krt,,Beech Avenue,,3,http://rideonkrt.com/wp-content/uploads/2015/11/KVRTA-Rt-13-NovWeb.pdf,16A33D,FFFFFF
+R14,krt,,City Park,,3,http://rideonkrt.com/wp-content/uploads/2015/11/KVRTA-Rt-14-NovWeb.pdf,801F7C,FFFFFF
+R15,krt,,South Hills,,3,http://rideonkrt.com/wp-content/uploads/2015/11/KVRTA-Rt-15-NovWeb.pdf,16A33D,FFFFFF
+R16,krt,,South Park,,3,http://rideonkrt.com/wp-content/uploads/2015/11/KVRTA-Rt-16-NovWeb.pdf,CA2214,FFFFFF
+R17,krt,,South Side,,3,http://rideonkrt.com/wp-content/uploads/2015/11/KVRTA-Rt-17-NovWeb.pdf,801F7C,FFFFFF
+R18,krt,,Fort Hill-Montrose,,3,http://rideonkrt.com/wp-content/uploads/2015/11/KVRTA-Rt-18-NovWeb.pdf,EB7E15,FFFFFF
+R19,krt,,Charleston Loop / Trolley,,3,http://rideonkrt.com/wp-content/uploads/2015/11/KVRTA-Trolley-Rt-19-NovWeb.pdf,0095D7,FFFFFF
+R1SA,krt,,St. Albans,,3,http://rideonkrt.com/wp-content/uploads/2015/11/KVRTA-Rt-1sa-NovWeb.pdf,CA2214,FFFFFF
+R1WC,krt,,West Charleston,,3,http://rideonkrt.com/wp-content/uploads/2015/11/KVRTA-Rt-1wc-NovWeb.pdf,CA2214,FFFFFF
+R21,krt,,Southridge / Trace Fork / Dudley Farms,,3,http://rideonkrt.com/wp-content/uploads/2015/11/KVRTA-Rt-21-NovWeb.pdf,00569C,FFFFFF
+R22Q,krt,,Montgomery/Quincy Mall,,3,http://rideonkrt.com/wp-content/uploads/2015/11/KVRTA-Rt-22Q-NovWeb.pdf,801F7C,FFFFFF
+R22m,krt,,Montgomery,,3,http://rideonkrt.com/wp-content/uploads/2015/11/KVRTA-Rt-22M-NovWeb.pdf,801F7C,FFFFFF
+R23,krt,,Clendenin,,3,http://rideonkrt.com/wp-content/uploads/2015/11/KVRTA-Rt-23-NovWeb.pdf,CA2214,FFFFFF
+R2CC,krt,,Cabin Creek,,3,http://rideonkrt.com/wp-content/uploads/2015/11/KVRTA-Rt-2cc-NovWeb.pdf,16A33D,FFFFFF
+R2KC,krt,,Kanawha City,,3,http://rideonkrt.com/wp-content/uploads/2015/11/KVRTA-Rt-2kc-NovWeb.pdf,16A33D,FFFFFF
+R3I,krt,,Institute / WV State University,,3,http://rideonkrt.com/wp-content/uploads/2015/11/KVRTA-Rt-3i-NovWeb.pdf,801F7C,FFFFFF
+R3N,krt,,Nitro,,3,http://rideonkrt.com/wp-content/uploads/2015/11/KVRTA-Rt-3n-NovWeb.pdf,801F7C,FFFFFF
+R5,krt,,Tyler Mountain / Cross Lanes,,3,http://rideonkrt.com/wp-content/uploads/2015/11/KVRTA-Rt-5-NovWeb.pdf,16A33D,FFFFFF
+R6,krt,,Elkview,,3,http://rideonkrt.com/wp-content/uploads/2015/11/KVRTA-Rt-6-NovWeb.pdf,801F7C,FFFFFF
+R7,krt,,Campbells Creek,,3,http://rideonkrt.com/wp-content/uploads/2015/11/KVRTA-Rt-7-NovWeb.pdf,EB7E15,FFFFFF
+R8,krt,,Sissonville,,3,http://rideonkrt.com/wp-content/uploads/2015/11/KVRTA-Rt-8-NovWeb.pdf,0095D7,FFFFFF

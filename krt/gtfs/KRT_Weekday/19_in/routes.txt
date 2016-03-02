@@ -1,0 +1,2 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+R19,krt,,Charleston Loop / Trolley,,3,http://rideonkrt.com/wp-content/uploads/2015/11/KVRTA-Trolley-Rt-19-NovWeb.pdf,,

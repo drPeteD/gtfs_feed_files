@@ -1,0 +1,30 @@
+stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type, parent_station,stop_timezone,wheelchair_boarding
+2,,Transit Mall stop 2,,+38.352150,-81.634960,,,0,100,,0
+2012,,Washington St & Morris St,,+38.346630,-81.626770,,,0,,,0
+2013,,Washington St & Bradford St,,+38.345000,-81.624820,,,0,,,0
+2014,,Washington St & Ruffner Ave,,+38.343720,-81.622950,,,0,,,0
+2015,,Washington St & Thompson St,,+38.342380,-81.620590,,,0,,,0
+2016,,Washington St & Maxwell St,,+38.340900,-81.617470,,,0,,,0
+2017,,Washington St & Sidney St,,+38.339950,-81.615580,,,0,,,0
+2035,,CAMC General Hospital,,+38.347320,-81.627490,,,0,,,0
+2036,,Washington St & Shrewsbury St,,+38.349930,-81.630780,,,0,,,0
+2037,,Washington St & Capitol St,,+38.351320,-81.632150,,,0,,,0
+6001,,Greenbrier St & Washington St,,+38.339150,-81.613880,,,0,,,0
+6002,,Northgate,,+38.362040,-81.567950,,,0,,,0
+6003,,Capital High School,,+38.372170,-81.574490,,,0,,,0
+6004,,Rt 114 & Quick Rd,,+38.400980,-81.482620,,,0,,,0
+6005,,Crossings Mall,,+38.457520,-81.500670,,,0,,,0
+6010,,Greenbrier St & Hillcrest Dr,,+38.344870,-81.607230,,,0,,,0
+6011,,Greenbrier St & Oakridge Dr,,+38.346680,-81.605290,,,0,,,0
+6012,,Nursing Home,,+38.356140,-81.610220,,,0,,,0
+6013,,Greenbrier St & Rutledge Rd,,+38.366450,-81.581810,,,0,,,0
+6014,,Rt 114 & Elkhart Dr,,+38.397970,-81.551650,,,0,,,0
+6015,,Big Chimney Bridge,,+38.403320,-81.541440,,,0,,,0
+6016,,Rt 114 & Bream Dr,,+38.402790,-81.522180,,,0,,,0
+6017,,Rt 114 & Pinchton Trail,,+38.401550,-81.494330,,,0,,,0
+6018,,Pinch Elementary,,+38.405780,-81.480980,,,0,,,0
+6019,,Rt 114 & Reunion Rd,,+38.413480,-81.485430,,,0,,,0
+6020,,Rt 114 & Verna Rd,,+38.431740,-81.485680,,,0,,,0
+6021,,Rt 114 & Rt 119,,+38.440780,-81.485800,,,0,,,0
+6022,,Frame Rd & Old Frame Rd,,+38.448060,-81.483190,,,0,,,0
+6023,,Frame Rd & Little Sandy Rd,,+38.457350,-81.496940,,,0,,,0

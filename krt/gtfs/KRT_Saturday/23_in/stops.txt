@@ -1,0 +1,34 @@
+stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type, parent_station,stop_timezone,wheelchair_boarding
+1,,Transit Mall stop 1,,+38.352030,-81.635280,,,0,100,,0
+100,,Town Center Station,Charleston Transit Station,+38.352089,-81.635344,,,1,,,1
+19015,,Bigley Ave & Spring St,,+38.360760,-81.627410,,,0,,,0
+19016,,Bigley Ave & Glen St,,+38.360680,-81.635420,,,0,,,0
+23001,,Rt 119 & Lilly St,,+38.364370,-81.613070,,,0,,,0
+23002,,Rt 119 & Dutch Rd,,+38.389240,-81.593220,,,0,,,0
+23003,,Rt 119 & Coopers Crk,,+38.406130,-81.541650,,,0,,,0
+23004,,Rt 119 & Frame Rd,,+38.442800,-81.480140,,,0,,,0
+23005,,Rt 119 & Jordan Creek,,+38.472070,-81.399200,,,0,,,0
+23006,,Clendenin,,+38.488830,-81.347790,,,0,,,0
+23010,,Bigley Ave & Garrison Ave,,+38.361310,-81.623010,,,0,,,0
+23012,,Bigley Ave & Westmoreland Dr,,+38.362190,-81.619280,,,0,,,0
+23014,,Rt 119 & Newhouse Dr,,+38.375730,-81.604320,,,0,,,0
+23015,,Rt 119 & Knollwood Dr,,+38.382250,-81.597920,,,0,,,0
+23016,,Rt 119 & Roselane Dr,,+38.385960,-81.593640,,,0,,,0
+23017,,Rt 119 & Uno Ln,,+38.394070,-81.587580,,,0,,,0
+23018,,Rt 119 & Henry C Shores Dr,,+38.400440,-81.578530,,,0,,,0
+23019,,Elk Center Community Education,,+38.397950,-81.569990,,,0,,,0
+23020,,Rt 119 & Concord St,,+38.396140,-81.562870,,,0,,,0
+23022,,Rt 119 & Smith Mountain Rd,,+38.406640,-81.525380,,,0,,,0
+23023,,Rt 119 & Grant St,,+38.409280,-81.511240,,,0,,,0
+23024,,Rt 119 & Little Sandy Rd,,+38.411810,-81.504400,,,0,,,0
+23026,,Rt 119 & Blue Creek Rd,,+38.450730,-81.457400,,,0,,,0
+23027,,Rt 119 & Dixie St,,+38.463900,-81.446380,,,0,,,0
+23028,,Rt 119 & Youngs Bottom,,+38.459570,-81.421590,,,0,,,0
+23029,,Herbert Hoover High School,,+38.473490,-81.396180,,,0,,,0
+23030,,Russell St,,+38.480810,-81.368090,,,0,,,0
+3086,,Lee St & Pennsylvania Ave,,+38.359060,-81.641510,,,0,,,0
+3087,,Lee St & Clendenin St,,+38.356040,-81.638970,,,0,,,0
+3088,,Lee St & Court St,,+38.353360,-81.635440,,,0,,,0
+6005,,Crossings Mall,,+38.457520,-81.500670,,,0,,,0
+6022,,Frame Rd & Old Frame Rd,,+38.448060,-81.483190,,,0,,,0
+6023,,Frame Rd & Little Sandy Rd,,+38.457350,-81.496940,,,0,,,0

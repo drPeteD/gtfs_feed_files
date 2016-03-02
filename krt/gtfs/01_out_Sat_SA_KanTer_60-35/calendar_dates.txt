@@ -1,9 +1,0 @@
-service_id,date,exception_type
-<<<<<<< HEAD
-=======
-saturday,20151225,2
-saturday,20160101,2
-saturday,20160704,2
-saturday,20161124,2
-saturday,20161225,2
->>>>>>> 4a49a162cf44b1cfafd4e204bcb54ce4c87bd3e6

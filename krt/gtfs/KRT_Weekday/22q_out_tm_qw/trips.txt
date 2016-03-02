@@ -1,0 +1,2 @@
+route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,shape_id,wheelchair_accessible,bikes_allowed
+R22Q,weekday,KRT_Weekday-22q_out_tm_qw-a,,,,,,,

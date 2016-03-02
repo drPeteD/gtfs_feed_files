@@ -1,0 +1,13 @@
+route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,shape_id,wheelchair_accessible,bikes_allowed
+R22m,saturday,KRT_Saturday-22m_out-a,,,,,R22_out_Montgomery,1,1
+R22m,saturday,KRT_Saturday-22m_out-b,,,,,R22_out_Montgomery,1,1
+R22m,saturday,KRT_Saturday-22m_out-c,,,,,R22_out_Montgomery,1,1
+R22m,saturday,KRT_Saturday-22m_out-d,,,,,R22_out_Montgomery,1,1
+R22m,saturday,KRT_Saturday-22m_out-e,,,,,R22_out_Montgomery,1,1
+R22m,saturday,KRT_Saturday-22m_out-f,,,,,R22_out_Montgomery,1,1
+R22m,saturday,KRT_Saturday-22m_out-g,,,,,R22_out_Montgomery,1,1
+R22m,saturday,KRT_Saturday-22m_out-h,,,,,R22_out_Montgomery,1,1
+R22m,saturday,KRT_Saturday-22m_out-i,,,,,R22_out_Montgomery,1,1
+R22m,saturday,KRT_Saturday-22m_out-j,,,,,R22_out_Montgomery,1,1
+R22m,saturday,KRT_Saturday-22m_out-k,,,,,R22_out_Montgomery,1,1
+R22m,saturday,KRT_Saturday-22m_out-l,,,,,R22_out_Montgomery,1,1

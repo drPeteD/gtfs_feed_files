@@ -1,0 +1,26 @@
+stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type, parent_station,stop_timezone,wheelchair_boarding
+14001,,Capitol Market,,+38.352870,-81.628690,,,0,,,0
+14012,,Donnally St & Capitol St,,+38.351990,-81.630740,,,0,,,0
+19001,,Lee St & Maryland Ave,,+38.362980,-81.644630,,,0,,,0
+19002,,Quarrier St & Capitol St,,+38.349910,-81.635120,,,0,,,0
+19003,,Bigley Ave & Ash St,,+38.360740,-81.625820,,,0,,,0
+19012,,CAMC Women & Children's,,+38.359410,-81.638920,,,0,,,0
+19013,,WV Lottery Headquarters,,+38.359840,-81.635220,,,0,,,0
+19014,,Bigley Ave & Pennsylvania Ave,,+38.360020,-81.629600,,,0,,,0
+19015,,Bigley Ave & Spring St,,+38.360760,-81.627410,,,0,,,0
+19016,,Bigley Ave & Glen St,,+38.360680,-81.635420,,,0,,,0
+2010,,Lee St & Capitol St,,+38.350750,-81.633380,,,0,,,0
+2018,,Greenbrier St & Quarrier St,,+38.338180,-81.614990,,,0,,,0
+3001,,Capitol Complex,,+38.337560,-81.610090,,,0,,,0
+3010,,Quarrier St & Elizabeth St,,+38.339310,-81.617540,,,0,,,0
+3011,,Quarrier St & Ruffner Ave,,+38.342190,-81.624480,,,0,,,0
+3012,,Quarrier St & Morris St,,+38.345080,-81.628740,,,0,,,0
+3013,,Quarrier St & Leon Sullivan Way,,+38.347530,-81.632040,,,0,,,0
+3014,,Quarrier St & Dickinson St,,+38.348930,-81.633920,,,0,,,0
+3016,,Washington St & Court St,,+38.353930,-81.634310,,,0,,,0
+3017,,Washington St & Margaret St,,+38.355230,-81.636050,,,0,,,0
+3018,,Washington St & Reynolds St,,+38.357010,-81.638930,,,0,,,0
+3020,,Washington St & Bigley Ave,,+38.360470,-81.640900,,,0,,,0
+3021,,Washington St & Ohio Ave,,+38.362310,-81.641660,,,0,,,0
+3022,,Washington St & Greendale Dr,,+38.363930,-81.642910,,,0,,,0
+3083,,Lee St & Delaware Ave,,+38.363720,-81.645150,,,0,,,0

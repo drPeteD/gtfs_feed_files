@@ -1,0 +1,22 @@
+stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type, parent_station,stop_timezone,wheelchair_boarding
+2002,,Shops @ Kanawha Mall,,+38.312250,-81.568310,,,0,,,0
+2023,,MacCorkle Ave & 37th St,,+38.328080,-81.595590,,,0,,,0
+2024,,MacCorkle Ave & 39th St,,+38.327250,-81.591700,,,0,,,0
+2025,,MacCorkle Ave & 41st St,,+38.325930,-81.589460,,,0,,,0
+2026,,MacCorkle Ave & 43rd St,,+38.324470,-81.586890,,,0,,,0
+2027,,MacCorkle Ave & 45th St,,+38.323020,-81.584530,,,0,,,0
+2028,,MacCorkle Ave & 47th St,,+38.321500,-81.581680,,,0,,,0
+2029,,MacCorkle Ave & 50th St,,+38.319150,-81.577670,,,0,,,0
+2030,,MacCorkle Ave & 52nd St,,+38.317580,-81.574910,,,0,,,0
+2031,,MacCorkle Ave & 54th St,,+38.316070,-81.572300,,,0,,,0
+2032,,MacCorkle Ave & 56th St,,+38.314600,-81.569750,,,0,,,0
+3,,Transit Mall stop 3,,+38.351780,-81.635660,,,0,100,,0
+3089,,Virginia St & Summers St,,+38.349870,-81.636770,,,0,,,0
+3090,,Virginia St & Capitol St,,+38.349250,-81.636050,,,0,,,0
+7001,,CAMC Memorial,,+38.329460,-81.601020,,,0,,,0
+7010,,Thayer St & MacCorkle Ave,,+38.350180,-81.643420,,,0,,,0
+7011,,Frontage Rd & Porter Rd,,+38.338450,-81.628970,,,0,,,0
+7012,,Columbia Pipeline Group,,+38.335720,-81.625060,,,0,,,0
+7013,,University of Charleston,,+38.332260,-81.615620,,,0,,,0
+7014,,Frontage Rd & 28th St,,+38.330140,-81.610040,,,0,,,0
+7015,,Frontage Rd & 31st St,,+38.329090,-81.604680,,,0,,,0

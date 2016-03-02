@@ -1,0 +1,59 @@
+stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type, parent_station,stop_timezone,wheelchair_boarding
+1,,Transit Mall stop 1,,+38.352030,-81.635280,,,0,100,,0
+2001,,Capitol Complex,,+38.337070,-81.609670,,,0,,,0
+2006,,Quincy Walmart,,+38.203090,-81.505460,,,0,,,0
+2019,,Washington St & Michigan Ave,,+38.336670,-81.608210,,,0,,,0
+2020,,Washington St & Chesapeake Ave,,+38.335770,-81.603940,,,0,,,0
+2021,,Washington St & East Ave,,+38.335220,-81.600460,,,0,,,0
+2060,,E Dupont Ave & Warrior Way,,+38.210380,-81.511320,,,0,,,0
+2061,,Riverside High School,,+38.208430,-81.511680,,,0,,,0
+22001,,Malden Underpass,,+38.300840,-81.556940,,,0,,,0
+22002,,McDonald's,,+38.204460,-81.504890,,,0,,,0
+22003,,Cedar Grove,,+38.221110,-81.428170,,,0,,,0
+22004,,Montgomery,,+38.180740,-81.324310,,,0,,,0
+22010,,Washington St & Wertz Ave,,+38.334030,-81.596720,,,0,,,0
+22011,,Kanawha Blvd & E Point Dr,,+38.332570,-81.586830,,,0,,,0
+22012,,Daniel Boone Park,,+38.331250,-81.583890,,,0,,,0
+22013,,The Anchor,,+38.315780,-81.560940,,,0,,,0
+22014,,Kanawha Blvd & River Ln,,+38.313500,-81.559250,,,0,,,0
+22015,,Malden Dr & Wayne Dr,,+38.298480,-81.557810,,,0,,,0
+22016,,Malden Dr & Plum Dr,,+38.296700,-81.559550,,,0,,,0
+22017,,Carver Career & Technical,,+38.289360,-81.561130,,,0,,,0
+22018,,Midland Dr & Bluefield Ave,,+38.285240,-81.562650,,,0,,,0
+22019,,Midland Dr & Clemson Ave,,+38.283270,-81.563230,,,0,,,0
+22020,,Midland Dr & Davidson Ave,,+38.281030,-81.563760,,,0,,,0
+22021,,Midland Dr & Furman Dr,,+38.277510,-81.564340,,,0,,,0
+22022,,Midland Dr & Church Dr,,+38.275080,-81.564500,,,0,,,0
+22023,,Midland Dr & Marshall Ave,,+38.272470,-81.564660,,,0,,,0
+22024,,Midland Dr & W 33rd St,,+38.267440,-81.565060,,,0,,,0
+22025,,DuPont,,+38.244220,-81.553760,,,0,,,0
+22026,,Midland Dr & Kanawha St,,+38.235830,-81.541770,,,0,,,0
+22027,,Midland Dr & 4th St E,,+38.234260,-81.540020,,,0,,,0
+22028,,Midland Dr & E 9th St,,+38.231430,-81.536900,,,0,,,0
+22029,,Belle Community Center,,+38.230320,-81.535600,,,0,,,0
+22030,,Cecil Walker Machinery,,+38.227650,-81.532640,,,0,,,0
+22031,,E Dupont Ave & 19th St,,+38.224070,-81.526840,,,0,,,0
+22032,,E Dupont Ave & 21st St,,+38.221590,-81.523130,,,0,,,0
+22033,,E Dupont Ave & Carbide Dr,,+38.218260,-81.521090,,,0,,,0
+22034,,E Dupont Ave & Maroney Ln,,+38.206360,-81.471360,,,0,,,0
+22035,,E Dupont Ave & Dorothy Dr,,+38.211820,-81.463990,,,0,,,0
+22036,,E Dupont Ave & Mile Branch Rd,,+38.220520,-81.448440,,,0,,,0
+22037,,E Dupont Ave & AEP Way,,+38.208140,-81.420520,,,0,,,0
+22038,,E Dupont Ave & Britt Hollow,,+38.209310,-81.399810,,,0,,,0
+22039,,E Dupont Ave & Stephen St Access Rd,,+38.209220,-81.372540,,,0,,,0
+22040,,Montgomery Memorial Park,,+38.201830,-81.370940,,,0,,,0
+22041,,London Locks,,+38.194510,-81.368760,,,0,,,0
+22042,,E Dupont Ave & Dunn Hollow,,+38.184900,-81.340930,,,0,,,0
+22043,,Fayette Pike W & S Ferry St,,+38.180530,-81.323220,,,0,,,0
+22044,,Fayette Pike W & Jackson St,,+38.180260,-81.331050,,,0,,,0
+22045,,Virginia St & Greenbrier St,,+38.337400,-81.615700,,,0,,,0
+3089,,Virginia St & Summers St,,+38.349870,-81.636770,,,0,,,0
+3090,,Virginia St & Capitol St,,+38.349250,-81.636050,,,0,,,0
+3091,,Virginia St & McFarland St,,+38.347990,-81.634470,,,0,,,0
+3092,,Virginia St & Leon Sullivan Way,,+38.346800,-81.633020,,,0,,,0
+3093,,Virginia St & Morris St,,+38.344190,-81.629850,,,0,,,0
+3094,,Virginia St & Bradford St,,+38.342700,-81.627530,,,0,,,0
+3095,,Virginia St & Ruffner Ave,,+38.341420,-81.625460,,,0,,,0
+3096,,Carroll Terrace Apartments,,+38.340130,-81.622580,,,0,,,0
+3097,,Virginia St & Elizabeth St,,+38.338470,-81.618270,,,0,,,0
+7016,,Kanawha Blvd & Campbells Creek Dr,,+38.309010,-81.556180,,,0,,,0

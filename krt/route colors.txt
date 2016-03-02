@@ -1,0 +1,13 @@
+Routes 1, 10, 16, 23 (RED):  R=202, G=34, B=20             CA2214
+
+Routes 2, 5, 13, 15 (GREEN):  R=22, G=163, B=61            16A33D
+
+Routes 3, 6, 14, 17, 22 (PURPLE):  R=128, G=31, B=124      801F7C
+
+Routes 7, 18, 20 (ORANGE):  R=235, G=126, B=21             EB7E15
+
+Routes 8, 11 19 (BRIGHT BLUE):  R=0, G=149, B=215          0095D7
+
+Routes 21 (NAVY):  R=0, G=86, B=156                        00569C
+
+Routes 21X (NAVY TINT):  R=122, G=145, B=195               7A2DC3

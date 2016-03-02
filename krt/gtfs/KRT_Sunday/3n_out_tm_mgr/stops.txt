@@ -1,0 +1,71 @@
+stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type, parent_station,stop_timezone,wheelchair_boarding
+2,,Transit Mall stop 2,,+38.352150,-81.634960,,,0,100,,0
+3002,,7th Ave & 26th St,,+38.376540,-81.676390,,,0,,,0
+3003,,Dunbar Ave & 12th St,,+38.360440,-81.739900,,,0,,,0
+3004,,WV State University,,+38.383790,-81.765430,,,0,,,0
+3005,,1st Ave & 40th St,,+38.431820,-81.837150,,,0,,,0
+3006,,Nitro Marketplace,,+38.411450,-81.810590,,,0,,,0
+3007,,Mardi Gras Resort,,+38.421470,-81.809520,,,0,,,0
+3016,,Washington St & Court St,,+38.353930,-81.634310,,,0,,,0
+3017,,Washington St & Margaret St,,+38.355230,-81.636050,,,0,,,0
+3018,,Washington St & Reynolds St,,+38.357010,-81.638930,,,0,,,0
+3019,,Washington St & Pennsylvania Ave,,+38.359600,-81.640460,,,0,,,0
+3020,,Washington St & Bigley Ave,,+38.360470,-81.640900,,,0,,,0
+3021,,Washington St & Ohio Ave,,+38.362310,-81.641660,,,0,,,0
+3022,,Washington St & Greendale Dr,,+38.363930,-81.642910,,,0,,,0
+3023,,Washington St & Edgewood Dr,,+38.365490,-81.646620,,,0,,,0
+3024,,Washington St & Park Ave,,+38.366980,-81.650710,,,0,,,0
+3025,,Washington St & Garvin Ave,,+38.368010,-81.653090,,,0,,,0
+3026,,Washington St & Hunt Ave,,+38.369060,-81.655300,,,0,,,0
+3027,,Washington St & Barton St,,+38.370690,-81.658630,,,0,,,0
+3028,,Washington St & Stockton St,,+38.371930,-81.661180,,,0,,,0
+3029,,Washington St & Patrick St,,+38.373290,-81.663330,,,0,,,0
+3030,,Littlepage Terrace,,+38.375320,-81.665520,,,0,,,0
+3031,,Washington St & 20th St,,+38.375210,-81.669310,,,0,,,0
+3032,,7th Ave & 33rd St,,+38.377250,-81.685030,,,0,,,0
+3033,,7th Ave & 37th St,,+38.376430,-81.693130,,,0,,,0
+3034,,7th Ave & Nease Dr,,+38.373320,-81.704500,,,0,,,0
+3035,,7th Ave & Wilson St,,+38.371520,-81.708730,,,0,,,0
+3036,,Shamblin Stone,,+38.363780,-81.720070,,,0,,,0
+3037,,Dunbar Ave & 2nd St,,+38.361430,-81.726260,,,0,,,0
+3038,,Dunbar Village Shopping Center,,+38.360240,-81.735330,,,0,,,0
+3039,,Dunbar Ave & 16th St,,+38.361240,-81.744750,,,0,,,0
+3040,,16th St & Fletcher Ave,,+38.364130,-81.742580,,,0,,,0
+3041,,16th St & Fairlawn Ave,,+38.365420,-81.741620,,,0,,,0
+3042,,Fairlawn Ave & 22nd St,,+38.369420,-81.746210,,,0,,,0
+3043,,Fairlawn Ave & Washington Dr,,+38.373170,-81.750770,,,0,,,0
+3044,,Fairlawn Ave & King St,,+38.378120,-81.757010,,,0,,,0
+3045,,Shawnee Park,,+38.379530,-81.758490,,,0,,,0
+3046,,Fairlawn Ave & Goff Mountain Rd,,+38.388850,-81.780840,,,0,,,0
+3047,,1st Ave & Red Oak Dr,,+38.390550,-81.809620,,,0,,,0
+3048,,1st Ave & Spring St,,+38.392900,-81.825090,,,0,,,0
+3049,,1st Ave & Blackwood Ave,,+38.393920,-81.827280,,,0,,,0
+3051,,Center St & Main Ave,,+38.394180,-81.830290,,,0,,,0
+3052,,Main Ave & Valentine Cir,,+38.396810,-81.835160,,,0,,,0
+3053,,Main Ave & Walker St,,+38.399210,-81.837950,,,0,,,0
+3054,,Main Ave & Kapok St,,+38.401550,-81.840110,,,0,,,0
+3055,,Main Ave & Hickory St,,+38.403930,-81.841850,,,0,,,0
+3056,,Main Ave & Elm St,,+38.406350,-81.843160,,,0,,,0
+3057,,Main Ave & Beech St,,+38.408690,-81.844060,,,0,,,0
+3058,,Diehl's Restaurant,,+38.410130,-81.844510,,,0,,,0
+3059,,Main Ave & Lock St,,+38.413560,-81.845460,,,0,,,0
+3060,,1st Ave & 8th St,,+38.415370,-81.844090,,,0,,,0
+3061,,1st Ave & 13th St,,+38.417950,-81.743740,,,0,,,0
+3062,,1st Ave & 18th St,,+38.420420,-81.843080,,,0,,,0
+3063,,1st Ave & 22nd St,,+38.423340,-81.841880,,,0,,,0
+3064,,1st Ave & 27th St,,+38.425940,-81.840580,,,0,,,0
+3065,,1st Ave & 34th St,,+38.429190,-81.838990,,,0,,,0
+3066,,1st Ave & 39th St,,+38.431650,-81.837780,,,0,,,0
+3067,,40th St & Bailes Rd,,+38.430450,-81.832300,,,0,,,0
+3068,,40th St & Cochran Cir,,+38.429990,-81.827960,,,0,,,0
+3069,,40th St & Clark Dr,,+38.429670,-81.819920,,,0,,,0
+3070,,40th St & Crossroads Village Dr,,+38.429840,-81.813780,,,0,,,0
+3071,,40th St & Cross Lanes Dr,,+38.430820,-81.810280,,,0,,,0
+3072,,Cross Lanes Dr & Timber Creek Ln,,+38.425020,-81.804020,,,0,,,0
+3073,,Cross lanes Dr & Fairland Dr,,+38.422130,-81.799760,,,0,,,0
+3074,,Harbor Freight,,+38.420500,-81.794280,,,0,,,0
+3075,,Cross Lanes Dr & Goff Mountain Rd,,+38.420600,-81.790740,,,0,,,0
+3076,,Goff Mountain Rd & Brick Ln,,+38.416650,-81.794140,,,0,,,0
+3077,,Lakeview Dr & Goff Mountain Rd,,+38.414660,-81.794890,,,0,,,0
+3078,,Lakeview Dr & Jain Dr,,+38.412380,-81.798250,,,0,,,0
+3079,,Lakeview Dr & Don Karnes Blvd,,+38.412330,-81.803150,,,0,,,0

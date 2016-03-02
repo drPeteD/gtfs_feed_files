@@ -1,0 +1,17 @@
+stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type, parent_station,stop_timezone,wheelchair_boarding
+1,,Transit Mall stop 1,,+38.352030,-81.635280,,,0,100,,0
+100,,Town Center Station,Charleston Transit Station,+38.352089,-81.635344,,,1,,,1
+21003,,Trace Fork (Ice Rink),,+38.338860,-81.712870,,,0,,,0
+21004,,Walmart,,+38.320860,-81.715730,,,0,,,0
+21012,,Oakhurst Dr & Emerald Rd,,+38.342860,-81.676270,,,0,,,0
+21013,,Oakhurst Dr & Sherwood Forest Rd,,+38.338560,-81.694880,,,0,,,0
+21016,,Oakhurst Dr & Terry Rd,,+38.323520,-81.714960,,,0,,,0
+21017,,RHL Blvd & Oakhurst Dr,,+38.324430,-81.716980,,,0,,,0
+21018,,Kohl's,,+38.327540,-81.714610,,,0,,,0
+21019,,Longhorn Steakhouse,,+38.331440,-81.712740,,,0,,,0
+21020,,Dick's Sporting Goods,,+38.336030,-81.713070,,,0,,,0
+21025,,Gorridor G & Oakwood Rd,,+38.341480,-81.663320,,,0,,,0
+21026,,I-64 Ramp,,+38.353810,-81.649810,,,0,,,0
+21027,,Corridor G & Trace Fork Blvd,,+38.332450,-81.710850,,,0,,,0
+3087,,Lee St & Clendenin St,,+38.356040,-81.638970,,,0,,,0
+3088,,Lee St & Court St,,+38.353360,-81.635440,,,0,,,0

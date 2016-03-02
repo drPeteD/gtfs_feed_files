@@ -1,0 +1,3 @@
+Tue Mar  1 20:06:27 2016
+   KRT Workbooks: ['KRT_Weekday'].Finished processing.
+ END et:42 seconds ts:15:07:09

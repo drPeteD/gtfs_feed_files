@@ -1,0 +1,10 @@
+trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_type, drop_off_type,shape_dist_traveled
+KRT_Weekday-2cc_out_cc_qw-a,6:15:00,6:15:00,2005,10,,,,
+KRT_Weekday-2cc_out_cc_qw-a,,,2059,11,,,,
+KRT_Weekday-2cc_out_cc_qw-a,,,2058,12,,,,
+KRT_Weekday-2cc_out_cc_qw-a,,,2057,13,,,,
+KRT_Weekday-2cc_out_cc_qw-a,,,2056,14,,,,
+KRT_Weekday-2cc_out_cc_qw-a,,,2062,15,,,,
+KRT_Weekday-2cc_out_cc_qw-a,,,2060,16,,,,
+KRT_Weekday-2cc_out_cc_qw-a,,,2061,17,,,,
+KRT_Weekday-2cc_out_cc_qw-a,6:25:00,6:25:00,2006,18,,,,

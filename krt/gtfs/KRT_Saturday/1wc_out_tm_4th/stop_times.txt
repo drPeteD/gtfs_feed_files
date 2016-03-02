@@ -1,0 +1,13 @@
+trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_type, drop_off_type,shape_dist_traveled
+KRT_Saturday-1wc_out_tm_4th-a,18:30:00,18:30:00,1,100,,,,
+KRT_Saturday-1wc_out_tm_4th-a,,,1010,101,,,,
+KRT_Saturday-1wc_out_tm_4th-a,,,1011,102,,,,
+KRT_Saturday-1wc_out_tm_4th-a,,,1012,103,,,,
+KRT_Saturday-1wc_out_tm_4th-a,,,1013,104,,,,
+KRT_Saturday-1wc_out_tm_4th-a,,,1014,105,,,,
+KRT_Saturday-1wc_out_tm_4th-a,,,1015,106,,,,
+KRT_Saturday-1wc_out_tm_4th-a,,,1016,107,,,,
+KRT_Saturday-1wc_out_tm_4th-a,,,1017,108,,,,
+KRT_Saturday-1wc_out_tm_4th-a,,,1018,109,,,,
+KRT_Saturday-1wc_out_tm_4th-a,,,1019,110,,,,
+KRT_Saturday-1wc_out_tm_4th-a,18:43:00,18:43:00,1001,111,,,,

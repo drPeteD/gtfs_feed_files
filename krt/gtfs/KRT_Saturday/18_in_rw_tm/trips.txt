@@ -1,0 +1,5 @@
+route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,shape_id,wheelchair_accessible,bikes_allowed
+R18,saturday,KRT_Saturday-18_in_rw_tm-a,,,,,,1,1
+R18,saturday,KRT_Saturday-18_in_rw_tm-b,,,,,,1,1
+R18,saturday,KRT_Saturday-18_in_rw_tm-c,,,,,,1,1
+R18,saturday,KRT_Saturday-18_in_rw_tm-d,,,,,,1,1

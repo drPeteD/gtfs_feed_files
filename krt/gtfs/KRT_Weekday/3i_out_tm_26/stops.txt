@@ -1,0 +1,19 @@
+stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type, parent_station,stop_timezone,wheelchair_boarding
+2,,Transit Mall stop 2,,+38.352150,-81.634960,,,0,100,,0
+3002,,7th Ave & 26th St,,+38.376540,-81.676390,,,0,,,0
+3016,,Washington St & Court St,,+38.353930,-81.634310,,,0,,,0
+3017,,Washington St & Margaret St,,+38.355230,-81.636050,,,0,,,0
+3018,,Washington St & Reynolds St,,+38.357010,-81.638930,,,0,,,0
+3019,,Washington St & Pennsylvania Ave,,+38.359600,-81.640460,,,0,,,0
+3020,,Washington St & Bigley Ave,,+38.360470,-81.640900,,,0,,,0
+3021,,Washington St & Ohio Ave,,+38.362310,-81.641660,,,0,,,0
+3022,,Washington St & Greendale Dr,,+38.363930,-81.642910,,,0,,,0
+3023,,Washington St & Edgewood Dr,,+38.365490,-81.646620,,,0,,,0
+3024,,Washington St & Park Ave,,+38.366980,-81.650710,,,0,,,0
+3025,,Washington St & Garvin Ave,,+38.368010,-81.653090,,,0,,,0
+3026,,Washington St & Hunt Ave,,+38.369060,-81.655300,,,0,,,0
+3027,,Washington St & Barton St,,+38.370690,-81.658630,,,0,,,0
+3028,,Washington St & Stockton St,,+38.371930,-81.661180,,,0,,,0
+3029,,Washington St & Patrick St,,+38.373290,-81.663330,,,0,,,0
+3030,,Littlepage Terrace,,+38.375320,-81.665520,,,0,,,0
+3031,,Washington St & 20th St,,+38.375210,-81.669310,,,0,,,0
