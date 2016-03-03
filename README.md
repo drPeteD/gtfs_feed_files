@@ -2,7 +2,7 @@
 ### For several West Virginia Transit agencies
 
 + [Buckwheat Express](https://github.com/drPeteD/gtfs_feed_files/tree/master/bwx) (BWX) - Preston County, WV
-+ Kanawha Valley Regional Transportation, (KRT) - Greater Charleston, WV
++ [Kanawha Valley Regional Transportation](https://github.com/drPeteD/gtfs_feed_files/tree/master/krt/gtfs), (KRT) - Greater Charleston, WV
 + [Here and There Transit](https://github.com/drPeteD/gtfs_feed_files/tree/master/hat/gtfs), (HAT) - Philippi, WV
 + TriRiver Transit, (TRT) - Lincoln, Putnam Counties, WV
 +Fairmont Marion County Transportation Authority, (FMCTA) - Fairmont, WV
