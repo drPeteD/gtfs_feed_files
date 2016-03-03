@@ -1,7 +1,7 @@
 # GTFS feed files
 ### For several West Virginia Transit agencies
 
-+ Buckwheat Express - Preston County Seniors (BWX)
++ [Buckwheat Express](https://github.com/drPeteD/gtfs_feed_files/tree/master/bwx) - Preston County Seniors (BWX)
 + Kanawha Valley Regional Transportation, (KRT)
 + Here and There Transit, (HAT)
 + TriRiver Transit, (TRT)
