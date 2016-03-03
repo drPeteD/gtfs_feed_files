@@ -5,6 +5,6 @@
 + [Kanawha Valley Regional Transportation](https://github.com/drPeteD/gtfs_feed_files/tree/master/krt/gtfs), (KRT) - Greater Charleston, WV
 + [Here and There Transit](https://github.com/drPeteD/gtfs_feed_files/tree/master/hat/gtfs), (HAT) - Philippi, WV
 + [TriRiver Transit](https://github.com/drPeteD/gtfs_feed_files/tree/master/trt), (TRT) - Lincoln, Putnam Counties, WV
-+Fairmont Marion County Transportation Authority, (FMCTA) - Fairmont, WV
++ {Fairmont Marion County Transportation Authority](https://github.com/drPeteD/gtfs_feed_files/tree/master/fmcta), (FMCTA) - Fairmont, WV
 
 Repository maintained by Dr. Pete Dailey, [peter.j.dailey@wv.gov](mailto: peter.j.dailey@wv.gov)
