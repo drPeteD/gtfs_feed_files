@@ -1,4 +1,4 @@
 service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
-mon-sat,0,0,0,0,0,0,1,20160303,20170303
 mon-sat,1,1,1,1,1,1,0,20160303,20170303
 mon-sun,1,1,1,1,1,1,1,20160303,20170303
+sun,0,0,0,0,0,0,1,20160303,20170303

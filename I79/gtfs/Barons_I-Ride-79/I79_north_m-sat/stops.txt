@@ -1,10 +1,10 @@
 stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type, parent_station,stop_timezone,wheelchair_boarding
-chasGrey,,Charleston Greyhound Station,,+38.356860,-81.639510,,,0,,,0
-chasTM,,KRT Transit Mall,,+38.352718,-81.633882,,,0,,,0
-clarksburg,,Clarksburg,,+39.270287,-80.285057,,,0,,,0
-clend,,Clendenin,,+38.517262,-81.357282,,,0,,,0
-fairmont,,Fairmont,,+39.476893,-80.136163,,,0,,,0
-flatwd,,Flatwoods,,+38.704688,-80.659071,,,0,,,0
-med_ctr,,Medical Center,,+39.654706,-79.961418,,,0,,,0
-ml_depot,,Morgantown,,+39.629158,-79.959727,,,0,,,0
-weston,,Weston,,+39.020604,-80.419837,,,0,,,0
+chasGrey,,Greyhound Station,Greyhound Terminal 300 Reynolds St,+38.356860,-81.639510,,,0,,,0
+chasTM,,KRT Transit Mall,Charleston Transit Mall Slack Plaza Laidley St.,+38.352718,-81.633882,,,0,,,0
+clarksburg,,Clarksburg,Kroger 198 Emily Drive,+39.270287,-80.285057,,,0,,,0
+clend,,Clendenin,Park and Ride US 119 at I-79 Exit #19,+38.517262,-81.357282,,,0,,,0
+fairmont,,Fairmont,Gateway Bus Shelter in Round About,+39.476893,-80.136163,,,0,,,0
+flatwd,,Flatwoods,Lloyds Shell Station 2210 Sutton Ln,+38.704688,-80.659071,,,0,,,0
+med_ctr,,Medical Center,Mountaineer Station 1112 Van Voorhis Rd,+39.654706,-79.961418,,,0,,,0
+ml_depot,,Morgantown,Mountain Line Transit 691 Fairmont Rd.,+39.629158,-79.959727,,,0,,,0
+weston,,Weston,BFS Foods 57 Staunton Dr,+39.020604,-80.419837,,,0,,,0

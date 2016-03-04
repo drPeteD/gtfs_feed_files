@@ -1,5 +1,1 @@
 service_id,date,exception_type
-mon-sat,20160704,2
-mon-sat,20161124,2
-mon-sat,20161226,2
-mon-sat,20170102,2
