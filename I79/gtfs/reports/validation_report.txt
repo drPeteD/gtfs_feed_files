@@ -1,0 +1,3 @@
+/Users/pete/gtfs_feed_files/I79/gtfs/Barons_I-Ride-79/I79_north_m-sat:3 errors
+/Users/pete/gtfs_feed_files/I79/gtfs/Barons_I-Ride-79/I79_north_sun:4 errors
+/Users/pete/gtfs_feed_files/I79/gtfs/Barons_I-Ride-79/I79_south_m-sun:3 errors

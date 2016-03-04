@@ -1,0 +1,429 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>stops.csv</name>
+		<Placemark>
+			<name>Charleston Greyhound</name>
+			<description><![CDATA[stop_id: chasGrey<br>stop_code: <br>stop_desc: <br>stop_lat: 38.35686<br>stop_lon: -81.63951<br>zone_id: <br>stop_url: <br>location_type: <br>parent_station: <br>stop_timezone: <br>wheelchair_boarding: <br>Note: Charleston Greyhound]]></description>
+			<styleUrl>#icon-962-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='stop_id'>
+					<value>chasGrey</value>
+				</Data>
+				<Data name='stop_code'>
+					<value></value>
+				</Data>
+				<Data name='stop_desc'>
+					<value></value>
+				</Data>
+				<Data name='stop_lat'>
+					<value>38.35686</value>
+				</Data>
+				<Data name='stop_lon'>
+					<value>-81.63951</value>
+				</Data>
+				<Data name='zone_id'>
+					<value></value>
+				</Data>
+				<Data name='stop_url'>
+					<value></value>
+				</Data>
+				<Data name='location_type'>
+					<value></value>
+				</Data>
+				<Data name='parent_station'>
+					<value></value>
+				</Data>
+				<Data name='stop_timezone'>
+					<value></value>
+				</Data>
+				<Data name='wheelchair_boarding'>
+					<value></value>
+				</Data>
+				<Data name='Note'>
+					<value>Charleston Greyhound</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.63951,38.35686,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Charleston Transit Mall</name>
+			<description><![CDATA[stop_id: chasTM<br>stop_code: <br>stop_desc: <br>stop_lat: 38.352718<br>stop_lon: -81.633882<br>zone_id: <br>stop_url: <br>location_type: <br>parent_station: <br>stop_timezone: <br>wheelchair_boarding: <br>Note: Charleston Transit Mall]]></description>
+			<styleUrl>#icon-962-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='stop_id'>
+					<value>chasTM</value>
+				</Data>
+				<Data name='stop_code'>
+					<value></value>
+				</Data>
+				<Data name='stop_desc'>
+					<value></value>
+				</Data>
+				<Data name='stop_lat'>
+					<value>38.352718</value>
+				</Data>
+				<Data name='stop_lon'>
+					<value>-81.633882</value>
+				</Data>
+				<Data name='zone_id'>
+					<value></value>
+				</Data>
+				<Data name='stop_url'>
+					<value></value>
+				</Data>
+				<Data name='location_type'>
+					<value></value>
+				</Data>
+				<Data name='parent_station'>
+					<value></value>
+				</Data>
+				<Data name='stop_timezone'>
+					<value></value>
+				</Data>
+				<Data name='wheelchair_boarding'>
+					<value></value>
+				</Data>
+				<Data name='Note'>
+					<value>Charleston Transit Mall</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.633882,38.352718,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Clendenin</name>
+			<description><![CDATA[stop_id: clend<br>stop_code: <br>stop_desc: <br>stop_lat: 38.517262<br>stop_lon: -81.357282<br>zone_id: <br>stop_url: <br>location_type: <br>parent_station: <br>stop_timezone: <br>wheelchair_boarding: <br>Note: I-79 park and ride]]></description>
+			<styleUrl>#icon-962-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='stop_id'>
+					<value>clend</value>
+				</Data>
+				<Data name='stop_code'>
+					<value></value>
+				</Data>
+				<Data name='stop_desc'>
+					<value></value>
+				</Data>
+				<Data name='stop_lat'>
+					<value>38.517262</value>
+				</Data>
+				<Data name='stop_lon'>
+					<value>-81.357282</value>
+				</Data>
+				<Data name='zone_id'>
+					<value></value>
+				</Data>
+				<Data name='stop_url'>
+					<value></value>
+				</Data>
+				<Data name='location_type'>
+					<value></value>
+				</Data>
+				<Data name='parent_station'>
+					<value></value>
+				</Data>
+				<Data name='stop_timezone'>
+					<value></value>
+				</Data>
+				<Data name='wheelchair_boarding'>
+					<value></value>
+				</Data>
+				<Data name='Note'>
+					<value>I-79 park and ride</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.357282,38.517262,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Flatwoods/Sutton</name>
+			<description><![CDATA[stop_id: flatwd<br>stop_code: <br>stop_desc: <br>stop_lat: 38.704688<br>stop_lon: -80.659071<br>zone_id: <br>stop_url: <br>location_type: <br>parent_station: <br>stop_timezone: <br>wheelchair_boarding: <br>Note: Lloyd's Shell]]></description>
+			<styleUrl>#icon-962-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='stop_id'>
+					<value>flatwd</value>
+				</Data>
+				<Data name='stop_code'>
+					<value></value>
+				</Data>
+				<Data name='stop_desc'>
+					<value></value>
+				</Data>
+				<Data name='stop_lat'>
+					<value>38.704688</value>
+				</Data>
+				<Data name='stop_lon'>
+					<value>-80.659071</value>
+				</Data>
+				<Data name='zone_id'>
+					<value></value>
+				</Data>
+				<Data name='stop_url'>
+					<value></value>
+				</Data>
+				<Data name='location_type'>
+					<value></value>
+				</Data>
+				<Data name='parent_station'>
+					<value></value>
+				</Data>
+				<Data name='stop_timezone'>
+					<value></value>
+				</Data>
+				<Data name='wheelchair_boarding'>
+					<value></value>
+				</Data>
+				<Data name='Note'>
+					<value>Lloyd's Shell</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-80.659071,38.704688,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Weston</name>
+			<description><![CDATA[stop_id: west<br>stop_code: <br>stop_desc: <br>stop_lat: 39.020604<br>stop_lon: -80.419837<br>zone_id: <br>stop_url: <br>location_type: <br>parent_station: <br>stop_timezone: <br>wheelchair_boarding: <br>Note: Fairmont 2]]></description>
+			<styleUrl>#icon-962-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='stop_id'>
+					<value>west</value>
+				</Data>
+				<Data name='stop_code'>
+					<value></value>
+				</Data>
+				<Data name='stop_desc'>
+					<value></value>
+				</Data>
+				<Data name='stop_lat'>
+					<value>39.020604</value>
+				</Data>
+				<Data name='stop_lon'>
+					<value>-80.419837</value>
+				</Data>
+				<Data name='zone_id'>
+					<value></value>
+				</Data>
+				<Data name='stop_url'>
+					<value></value>
+				</Data>
+				<Data name='location_type'>
+					<value></value>
+				</Data>
+				<Data name='parent_station'>
+					<value></value>
+				</Data>
+				<Data name='stop_timezone'>
+					<value></value>
+				</Data>
+				<Data name='wheelchair_boarding'>
+					<value></value>
+				</Data>
+				<Data name='Note'>
+					<value>Fairmont 2</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-80.419837,39.020604,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Clarksburg</name>
+			<description><![CDATA[stop_id: clarks<br>stop_code: <br>stop_desc: <br>stop_lat: 39.270287<br>stop_lon: -80.285057<br>zone_id: <br>stop_url: <br>location_type: <br>parent_station: <br>stop_timezone: <br>wheelchair_boarding: <br>Note: Chick-Fil-A]]></description>
+			<styleUrl>#icon-962-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='stop_id'>
+					<value>clarks</value>
+				</Data>
+				<Data name='stop_code'>
+					<value></value>
+				</Data>
+				<Data name='stop_desc'>
+					<value></value>
+				</Data>
+				<Data name='stop_lat'>
+					<value>39.270287</value>
+				</Data>
+				<Data name='stop_lon'>
+					<value>-80.285057</value>
+				</Data>
+				<Data name='zone_id'>
+					<value></value>
+				</Data>
+				<Data name='stop_url'>
+					<value></value>
+				</Data>
+				<Data name='location_type'>
+					<value></value>
+				</Data>
+				<Data name='parent_station'>
+					<value></value>
+				</Data>
+				<Data name='stop_timezone'>
+					<value></value>
+				</Data>
+				<Data name='wheelchair_boarding'>
+					<value></value>
+				</Data>
+				<Data name='Note'>
+					<value>Chick-Fil-A</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-80.28505700000001,39.270287,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Fairmont</name>
+			<description><![CDATA[stop_id: fairm<br>stop_code: <br>stop_desc: <br>stop_lat: 39.476893<br>stop_lon: -80.136163<br>zone_id: <br>stop_url: <br>location_type: <br>parent_station: <br>stop_timezone: <br>wheelchair_boarding: <br>Note: Gateway]]></description>
+			<styleUrl>#icon-962-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='stop_id'>
+					<value>fairm</value>
+				</Data>
+				<Data name='stop_code'>
+					<value></value>
+				</Data>
+				<Data name='stop_desc'>
+					<value></value>
+				</Data>
+				<Data name='stop_lat'>
+					<value>39.476893</value>
+				</Data>
+				<Data name='stop_lon'>
+					<value>-80.136163</value>
+				</Data>
+				<Data name='zone_id'>
+					<value></value>
+				</Data>
+				<Data name='stop_url'>
+					<value></value>
+				</Data>
+				<Data name='location_type'>
+					<value></value>
+				</Data>
+				<Data name='parent_station'>
+					<value></value>
+				</Data>
+				<Data name='stop_timezone'>
+					<value></value>
+				</Data>
+				<Data name='wheelchair_boarding'>
+					<value></value>
+				</Data>
+				<Data name='Note'>
+					<value>Gateway</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-80.136163,39.476893,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Morgantown WVU</name>
+			<description><![CDATA[stop_id: motownWVU<br>stop_code: <br>stop_desc: <br>stop_lat: 39.654706<br>stop_lon: -79.961418<br>zone_id: <br>stop_url: <br>location_type: <br>parent_station: <br>stop_timezone: <br>wheelchair_boarding: <br>Note: Med Center PRT]]></description>
+			<styleUrl>#icon-962-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='stop_id'>
+					<value>motownWVU</value>
+				</Data>
+				<Data name='stop_code'>
+					<value></value>
+				</Data>
+				<Data name='stop_desc'>
+					<value></value>
+				</Data>
+				<Data name='stop_lat'>
+					<value>39.654706</value>
+				</Data>
+				<Data name='stop_lon'>
+					<value>-79.961418</value>
+				</Data>
+				<Data name='zone_id'>
+					<value></value>
+				</Data>
+				<Data name='stop_url'>
+					<value></value>
+				</Data>
+				<Data name='location_type'>
+					<value></value>
+				</Data>
+				<Data name='parent_station'>
+					<value></value>
+				</Data>
+				<Data name='stop_timezone'>
+					<value></value>
+				</Data>
+				<Data name='wheelchair_boarding'>
+					<value></value>
+				</Data>
+				<Data name='Note'>
+					<value>Med Center PRT</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-79.961418,39.654706,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Morgantown Depot</name>
+			<description><![CDATA[stop_id: motownDepot<br>stop_code: <br>stop_desc: <br>stop_lat: 39.629158<br>stop_lon: -79.959727<br>zone_id: <br>stop_url: <br>location_type: <br>parent_station: <br>stop_timezone: <br>wheelchair_boarding: <br>Note: MLD]]></description>
+			<styleUrl>#icon-962-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='stop_id'>
+					<value>motownDepot</value>
+				</Data>
+				<Data name='stop_code'>
+					<value></value>
+				</Data>
+				<Data name='stop_desc'>
+					<value></value>
+				</Data>
+				<Data name='stop_lat'>
+					<value>39.629158</value>
+				</Data>
+				<Data name='stop_lon'>
+					<value>-79.959727</value>
+				</Data>
+				<Data name='zone_id'>
+					<value></value>
+				</Data>
+				<Data name='stop_url'>
+					<value></value>
+				</Data>
+				<Data name='location_type'>
+					<value></value>
+				</Data>
+				<Data name='parent_station'>
+					<value></value>
+				</Data>
+				<Data name='stop_timezone'>
+					<value></value>
+				</Data>
+				<Data name='wheelchair_boarding'>
+					<value></value>
+				</Data>
+				<Data name='Note'>
+					<value>MLD</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-79.959727,39.629158000000004,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Style id='icon-962-DB4436'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+	</Document>
+</kml>
