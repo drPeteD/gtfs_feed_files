@@ -6,5 +6,6 @@
 + [Here and There Transit](https://github.com/drPeteD/gtfs_feed_files/tree/master/hat/gtfs), (HAT) - Philippi, WV
 + [TriRiver Transit](https://github.com/drPeteD/gtfs_feed_files/tree/master/trt), (TRT) - Lincoln, Putnam Counties, WV
 + [Fairmont Marion County Transportation Authority](https://github.com/drPeteD/gtfs_feed_files/tree/master/fmcta), (FMCTA) - Fairmont, WV
++ [Baron's I Ride 79](https://github.com/drPeteD/gtfs_feed_files/blob/master/I79/gtfs/), (I79) - Charleston/Morgantown
 
 Repository maintained by Dr. Pete Dailey, [peter.j.dailey@wv.gov](mailto: peter.j.dailey@wv.gov)
