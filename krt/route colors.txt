@@ -11,3 +11,5 @@ Routes 8, 11 19 (BRIGHT BLUE):  R=0, G=149, B=215          0095D7
 Routes 21 (NAVY):  R=0, G=86, B=156                        00569C
 
 Routes 21X (NAVY TINT):  R=122, G=145, B=195               7A2DC3
+
+White lettering FFFFFF
