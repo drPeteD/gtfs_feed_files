@@ -1,0 +1,98 @@
+stop_id,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,time_stop
+71,Lincoln Primary Care Center,,38.27853,-82.12115,101,,0,,1
+75,Lincoln County Vo-Tech,,38.28335,-82.10992,101,,0,,1
+76,Lincoln County High School,,38.27619,-82.11706,101,,0,,1
+77,Bus Stop Restaurant,,38.28644,-82.19527,102,,0,,1
+351,Holden,,37.82500,-82.05984,102,,0,,1
+355,Logan County High School,,37.85001,-81.99538,101,,0,,1
+356,Mitchell Heights,,37.90729,-81.98317,101,,0,,1
+357,West Logan,,37.86502,-81.98735,101,,0,,1
+358,Peck's Mill,,37.92836,-81.98074,101,,0,,1
+359,Chapmanville High School,,37.97710,-82.02587,101,,0,,1
+360,Chapmanville Park & Ride,On Route 10 under 119 overpass,37.97522,-82.01423,101,,0,,1
+361,Big Creek,,38.00313,-82.04035,101,,0,,1
+363,Cove Gap,,38.09473,-82.25628,102,,0,,1
+365,Midkiff,,38.17369,-82.17842,102,,0,,1
+366,Branchland Quickmart,,38.22091,-82.20346,102,,0,,1
+368,Salt Rock,,38.32340,-82.22100,102,,0,,1
+369,Morrison's Grocery,,38.33842,-82.28447,102,,0,,1
+370,Sias,,38.18577,-82.09619,101,,0,,1
+371,Myra,,38.22170,-82.11248,101,,0,,1
+374,Griffithsville,,38.23894,-81.99145,101,,0,,1
+375,Yawkey,,38.22465,-81.96508,101,,0,,1
+376,Sumerco,,38.23102,-81.91115,102,,0,,1
+377,Route 119 intersection,Intersection of US Route 119 and Little Coal River Road,38.29745,-81.74848,102,,0,,1
+378,Coal River Road,,38.28610,-81.80730,102,,0,,1
+391,Madison Krogers/McDonalds,,38.07399,-81.82245,109,,0,,1
+394,Madison Magic Mart,,38.08810,-81.83877,110,,0,,1
+395,Man Clinic,,37.74380,-81.87382,101,,0,,1
+405,Spruce River Market,,37.98131,-81.81672,101,,0,,1
+411,Racine,,38.14324,-81.65861,102,,0,,1
+414,Seth,,38.11283,-81.62122,101,,0,,1
+425,Orgas,,38.05918,-81.57232,101,,0,,1
+426,Sylvester,,38.01162,-81.55980,101,,0,,1
+427,Mountain Terrace,,37.98427,-81.54041,101,,0,,1
+428,Whitesville,,37.97487,-81.52909,101,,0,,1
+429,Uneeda,,38.03550,-81.78029,101,,0,,1
+430,Van,,37.96812,-81.71420,101,,0,,1
+431,Bob White,,37.95190,-81.71511,101,,0,,1
+432,Bim,,37.92159,-81.68792,101,,0,,1
+433,Wharton,,37.89753,-81.67141,101,,0,,1
+445,Robinette,,37.78502,-81.79364,101,,0,,1
+446,Rita,,37.77839,-81.93581,101,,0,,1
+447,Patricia Apartments,,37.70973,-81.98859,101,,0,,1
+448,Ottowa,,37.96059,-81.81663,101,,0,,1
+449,Neibert,,37.78925,-81.94150,101,,0,,1
+452,Monaville,,37.81310,-81.99515,101,,0,,1
+453,Lick Creek Service Center,,38.08393,-81.84174,109,,0,,1
+458,Greenview,,37.99454,-81.81616,109,,0,,1
+461,Clothier,,37.94781,-81.81532,101,,0,,1
+462,Chauncy,,37.76694,-81.98883,101,,0,,1
+463,6 Mile,,37.99460,-81.89964,101,,0,,1
+464,Capitol Street,,38.34932,-81.63600,102,,0,,1
+466,Federal Building,,38.35190,-81.63728,102,,0,,1
+478,Kanawha Blvd,,38.34327,-81.63104,102,,0,,1
+479,Court Street,,38.35053,-81.63932,102,,0,,1
+480,Hewett Post Office,,37.97132,-81.82341,101,,0,,1
+484,Wharton Clinic,,37.84973,-81.62699,101,,0,,1
+486,Chapmanville Towers,,37.97412,-82.01700,101,,0,,1
+73_44,73/44 Insection,Intersection of Routes 73 and 44,37.84573,-82.01009,101,,0,,1
+AlCrApt,Alum Creek,Alum Creek Apartments,38.25486,-81.84962,102,,0,,1
+alumCreek,Alum Creek at US 119,,38.26728,-81.80717,102,,0,,1
+barborMall,Barboursville Mall,,38.42133,-82.26502,102,,0,,1
+bloomingrose,Bloomingrose,,38.14054,-81.63309,101,,0,,1
+booneCourt,Boone County Courthouse,,38.06639,-81.81886,109,,0,,1
+booneDHHR,Boone DHHR Office,,38.10516,-81.82255,110,,0,,1
+booneHosp,Boone Memorial Hospital,,38.04861,-81.80620,109,,0,,1
+camc,CAMC,,38.33034,-81.60125,102,,0,,1
+comfort,Comfort,,38.13117,-81.61554,101,,0,,1
+dudTarget,Target at Dudley Farm,,38.33852,-81.71428,102,,0,,1
+ham_saveAlot,Sav-A-Lot,Hamlin Sav-A-Lot,38.27863,-82.12476,101,,0,,1
+harts-FasCheck,Harts Fas Check,,38.03027,-82.12970,101,,0,,1
+julian,Julian,,38.15512,-81.85204,102,,0,,1
+kanMall,Kanawha Mall,,38.31147,-81.56887,102,,0,,1
+krtTransMall,Transit Mall,,38.35184,-81.63552,102,,0,,1
+lincolnCourt,Lincoln County Courthouse,,38.27886,-82.10543,101,,0,,1
+LincolnPlaza,Lincoln Plaza,WhitesPlaza,38.27198,-82.20021,101,,0,,1
+loganCourt,Logan County Courthouse,,37.84717,-81.99139,101,,0,,1
+loganHosp,Logan General Hospital,,37.84602,-81.99410,101,,0,,1
+marmet,Marmet,,38.24328,-81.56610,102,,0,,1
+mntlHealth-mingo/logan,Logan-Mingo Mental Health,,37.82708,-81.94461,101,,0,,1
+Monitor,Monitor,,37.83546,-82.00194,101,,0,,1
+mtnMartPlaza,Mountain Mart Plaza,,37.72963,-81.87086,101,,0,,1
+PO-lorado,Lorado Post Office,,37.79658,-81.73017,101,,0,,1
+PO-madison,Madison Post Office,,38.06094,-81.82313,109,,0,,1
+PO-omar,Omar Post Office,,37.75555,-81.99970,101,,0,,1
+PO-saraAnn,Sarah Ann Post Office,,37.71295,-81.98907,101,,0,,1
+PO-stollings,Stollings Post Office,,37.83467,-81.96659,101,,0,,1
+pride,PRIDE Community Services Office,,37.84582,-81.99382,101,,0,,1
+ranger-FasCheck,Ranger Fas Check,,38.11877,-82.18162,102,,0,,1
+riteAid-man,Man Rite Aid,,37.72951,-81.86762,101,,0,,1
+sctc,Southern Community and Technical College,,37.85081,-82.02354,110,,0,,1
+soRidge,Southridge Center Wal-Mart,,38.31969,-81.71497,102,,0,,1
+sweetland,Sweetland,,38.25456,-82.03998,101,,0,,1
+traceFkPlaza,Trace Fork Plaza,,38.33484,-81.71199,102,,0,,1
+walmart-barb,Barboursville Wal-Mart,,38.42203,-82.25740,102,,0,,1
+walmart-logan,Logan Wal-Mart,,37.86094,-82.04560,101,,0,,1
+WhitesPlaza,White's Plaza,TRT hub,38.28112,-82.09200,101,,0,,1
+Wilkinson,Wilkinson,,37.82804,-81.99761,101,,0,,1

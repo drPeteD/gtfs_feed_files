@@ -1,0 +1,8 @@
+agency_id,route_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+50,252,,South Preston Loop,,3,http://www.buckwheatexpress.com/South-Preston-loop.htm,0000ff,ffffff
+50,327,,Kingwood-Rowlesburg,,3,http://www.buckwheatexpress.com/Kingwood-Bruceton.htm,f5d905,000000
+50,328,,Kingwood-Newburg,,3,http://www.buckwheatexpress.com/Kingwood-Bruceton.htm,0cccac,000000
+50,281,,Kingwood - Terra Alta,,3,http://www.buckwheatexpress.com/Kingwood-Bruceton.htm,00ff00,000000
+50,326,,Kingwood-Bruceton Mills,,3,http://www.buckwheatexpress.com/Kingwood-Bruceton.htm,ffffff,000000
+50,284,,Kingwood - Morgantown,,3,http://www.buckwheatexpress.com/Kingwood-Morgantown.htm,ff0000,ffffff
+50,325,,Kingwood-Tunnelton,,3,http://www.buckwheatexpress.com/Kingwood-Bruceton.htm,050505,fffffc

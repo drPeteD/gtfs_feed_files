@@ -1,0 +1,17 @@
+agency_id,route_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+fmtca,Rt1,,Brkvl,,3,http://www.fmcta.com/Schedules.aspx,ff0066,ffffff
+fmtca,Rt2,,Campus Loop,,3,http://www.fmcta.com/Schedules.aspx,000000,ffffff
+fmtca,Rt3,,Carolina Service,,3,http://www.fmcta.com/Schedules.aspx,FF9933,ffffff
+fmtca,Rt4,,Clarksburg/VA Hospital,,3,http://www.fmcta.com/Schedules.aspx,33cc00,ffffff
+fmtca,Rt5,,Edgemont Loop,,3,http://www.fmcta.com/Schedules.aspx,000c0c,ffffff
+fmtca,Rt6,,Fairview,,3,http://www.fmcta.com/Schedules.aspx,6600cc,ffffff
+fmtca,Rt7,,FSU/Mall,,3,http://www.fmcta.com/Schedules.aspx,336699,ffffff
+fmtca,Rt8,,Gateway/Mall,,3,http://www.fmcta.com/Schedules.aspx,333333,ffffff
+fmtca,Rt9,,Jackson Addition,,3,http://www.fmcta.com/Schedules.aspx,006633,ffffff
+fmtca,Rt10,,Mannington/Metz,,3,http://www.fmcta.com/Schedules.aspx,3366cc,ffffff
+fmtca,Rt11,,Meadowbrook Mall,,3,http://www.fmcta.com/Schedules.aspx,3399cc,ffffff
+fmtca,Rt12,,Morgantown,,3,http://www.fmcta.com/Schedules.aspx,660099,ffffff
+fmtca,Rt13,,Mt. Harmony,,3,http://www.fmcta.com/Schedules.aspx,66cc00,ffffff
+fmtca,Rt14,,Pleasant Valley-Mall,,3,http://www.fmcta.com/Schedules.aspx,ff0000,ffffff
+fmtca,Rt15,,Rivesville,,3,http://www.fmcta.com/Schedules.aspx,cc6633,ffffff
+fmtca,Rt16,,Watson Mall,,3,http://www.fmcta.com/Schedules.aspx,FF9933,ffffff

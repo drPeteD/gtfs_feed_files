@@ -1,0 +1,132 @@
+route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
+Rt1,M-F,R1a_out,,0,,R1_out
+Rt1,M-F,R1a_in,,1,,R1_in
+Rt1,M-F,R1b_out,,0,,R1_out
+Rt1,M-F,R1b_in,,1,,R1_in
+Rt1,M-F,R1c_out,,0,,R1_out
+Rt1,M-F,R1c_in,,1,,R1_in
+Rt1,M-F,R1d_out,,0,,R1_out
+Rt1,M-F,R1d_in,,1,,R1_in
+Rt3,M-F,R3a_out,,1,,R3_out
+Rt3,M-F,R3a_in,Courthouse,0,,R3_in
+Rt3,M-F,R3b_out,,1,,R3_out
+Rt3,M-F,R3b_in,Courthouse,0,,R3_in
+Rt5,M-F,R5a_out,Big Lots,1,,R5_out
+Rt5,M-F,R5a_in,Courthouse,0,,R5_in
+Rt5,M-F,R5b_out,Big Lots,1,,R5_out
+Rt5,M-F,R5b_in,Courthouse,0,,R5_in
+Rt5,M-F,R5c_out,Big Lots,1,,R5_out
+Rt5,M-F,R5c_in,Courthouse,0,,R5_in
+Rt5,M-F,R5d_out,Big Lots,1,,R5_out
+Rt5,M-F,R5d_in,Courthouse,0,,R5_in
+Rt5,M-F,R5e_out,Big Lots,1,,R5_out
+Rt5,M-F,R5e_in,Courthouse,0,,R5_in
+Rt5,M-F,R5f_out,Big Lots,1,,R5_out
+Rt5,M-F,R5f_in,Courthouse,0,,R5_in
+Rt5,M-F,R5g_out,Big Lots,1,,R5_out
+Rt5,M-F,R5g_in,Courthouse,0,,R5_in
+Rt5,M-F,R5h_out,Big Lots,1,,R5_out
+Rt5,M-F,R5h_in,Courthouse,0,,R5_in
+Rt5,M-F,R5i_out,Big Lots,1,,R5_out
+Rt5,M-F,R5i_in,Courthouse,0,,R5_in
+Rt5,M-F,R5j_out,Big Lots,1,,R5_out
+Rt5,M-F,R5j_in,Courthouse,0,,R5_in
+Rt5,M-F,R5k_out,Big Lots,1,,R5_out
+Rt5,M-F,R5k_in,Courthouse,0,,R5_in
+Rt6,M-F,R6a,,1,,Rt6_out
+Rt6,M-F,R6b,Courthouse,0,,Rt6_in
+Rt6,M-F,R6c,,1,,Rt6_out
+Rt6,M-F,R6d,,1,,Rt6_out
+Rt6,M-F,R6e,Courthouse,0,,Rt6_in
+Rt6,M-F,R6f,Courthouse,0,,Rt6_in
+Rt7,M-F,fsu_mall_a,,,,R7
+Rt7,M-F,fsu_mall_b,,,,R7
+Rt14,M-F,R14_a,,,,R14a
+Rt14,M-F,R14_b,,,,R14
+Rt14,M-F,R14_c,,,,R14
+Rt14,M-F,R14_d,,,,R14
+Rt15,M-F,4083-164-162,,,,R15
+Rt15,M-F,4085-164-162,,,,R15
+Rt15,M-F,4086-164-162,,,,R15
+Rt15,M-F,4087-164-162,,,,R15
+Rt15,M-F,4088-164-162,,,,R15
+Rt15,M-F,4089-164-162,,,,R15
+Rt16,M-F,R16a_out, Mall,1,,R16_out
+Rt16,M-F,R16a_in, Courthouse,0,,R16_in
+Rt16,M-F,R16b_out, Courthouse,1,,R16_out
+Rt16,M-F,R16b_in, Mall,0,,R16_in
+Rt16,M-F,R16c_out, Courthouse,1,,R16_out
+Rt16,M-F,R16c_in, Mall,0,,R16_in
+Rt16,M-F,R16d_out, Courthouse,1,,R16_out
+Rt16,M-F,R16d_in, Mall,0,,R16_in
+Rt16,M-F,R16e_out, Courthouse,1,,R16_out
+Rt16,M-F,R16e_in, Mall,0,,R16_in
+Rt16,M-F,R16f_out, Courthouse,1,,R16_out
+Rt16,M-F,R16f_in, Mall,0,,R16_in
+Rt16,M-F,R16g_out, Courthouse,1,,R16_out
+Rt16,M-F,R16g_in, Mall,0,,R16_in
+Rt16,M-F,R16h_out, Courthouse,1,,R16_out
+Rt16,M-F,R16h_in, Mall,0,,R16_in
+Rt16,Saturday,R16m_out, Mall,1,,R16_out
+Rt16,Saturday,R16m_in, Courthouse,0,,R16_in_sat
+Rt16,Saturday,R16n_out, Mall,1,,R16_out
+Rt16,Saturday,R16n_in, Courthouse,0,,R16_in_sat
+Rt16,Saturday,R16o_out, Mall,1,,R16_out
+Rt16,Saturday,R16o_in, Courthouse,0,,R16_in_sat
+Rt16,Saturday,R16p_out, Mall,1,,R16_out
+Rt16,Saturday,R16p_in, Courthouse,0,,R16_in_sat
+Rt16,Saturday,R16q_out, Mall,1,,R16_out
+Rt16,Saturday,R16q_in, Courthouse,0,,R16_in_sat
+Rt16,Saturday,R16r_out, Mall,1,,R16_out
+Rt16,Saturday,R16r_in, Courthouse,0,,R16_in_sat
+Rt16,Saturday,R16s_out, Mall,1,,R16_out
+Rt16,Saturday,R16s_in, Courthouse,0,,R16_in_sat
+Rt16,Saturday,R16t_out, Mall,1,,R16_out
+Rt16,Saturday,R16t_in, Courthouse,0,,R16_in_sat
+Rt1,Saturday,4160-165-162,Barrackville,1,,R1_out
+Rt1,Saturday,4161-165-162,Barrackville,1,,R1_out
+Rt1,Saturday,4162-165-162,Courthouse,0,,R1_in
+Rt1,Saturday,4163-165-162,Courthouse,0,,R1_in
+Rt1,Saturday,4164-165-162,Barrackville,1,,R1_out
+Rt1,Saturday,4165-165-162,Courthouse,0,,R1_in
+Rt15,Saturday,R15_sat_a,,,,R15
+Rt15,Saturday,R15_sat_b,,,,R15
+Rt15,Saturday,R15_sat_c,,,,R15
+Rt15,Saturday,R15_sat_d,,,,R15
+Rt15,Saturday,R15_sat_e,,,,R15
+Rt10,M-F,R10a,,,,R10
+Rt10,M-F,R10b,,,,R10
+Rt10,M-F,R10c,,,,R10
+Rt10,M-F,R10d,,,,R10
+Rt10,M-F,R10e,,,,R10
+Rt2,M-F,R2_FSU_a,FSU Loop,,,R2_FSU_loop
+Rt2,M-F,R2_FSU_b,FSU Loop,,,R2_FSU_loop
+Rt2,M-F,R2_FSU_c,FSU Loop,,,R2_FSU_loop
+Rt2,M-F,R2_FSU_d,FSU Loop,,,R2_FSU_loop
+Rt4,M-F,R4a,,,,R4
+Rt4,M-F,R4b,,,,R4
+Rt4,M-F,R4c,,,,R4
+Rt8,M-F,R8a,,,,R8
+Rt8,M-F,R8b,,,,R8
+Rt9,M-F,R9a,,,,R9
+Rt9,M-F,R9b,,,,R9
+Rt9,M-F,R9c,,,,R9
+Rt9,M-F,R9d,,,,R9
+Rt9,M-F,R9e,,,,R9
+Rt11,M-F,Rt11a,,,,R11
+Rt11,M-F,Rt11b,,,,R11
+Rt12,M-F,Rt12a,,,,R12
+Rt12,M-F,Rt12b,,,,R12
+Rt12,M-F,Rt12c,,,,R12
+Rt12,M-F,Rt12d,,,,R12
+Rt13,M-F,Rt13a,,,,R13_a
+Rt13,M-F,Rt13b,,,,R13_a
+Rt13,M-F,Rt13c,,,,R13_b
+Rt13,M-F,Rt13d,,,,R13_a
+Rt13,M-F,Rt13e,,,,R13_b
+Rt13,M-F,Rt13f,,,,R13_a
+Rt13,M-F,Rt13g,,,,R13_b
+Rt13,M-F,Rt13h,,,,R13_a
+Rt13,M-F,Rt13i,,,,R13_b
+Rt13,M-F,Rt13j,,,,R13_a
+Rt13,M-F,Rt13k,,,,R13_a

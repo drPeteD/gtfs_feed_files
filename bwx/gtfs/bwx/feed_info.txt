@@ -1,0 +1,2 @@
+feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date,feed_version
+dr.pete.dailey@gmail.com,http://github.com/drPeteD/gtfs_feed_files/tree/master/bwx/gtfs,en,20170101,20171231,20161222.1

@@ -1,0 +1,49 @@
+stop_id,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,time_stop
+12thSt,12th Street,,39.469901,-80.155060,94,,0,,1
+3rdStBrdge,3rd Street Bridge,,39.480817,-80.147616,94,,0,,1
+baltimoreSt,Baltimore Street,,39.487736,-80.133123,94,,0,,1
+barrackville,Barrackville,,39.500877,-80.179512,95,,0,,1
+baxter,Baxter,,39.544299,-80.142556,96,,0,,1
+bigLots,Big Lots,,39.471673,-80.170996,94,,0,,1
+carolina,Carolina,,39.483789,-80.277170,95,,0,,1
+clarksLib,Clarksburg Library,,39.280914,-80.341015,100,,0,,1
+mcCourthouse,Courthouse,,39.485294,-80.143074,94,,0,,1
+ePtShopCntr,Eastpointe Shopping Center,,39.280874,-80.279355,100,,0,,1
+fairhPlaza,Fairhills Plaza,,39.498715,-80.140450,94,,0,,1
+fairlaneAve,Fairlane Avenue,,39.472456,-80.182161,94,,0,,1
+fairmart,Fairmart,,39.495499,-80.156830,94,,0,,1
+fmtAv,Fairmont Avenue,,39.476657,-80.150805,94,,0,,1
+frmntGen,Fairmont General,,39.482380,-80.165819,94,,0,,1
+fsu,Fairmont State University,Bryant Street Bench,39.483972,-80.158852,94,,0,,1
+fairview,Fairview,,39.592514,-80.248150,98,,0,,1
+frmtn,Farmington,,39.513578,-80.249174,96,,0,,1
+fsu_2,Feaster Center,,39.486671,-80.162489,94,,0,,1
+gateway,Gateway Connector,,39.479585,-80.137497,100,,0,,1
+grntTwn,Grant Town,Shelter,39.561601,-80.187866,97,,0,,1
+greenTwn,Greentown,,39.532139,-80.114640,95,,0,,1
+haySt,Haymond Street,,39.479018,-80.132050,94,,0,,1
+kngmnt,Kingmont,,39.443676,-80.169501,95,,0,,1
+lewSt,Lewis Street,,39.492445,-80.128068,94,,0,,1
+meadMall,Meadowbrook Mall,,39.313517,-80.273407,100,,0,,1
+metz,Metz,,39.580682,-80.369320,98,,0,,1
+midMall,Middletown Mall,,39.427638,-80.186777,95,,0,,1
+millersville,Millersville,,39.460302,-80.146791,95,,0,,1
+monongah,Monongah,,39.463479,-80.221835,95,,0,,1
+morganCour,Morgantown Courthouse,,39.628840,-79.955336,100,,0,,1
+murlz,Muriale's,Muriale's Restaurant,39.451213,-80.173806,95,,0,,1
+oakwood,Oakwood Road,Near FSU Campus,39.482114,-80.157446,94,,0,,1
+pzzaHut,Pizza Hutt,,39.464611,-80.159296,,,0,,1
+RachlDr,Rachel Drive,,39.518578,-80.303727,97,,0,,1
+RedDot,Red Dot Pharmacy,,39.532000,-80.342643,98,,0,,1
+rivesville,Rivesville,,39.532118,-80.114634,100,,0,,1
+rubyHosp,Ruby Memorial Hospital,,39.652814,-79.956933,100,,0,,1
+shinnston,Shinnston,,39.396196,-80.299824,97,,0,,1
+shopNSave,Shop N Save,,39.426573,-80.187011,95,,0,,1
+smithtown,Smithtown,,39.529519,-80.041449,98,,0,,1
+SuncBlvrd,Suncrest Boulevard,,39.492770,-80.106788,94,,0,,1
+UHC,United Hospital Center,,39.328490,-80.240178,100,,0,,1
+UniTe,Unity Terrace,,39.473360,-80.137978,94,,0,,1
+clarksVA,VA Hospital,,39.270346,-80.362715,100,,0,,1
+walmart,Walmart,,39.424228,-80.190618,94,,0,,1
+westVil,Westchester Village,,39.472212,-80.179806,94,,0,,1
+worthington,Worthington,,39.451473,-80.264351,94,,0,,1

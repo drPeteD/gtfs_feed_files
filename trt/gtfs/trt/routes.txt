@@ -1,0 +1,10 @@
+agency_id,route_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+TRT,R1,,Local,,3,http://www.tririver.org/local.php,ffff00,000000
+TRT,R2,,Barboursville-Logan,,3,http://www.tririver.org/barboursville-logan.php,ff6600,000000
+TRT,R3,,Southridge,,3,http://www.tririver.org/southridge.php,ffff00,000000
+TRT,R4,,Wharton,,3,http://www.tririver.org/wharton.php,ffff00,000000
+TRT,R5,,Logan-Man,,3,http://www.tririver.org/logan-man.php,ff6600,000000
+TRT,R6,,Clothier,,3,http://www.tririver.org/clothier.php,ffff00,000000
+TRT,R7,,Whitesville,,3,http://www.tririver.org/whitesville.php,ffff00,000000
+TRT,R8,,Man,,3,http://www.tririver.org/man.php,00cccc,000000
+TRT,R9,,Omar,,3,http://www.tririver.org/omar.php,00cccc,000000

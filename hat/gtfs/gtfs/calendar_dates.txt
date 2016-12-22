@@ -1,0 +1,13 @@
+service_id,date,exception_type
+weekday,20170101,2
+weekday,20170116,2
+weekday,20170220,2
+weekday,20170620,2
+weekday,20170704,2
+weekday,20160905,2
+weekday,20161010,2
+weekday,20161101,2
+weekday,20161111,2
+weekday,20171123,2
+weekday,20171124,2
+weekday,20161225,2

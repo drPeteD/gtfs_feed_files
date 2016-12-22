@@ -1,0 +1,2 @@
+feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date, feed_version
+Dr.Pete.Dailey@gmail.com,http://www.hereandtheretransit.com,en,20170101,20171231,20161222.1

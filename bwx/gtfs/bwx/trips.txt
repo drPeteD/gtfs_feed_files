@@ -1,0 +1,26 @@
+route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
+252,163-161,3869-163-161,S. Preston,0,,SoPresLoop
+252,163-161,3881-163-161,S. Preston,0,,SoPresLoop
+252,163-161,3882-163-161,S. Preston,0,,SoPresLoop
+252,163-161,3883-163-161,S. Preston,0,,SoPresLoop
+252,163-161,3884-163-161,S. Preston,0,,SoPresLoop
+252,163-161,3885-163-161,S. Preston,0,,SoPresLoop
+252,163-161,3886-163-161,S. Preston,0,,SoPresLoop
+327,173-161,3621-173-161,Rowlesburg,0,,kwd_rowl
+327,173-161,3622-173-161,Kingwood,1,,!_kwd_rowl
+328,173-161,3619-173-161,Newberg,0,,king_new
+328,173-161,4216-173-161,Kingwood,1,,!_king_new
+281,163-161,4219-163-161,Terra Alta,0,,4219
+281,163-161,4217-163-161,Terra Alta,0,,4217
+281,163-161,3620-163-161,Kingwood,1,,corn_king
+281,163-161,4218-163-161,Kingwood,1,,corn_king
+326,173-161,3617-173-161,Bruceton Mills,0,,king_bruce
+326,173-161,3618-173-161,Kingwood,1,,!_king_bruce
+284,163-161,3875-163-161,Kingwood,1,,my_king
+284,163-161,3872-163-161,Morgantown,0,,king_my_mld
+284,163-161,3876-163-161,Kingwood,1,,mld_king
+284,163-161,3873-163-161,Morgantown,0,,king_mld_B
+284,163-161,3874-163-161,Morgantown,0,,king_mld
+284,163-161,3877-163-161,Kingwood,1,,mld_king
+325,173-161,4214-173-161,Tunnelton,0,,king_tun
+325,173-161,4215-173-161,Kingwood,1,,!_king_tun
