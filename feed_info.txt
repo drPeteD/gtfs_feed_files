@@ -1,2 +1,0 @@
-feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date, feed_version
-Peter.J.Dailey@wv.gov,https://github.com/drPeteD/gtfs_feed_files/blob/master/krt/gtfs/,en,20170901,20180901,20171005.1
