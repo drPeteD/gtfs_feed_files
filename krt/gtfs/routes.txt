@@ -1,0 +1,21 @@
+route_id,agency_id,route_short_name,route_long_name,route_type,route_url,route_color,route_text_color
+"07 - Campbells Creek","0","7","Route 07 - Campbells Creek","3",http://rideonkrt.com/wp-content/uploads/2015/11/KVRTA-Rt-7-NovWeb.pdf,DF8618,FFFFFF
+"Elkview","0","6","Route 06 - Elkview","3",http://rideonkrt.com/wp-content/uploads/2015/11/KVRTA-Rt-6-NovWeb.pdf,0E3B75,FFFFFF
+"Route 01 - St. Albans / West Charleston","0","1","Route 01 - St. Albans / West Charleston","3",http://rideonkrt.com/wp-content/uploads/2015/11/KVRTA-Rt-1wc-NovWeb.pdf,B02D24,FFFFFF
+"Route 02 - Cabin Creek / Kanawha City","0","2","Route 02 - Cabin Creek / Kanawha City","3",http://rideonkrt.com/wp-content/uploads/2015/11/KVRTA-Rt-2cc-NovWeb.pdf,4CB9A6,FFFFFF
+"Route 03 - Institute / WV State University / Nitro","0","3","Route 03 - Nitro / Institute / WV State University","3",http://rideonkrt.com/wp-content/uploads/2015/11/KVRTA-Rt-3i-NovWeb.pdf,66266D,FFFFFF
+"Route 08 - Sissonville","0","8","Route 08 - Sissonville","3",http://rideonkrt.com/wp-content/uploads/2015/11/KVRTA-Rt-8-NovWeb.pdf,3399FF,FFFFFF
+"Route 10 - Northgate / Hillcrest","0","10","Route 10 - Northgate / Hillcrest","3",http://rideonkrt.com/wp-content/uploads/2015/11/KVRTA-Rt-10-NovWeb.pdf,CF4829,FFFFFF
+"Route 11 - Wertz Avenue","0","11","Route 11 - Wertz Avenue","3",http://rideonkrt.com/wp-content/uploads/2015/11/KVRTA-Rt-11-NovWeb.pdf,BCBEBA,FFFFFF
+"Route 13 - Beech Avenue","0","13","Route 13 - Beech Avenue","3",http://rideonkrt.com/wp-content/uploads/2015/11/KVRTA-Rt-13-NovWeb.pdf,92BF68,FFFFFF
+"Route 14 - City Park","0","14","Route 14 - City Park","3",http://rideonkrt.com/wp-content/uploads/2015/11/KVRTA-Rt-14-NovWeb.pdf,8D799A,FFFFFF
+"Route 15 - South Hills","0","15","Route 15 - South Hills","3",http://rideonkrt.com/wp-content/uploads/2015/11/KVRTA-Rt-15-NovWeb.pdf,45B06D,FFFFFF
+"Route 16 - South Park","0","16","Route 16 - South Park","3",http://rideonkrt.com/wp-content/uploads/2015/11/KVRTA-Rt-16-NovWeb.pdf,8B273E,FFFFFF
+"Route 17 - South Side","0","17","Route 17 - South Side","3",http://rideonkrt.com/wp-content/uploads/2015/11/KVRTA-Rt-17-NovWeb.pdf,998924,FFFFFF
+"Route 18 - Fort Hill-Montrose","0","18","Route 18 - Fort Hill-Montrose","3",http://rideonkrt.com/wp-content/uploads/2015/11/KVRTA-Rt-18-NovWeb.pdf,B4AA52,000000
+"Route 19 - Charleston Loop / Trolley","0","19","Route 19 - Charleston Loop / Trolley","3",http://rideonkrt.com/wp-content/uploads/2015/11/KVRTA-Trolley-Rt-19-NovWeb.pdf,088FD7,FFFFFF
+"Route 21 - Southridge / Trace Fork / Dudley Farms","0","21","Route 21 - Southridge / Trace Fork / Dudley Farms","3",http://rideonkrt.com/wp-content/uploads/2015/11/KVRTA-Rt-21-NovWeb.pdf,23689E,FFFFFF
+"Route 22 - Montgomery / Quincy Mall","0","22","Route 22 - Montgomery / Quincy Mall","3",http://rideonkrt.com/wp-content/uploads/2015/11/KVRTA-Rt-22Q-NovWeb.pdf,A36DA1,FFFFFF
+"Route 23 - Clendenin","0","23","Route 23 - Clendenin","3",http://rideonkrt.com/wp-content/uploads/2015/11/KVRTA-Rt-23-NovWeb.pdf,D85A93,FFFFFF
+"Route 5 - Tyler Mountain / Cross Lanes","0","5","Route 05 - Tyler Mountain / Cross Lanes","3",http://rideonkrt.com/wp-content/uploads/2015/11/KVRTA-Rt-5-NovWeb.pdf,196231,FFFFFF
+"State House Shuttle","0","SHS","Route 99 - State House Shuttle","3",,,
