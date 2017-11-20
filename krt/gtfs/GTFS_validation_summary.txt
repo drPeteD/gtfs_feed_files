@@ -1,3 +1,0 @@
-validating C:\GTFS\GTFS_OUTPUT\GTFS_FILES\
-FeedValidator extension used: None
-ERROR: 90 warnings found
