@@ -1,2 +1,2 @@
 feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date,feed_version
-Dr.Pete.Dailey@gmail.com,http://transit.njrati.net/trt,en,20170101,20171231,20161222.1
+peter.j.dailey@wv.gov,,en,20180101,20181231,20181215.1
