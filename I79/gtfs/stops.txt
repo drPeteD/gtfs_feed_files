@@ -1,4 +1,5 @@
 stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type, parent_station,stop_timezone,wheelchair_boarding
+chasAmtrak,,Charleston,Amtrak Station,350 MacCorkle Avenue SE Adjacent to South Side Bridge,+38.346421,-81.638362,,,0,,,0
 chasGrey,,Greyhound Station,Greyhound Terminal 300 Reynolds St,+38.356860,-81.639510,,,0,,,0
 chasTM,,KRT Transit Mall,Charleston Transit Mall Slack Plaza Laidley St.,+38.352718,-81.633882,,,0,,,0
 clarksburg,,Clarksburg,Kroger 198 Emily Drive,+39.270287,-80.285057,,,0,,,0
