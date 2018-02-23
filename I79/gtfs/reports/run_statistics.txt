@@ -1,3 +1,0 @@
-Fri Mar  4 01:40:31 2016
-   I79 Workbooks: ['Barons_I-Ride-79'].Finished processing.
- END et:40 seconds ts:20:41:10
