@@ -1,2 +1,2 @@
 feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date,feed_version
-peter.j.dailey@wv.gov,https://github.com/drPeteD/gtfs_feed_files/tree/master/fmcta/gtfs,en,20180101,20181231,20181214.1
+peter.j.dailey@wv.gov,https://github.com/drPeteD/gtfs_feed_files/tree/master/fmcta/gtfs,en,20180301,20190228,20180308.1

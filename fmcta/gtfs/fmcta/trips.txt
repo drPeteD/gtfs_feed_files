@@ -113,8 +113,8 @@ Rt9,M-F,R9b,,,,R9
 Rt9,M-F,R9c,,,,R9
 Rt9,M-F,R9d,,,,R9
 Rt9,M-F,R9e,,,,R9
-Rt11,M-F,Rt11a,,,,R11
-Rt11,M-F,Rt11b,,,,R11
+Rt11,Wednesday,Rt11a,,,,R11
+Rt11,Wednesday,Rt11b,,,,R11
 Rt12,M-F,Rt12a,,,,R12
 Rt12,M-F,Rt12b,,,,R12
 Rt12,M-F,Rt12c,,,,R12
