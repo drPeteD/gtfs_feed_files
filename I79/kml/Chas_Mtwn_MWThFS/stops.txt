@@ -1,0 +1,11 @@
+stop_lon,stop_name,stop_lat,stop_id
+-81.6394255,I-ride-79 Greyhound,38.3568463,1
+-81.638636,I-ride-79 Amtrak,38.3463953,0
+-81.357582,I-ride-79 Clendenin,38.517268,3
+-81.6363605,I-ride-79 Transit Mall,38.3525633,2
+-80.4201359,I-ride-79 Weston,39.0200331,5
+-80.6589117,I-ride-79 Lloyds,38.7046675,4
+-80.1362579,I-ride-79 Fairmont,39.4768632,7
+-80.2810891,Clarksburg Kroger,39.2772131,6
+-79.9595779,I-ride-79 Mtn Line,39.6292571,9
+-79.9614628,I-ride-79 Med Center,39.6547012,8

@@ -1,3 +1,3 @@
 service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
-Daily,1,1,1,1,1,1,1,20180301,20190228
-MnWeThFrSu,1,0,1,1,1,0,1,20180301,20190228
+Daily,1,1,1,1,1,1,1,20180601,20190601
+MnWeThFrSu,1,0,1,1,1,0,1,20180601,20190601

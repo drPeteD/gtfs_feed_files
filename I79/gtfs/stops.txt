@@ -1,11 +1,11 @@
 stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type, parent_station,stop_timezone,wheelchair_boarding
-chasAmtrak,,Charleston Amtrak,Amtrak Station,38.346421,-81.638362,,,0,,,0
-chasGrey,,Charleston Greyhound,Greyhound Terminal 300 Reynolds St,38.35686,-81.63951,,,0,,,0
-chasTM,,Charleston Transit Mall,Charleston Transit Mall Slack Plaza Laidley St.,38.352718,-81.633882,,,0,,,0
-clarksburg,,Clarksburg Kroger,Kroger 198 Emily Drive,39.270287,-80.285057,,,0,,,0
-clend,,Clendenin Park & Ride,Park and Ride US 119 at I-79 Exit #19,38.517262,-81.357282,,,0,,,0
-fairmont,,Fairmont Gateway,Gateway Bus Shelter in Round About,39.476893,-80.136163,,,0,,,0
-flatwd,,Flatwoods Lloyds,Lloyds Shell Station 2210 Sutton Ln,38.704688,-80.659071,,,0,,,0
-med_ctr,,Morgantown Medical Center,Mountaineer Station 1112 Van Voorhis Rd,39.654706,-79.961418,,,0,,,0
-ml_depot,,Morgantown Mtn Line,Mountain Line Transit 691 Fairmont Rd.,39.629158,-79.959727,,,0,,,0
-weston,,Weston BFS,BFS Foods 57 Staunton Dr,39.020604,-80.419837,,,0,,,0
+chasAmtrak,,Charleston Amtrak,Amtrak Station,38.346421,-81.638362,1,,0,,,0
+chasGrey,,Charleston Greyhound,Greyhound Terminal 300 Reynolds St,38.35686,-81.63951,1,,0,,,0
+chasTM,,Charleston Transit Mall,Charleston Transit Mall Slack Plaza Laidley St.,38.352718,-81.633882,1,,0,,,0
+clarksburg,,Clarksburg Kroger,Kroger 198 Emily Drive,39.270287,-80.285057,5,,0,,,0
+clend,,Clendenin Park & Ride,Park and Ride US 119 at I-79 Exit #19,38.517262,-81.357282,2,,0,,,0
+fairmont,,Fairmont Gateway,Gateway Bus Shelter in Round About,39.476893,-80.136163,6,,0,,,0
+flatwd,,Flatwoods Lloyds,Lloyds Shell Station 2210 Sutton Ln,38.704688,-80.659071,3,,0,,,0
+med_ctr,,Morgantown Medical Center,Mountaineer Station 1112 Van Voorhis Rd,39.654706,-79.961418,7,,0,,,0
+ml_depot,,Morgantown Mtn Line,Mountain Line Transit 691 Fairmont Rd.,39.629158,-79.959727,7,,0,,,0
+weston,,Weston BFS,BFS Foods 57 Staunton Dr,39.020604,-80.419837,4,,0,,,0
