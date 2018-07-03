@@ -6,5 +6,5 @@ stop_lon,stop_name,stop_lat,stop_id
 -80.6589117,I-ride-79 Lloyds,38.7046675,5
 -80.4201359,I-ride-79 Weston,39.0200331,4
 -81.6363605,I-ride-79 Transit Mall,38.3525633,7
--81.357582,I-ride-79 Clendenin,38.517268,6
+-81.3575343,I-ride-79 Clendenin,38.5174506,6
 -81.6394255,I-ride-79 Greyhound,38.3568463,8

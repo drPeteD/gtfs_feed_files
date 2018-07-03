@@ -1,5 +1,5 @@
 fare_id,price,currency_type,payment_method,transfers,transfer_duration
-szoneN,3,USD,USD,0,,
-1zoneN,5,USD,USD,0,,
-2zoneN,10,USD,USD,0,,
-3zoneN,15,USD,USD,0,,
+szone,3,USD,1,0,
+1zone,5,USD,1,0,
+2zone,10,USD,1,0,
+3zone,15,USD,1,0,
