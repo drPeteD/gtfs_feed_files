@@ -1,5 +1,5 @@
 route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,shape_id,wheelchair_accessible,bikes_allowed
 I79,MnWeThFrSu,Barons_I-Ride-79-North_MWThFSu,,,,,Chas_Mtwn_7,1,
 I79,Daily,Barons_I-Ride-79-North_daily,,,,,Chas_Mtwn_MWThFS,1,
-I79,MnWeThFrSu,Barons_I-Ride-79-South_MWThFSu,,,,,Mtwn_Chas_7,1,
-I79,Daily,Barons_I-Ride-79-South_daily,,,,,Mtwn_ChasMWThFS,1,
+I79,MnWeThFrSu,Barons_I-Ride-79-South_MWThFSu,,,,,Mtwn_ChasMWThFS,1,
+I79,Daily,Barons_I-Ride-79-South_daily,,,,,Mtw_Chas_7,1,
