@@ -1,5 +1,6 @@
 fare_id,price,currency_type,payment_method,transfers,transfer_duration
-szone,3,USD,1,0,
+same_zone,5,USD,1,0,
+short_zone,3,USD,1,0,
 1zone,5,USD,1,0,
 2zone,10,USD,1,0,
 3zone,15,USD,1,0,
