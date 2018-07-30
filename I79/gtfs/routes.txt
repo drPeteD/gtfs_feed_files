@@ -1,2 +1,2 @@
 route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
-I79,I79,,I-Ride 79,,3,https://baronsbus.com/i-ride-79-bus-service/,,
+I79,I79,,I-Ride 79,,3,,,
