@@ -1,4 +1,4 @@
 service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
-M-F,1,1,1,1,1,0,0,20180101,20181231
-Saturday,0,0,0,0,0,1,0,20180301,20190228
-Wednesday,0,0,1,0,0,0,0,20180301,20190228
+M-F,1,1,1,1,1,0,0,20190101,20191231
+Saturday,0,0,0,0,0,1,0,20190101,20191231
+Wednesday,0,0,1,0,0,0,0,20190101,20191231
