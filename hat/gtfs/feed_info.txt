@@ -1,2 +1,2 @@
 feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date, feed_version
-peter.j.dailey@wv.gov,http://www.hereandtheretransit.com,en,20180101,20181231,20181214.1
+peter.j.dailey@wv.gov,http://www.hereandtheretransit.com,en,20190101,20191231,20181218.1
