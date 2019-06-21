@@ -1,2 +1,2 @@
 feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date,feed_version
-Peter.J.Dailey@wv.gov,https://github.com/drPeteD/gtfs_feed_files,en, 20180701, 20190701, 20180730.1
+Peter.J.Dailey@wv.gov,https://github.com/drPeteD/gtfs_feed_files,en, 20190801, 20200801, 20190621.1
