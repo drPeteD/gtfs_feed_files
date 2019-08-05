@@ -1,0 +1,4 @@
+fare_id,route_id,origin_id,destination_id,contains_id
+krt_day_pass,,,,
+krt_one_trip,,,,
+krt_free,"SHS_State House Shuttle_Route 99 - State House Shuttle_000000",,,
